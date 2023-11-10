@@ -1,0 +1,46 @@
+ERROR:root:Erro ao conectar com o banco de dados offline: DatabaseManager.__init__() got an unexpected keyword argument 'table'
+ERROR:root:Erro ao conectar com o banco de dados offline: DatabaseManager.__init__() got an unexpected keyword argument 'table'
+ERROR:root:Erro ao ler o ultimo ID sincronizado: 'DatabaseManager' object has no attribute 'table_sincronizacao'
+ERROR:root:Erro ao conectar com o banco de dados offline: DatabaseManager.__init__() got an unexpected keyword argument 'table'
+ERROR:root:Erro ao ler o ultimo ID sincronizado: 'DatabaseManager' object has no attribute 'table_sincronizacao'
+ERROR:root:Erro ao ler o ultimo ID sincronizado: 'DatabaseManager' object is not subscriptable
+ERROR:root:Erro ao ler o ultimo ID sincronizado: 'DatabaseManager' object is not subscriptable
+ERROR:root:Erro ao ler o ultimo ID sincronizado: 'DatabaseManager' object is not subscriptable
+ERROR:root:Erro ao ler o ultimo ID sincronizado: 'DatabaseManager' object is not subscriptable
+ERROR:root:Erro ao ler o ultimo ID sincronizado: 'DatabaseManager' object is not subscriptable
+ERROR:root:Erro ao ler o ultimo ID sincronizado: 'DatabaseManager' object is not subscriptable
+ERROR:root:Erro ao ler o ultimo ID sincronizado: 'DatabaseManager' object has no attribute 'get'
+ERROR:root:Erro ao conectar com o banco de dados offline: name 'db_offline' is not defined
+ERROR:root:Erro ao ler o ultimo ID sincronizado: 'NoneType' object has no attribute 'cursor'
+ERROR:root:Erro ao ler o ultimo ID sincronizado: 'NoneType' object has no attribute 'cursor'
+ERROR:root:Erro ao ler o ultimo ID sincronizado: 'NoneType' object has no attribute 'cursor'
+ERROR:root:Erro ao conectar com o banco de dados offline: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'
+ERROR:root:Erro ao conectar com o banco de dados offline: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'
+ERROR:root:Erro ao conectar com o banco de dados offline: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'
+ERROR:root:Erro ao ler o ultimo ID sincronizado: 'NoneType' object has no attribute 'cursor'
+ERROR:root:Erro ao ler o ultimo ID sincronizado: 'NoneType' object has no attribute 'cursor'
+ERROR:root:Erro ao conectar com o banco de dados offline: 'DatabaseManager' object has no attribute 'connection'
+ERROR:root:Erro ao ler o ultimo ID sincronizado: 'DatabaseManager' object has no attribute 'connection'
+ERROR:root:Erro ao ler o ultimo ID sincronizado: 'NoneType' object has no attribute 'cursor'
+ERROR:root:Erro ao ler o ultimo ID sincronizado: 'NoneType' object has no attribute 'cursor'
+ERROR:root:Erro ao ler o ultimo ID sincronizado: 'NoneType' object has no attribute 'cursor'
+ERROR:root:Erro ao ler o ultimo ID sincronizado: 'NoneType' object has no attribute 'cursor'
+ERROR:root:Erro ao ler o ultimo ID sincronizado: Execution failed on sql 'SELECT * FROM cgh_maria_luz_sincronizacao_local': 1146 (42S02): Table 'engesepdb.cgh_maria_luz_sincronizacao_local' doesn't exist
+ERROR:root:Erro ao conectar com o banco de dados offline: DatabaseManager.read_data() takes 2 positional arguments but 3 were given
+ERROR:root:Erro ao conectar com o banco de dados offline: Execution failed on sql 'SELECT * FROM None WHERE id >= 1': 1146 (42S02): Table 'engesepdb.none' doesn't exist
+ERROR:root:Erro ao conectar com o banco de dados offline: name 'table_sincronizacao' is not defined
+ERROR:root:Erro ao conectar com o banco de dados offline: DatabaseManager.insert_data() missing 1 required positional argument: 'values_list'
+ERROR:root:Erro ao conectar com o banco de dados offline: 'DatabaseManager' object has no attribute 'insert_simply'
+ERROR:root:Erro ao conectar com o banco de dados offline: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''id_sincronizado', 'qtd_registros_sincronizados')) VALUES ((4403, 4403))' at line 1
+ERROR:root:Erro ao conectar com o banco de dados offline: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''id_sincronizado', 'qtd_registros_sincronizados') VALUES (4403, 4403)' at line 1
+ERROR:root:Erro ao conectar com o banco de dados offline: DatabaseManager.insert_sincronizacao() takes 3 positional arguments but 4 were given
+ERROR:root:Erro ao conectar com o banco de dados offline: index -1 is out of bounds for axis 0 with size 0
+ERROR:root:Erro ao conectar com o banco de dados offline: index -1 is out of bounds for axis 0 with size 0
+ERROR:root:Erro ao conectar com o banco de dados offline: index -1 is out of bounds for axis 0 with size 0
+ERROR:root:Erro ao conectar com o banco de dados offline: Errors occurred during insertion. See logs for details.
+ERROR:root:Erro ao conectar com o banco de dados offline: Errors occurred during insertion. See logs for details.
+ERROR:root:Erro ao conectar com o banco de dados offline: name 'dados' is not defined
+ERROR:root:Erro ao conectar com o banco de dados offline: name 'dados' is not defined
+ERROR:root:Erro ao conectar com o banco de dados offline: Errors occurred during insertion. See logs for details.
+ERROR:root:Erro ao conectar com o banco de dados offline: 1146 (42S02): Table 'railway.sincronizacao_cgh_granada' doesn't exist
+ERROR:root:Erro ao conectar com o banco de dados offline: name 'dados_online' is not defined

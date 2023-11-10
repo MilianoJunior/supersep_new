@@ -1,0 +1,2553 @@
+UAC command execution result : succeeds,SuperSEP,PLW_Bit,895100,,Undesignated
+UAC command execution result : invalid command,SuperSEP,PLW_Bit,895101,,Undesignated
+UAC command execution result : account exists,SuperSEP,PLW_Bit,895102,,Undesignated
+UAC command execution result : account not exists,SuperSEP,PLW_Bit,895103,,Undesignated
+UAC command execution result : password error,SuperSEP,PLW_Bit,895104,,Undesignated
+UAC command execution result : deny command,SuperSEP,PLW_Bit,895105,,Undesignated
+UAC command execution result : invalid name,SuperSEP,PLW_Bit,895106,,Undesignated
+UAC command execution result : invalid password character exists,SuperSEP,PLW_Bit,895107,,Undesignated
+UAC command execution result : invalid import data,SuperSEP,PLW_Bit,895108,,Undesignated
+UAC command execution result : out of validity range,SuperSEP,PLW_Bit,895109,,Undesignated
+UAC privilege (Class A ),SuperSEP,PLW_Bit,895300,,Undesignated
+UAC privilege (Class B ),SuperSEP,PLW_Bit,895301,,Undesignated
+UAC privilege (Class C ),SuperSEP,PLW_Bit,895302,,Undesignated
+UAC privilege (Class D ),SuperSEP,PLW_Bit,895303,,Undesignated
+UAC privilege (Class E ),SuperSEP,PLW_Bit,895304,,Undesignated
+UAC privilege (Class F ),SuperSEP,PLW_Bit,895305,,Undesignated
+UAC privilege (Class G ),SuperSEP,PLW_Bit,895306,,Undesignated
+UAC privilege (Class H ),SuperSEP,PLW_Bit,895307,,Undesignated
+UAC privilege (Class I ),SuperSEP,PLW_Bit,895308,,Undesignated
+UAC privilege (Class J ),SuperSEP,PLW_Bit,895309,,Undesignated
+UAC privilege (Class K ),SuperSEP,PLW_Bit,895310,,Undesignated
+UAC privilege (Class L ),SuperSEP,PLW_Bit,895311,,Undesignated
+UAC command,SuperSEP,PLW,8950,,Undesignated
+UAC command execution result,SuperSEP,PLW,8951,,Undesignated
+UAC user index,SuperSEP,PLW,8952,,Undesignated
+UAC user privilege,SuperSEP,PLW,8953,,Undesignated
+UAC user name,SuperSEP,PLW,8954,,Undesignated
+UAC password,SuperSEP,PLW,8962,,Undesignated
+TelaLogin,SuperSEP,LW,225,,16-bit BCD
+Login,SuperSEP,PLB,9,,Undesignated
+Info2,SuperSEP,PLB,10,,Undesignated
+Delete Account,SuperSEP,PLB,54,,Undesignated
+"Set Privilege ",SuperSEP,PLB,53,,Undesignated
+Add Account,SuperSEP,PLB,51,,Undesignated
+Set Password,SuperSEP,PLB,52,,Undesignated
+Escala_Grafico,SuperSEP,LW,1500,,32-bit Float
+Site_EngeSEP,SuperSEP,LW,12900,www.engesep.com.br,Undesignated
+Tag_Zoom,SuperSEP,LB,12823,test zoom,Undesignated
+Tag_zoom_a,SuperSEP,LW,12825,,Undesignated
+UAC command execution result : succeeds_1,SuperSEP,PLW_Bit,895100,,Undesignated
+UAC command execution result : invalid command_1,SuperSEP,PLW_Bit,895101,,Undesignated
+UAC command execution result : account exists_1,SuperSEP,PLW_Bit,895102,,Undesignated
+UAC command execution result : account not exists_1,SuperSEP,PLW_Bit,895103,,Undesignated
+UAC command execution result : password error_1,SuperSEP,PLW_Bit,895104,,Undesignated
+UAC command execution result : deny command_1,SuperSEP,PLW_Bit,895105,,Undesignated
+UAC command execution result : invalid name_1,SuperSEP,PLW_Bit,895106,,Undesignated
+UAC command execution result : invalid password character exists_1,SuperSEP,PLW_Bit,895107,,Undesignated
+UAC command execution result : invalid import data_1,SuperSEP,PLW_Bit,895108,,Undesignated
+UAC command execution result : out of validity range_1,SuperSEP,PLW_Bit,895109,,Undesignated
+UAC privilege (Class A )_1,SuperSEP,PLW_Bit,895300,,Undesignated
+UAC privilege (Class B )_1,SuperSEP,PLW_Bit,895301,,Undesignated
+UAC privilege (Class C )_1,SuperSEP,PLW_Bit,895302,,Undesignated
+UAC privilege (Class D )_1,SuperSEP,PLW_Bit,895303,,Undesignated
+UAC privilege (Class E )_1,SuperSEP,PLW_Bit,895304,,Undesignated
+UAC privilege (Class F )_1,SuperSEP,PLW_Bit,895305,,Undesignated
+UAC privilege (Class G )_1,SuperSEP,PLW_Bit,895306,,Undesignated
+UAC privilege (Class H )_1,SuperSEP,PLW_Bit,895307,,Undesignated
+UAC privilege (Class I )_1,SuperSEP,PLW_Bit,895308,,Undesignated
+UAC privilege (Class J )_1,SuperSEP,PLW_Bit,895309,,Undesignated
+UAC privilege (Class K )_1,SuperSEP,PLW_Bit,895310,,Undesignated
+UAC privilege (Class L )_1,SuperSEP,PLW_Bit,895311,,Undesignated
+UAC command_1,SuperSEP,PLW,8950,,Undesignated
+UAC command execution result_1,SuperSEP,PLW,8951,,Undesignated
+UAC user index_1,SuperSEP,PLW,8952,,Undesignated
+UAC user privilege_1,SuperSEP,PLW,8953,,Undesignated
+UAC user name_1,SuperSEP,PLW,8954,,Undesignated
+UAC password_1,SuperSEP,PLW,8962,,Undesignated
+TelaLogin_1,SuperSEP,LW,225,,16-bit BCD
+Login_1,SuperSEP,PLB,9,,Undesignated
+Info2_1,SuperSEP,PLB,10,,Undesignated
+Delete Account_1,SuperSEP,PLB,54,,Undesignated
+Set Privilege _1,SuperSEP,PLB,53,,Undesignated
+Add Account_1,SuperSEP,PLB,51,,Undesignated
+Set Password_1,SuperSEP,PLB,52,,Undesignated
+Escala_Grafico_1,SuperSEP,LW,1500,,32-bit Float
+Site_EngeSEP_1,SuperSEP,LW,12900,www.engesep.com.br,Undesignated
+Tag_Zoom_1,SuperSEP,LB,12823,test zoom,Undesignated
+Tag_zoom_a_1,SuperSEP,LW,12825,,Undesignated
+canais_graficos,SuperSEP,LW,3300,,Undesignated
+UG01_Leituras.Gerador_EnergiaFornecidakWh,UG01_750_852,4x,13383,,32-bit Float
+UG01_Leituras.Gerador_EnergiaFornecidaMWh,UG01_750_852,4x,13385,,32-bit Float
+UG01_Leituras.Gerador_EnergiaFornecidaGWh,UG01_750_852,4x,13387,,32-bit Float
+UG01_Leituras.Gerador_EnergiaFornecidakVArh,UG01_750_852,4x,13389,,32-bit Float
+UG01_Leituras.Gerador_EnergiaFornecidaMVArh,UG01_750_852,4x,13391,,32-bit Float
+UG01_Leituras.Gerador_EnergiaFornecidaGVArh,UG01_750_852,4x,13393,,32-bit Float
+UG01_Leituras.Gerador_EnergiaConsumidakWh,UG01_750_852,4x,13395,,32-bit Float
+UG01_Leituras.Gerador_EnergiaConsumidaMWh,UG01_750_852,4x,13397,,32-bit Float
+UG01_Leituras.Gerador_EnergiaConsumidaGWh,UG01_750_852,4x,13399,,32-bit Float
+UG01_Leituras.Gerador_EnergiaConsumidakVArh,UG01_750_852,4x,13401,,32-bit Float
+UG01_Leituras.Gerador_EnergiaConsumidaMVArh,UG01_750_852,4x,13403,,32-bit Float
+UG01_Leituras.Gerador_EnergiaConsumidaGVArh,UG01_750_852,4x,13405,,32-bit Float
+UG01_Leituras.UHLM_PressaoOleo,UG01_750_852,4x,13289,,Undesignated
+UG01_Leituras.UHLM_VazaoOleo,UG01_750_852,4x,13290,,Undesignated
+UG01_Leituras.Reserva_13291,UG01_750_852,4x,13291,,Undesignated
+UG01_Leituras.Reserva_13292,UG01_750_852,4x,13292,,Undesignated
+UG01_Leituras.Reserva_13293,UG01_750_852,4x,13293,,Undesignated
+UG01_Leituras.Reserva_13294,UG01_750_852,4x,13294,,Undesignated
+UG01_Leituras.UHRV_PressaoOleo,UG01_750_852,4x,13295,,Undesignated
+UG01_Leituras.Reserva_13296,UG01_750_852,4x,13296,,Undesignated
+UG01_Leituras.Reserva_13297,UG01_750_852,4x,13297,,Undesignated
+UG01_Leituras.Reserva_13298,UG01_750_852,4x,13298,,Undesignated
+UG01_Leituras.Reserva_13299,UG01_750_852,4x,13299,,Undesignated
+UG01_Leituras.Reserva_13300,UG01_750_852,4x,13300,,Undesignated
+UG01_Leituras.Turbina_Pressao_JusanteBorboleta,UG01_750_852,4x,13301,,Undesignated
+UG01_Leituras.Turbina_Pressao_MontanteBorboleta,UG01_750_852,4x,13302,,Undesignated
+UG01_Leituras.Turbina_PosicaoDistribuidor,UG01_750_852,4x,13303,,32-bit Float
+UG01_Leituras.Turbina_PosicaoRotor,UG01_750_852,4x,13305,,32-bit Float
+UG01_Leituras.Turbina_Velocidade,UG01_750_852,4x,13307,,Undesignated
+UG01_Leituras.Turbina_Vazao,UG01_750_852,4x,13308,,Undesignated
+UG01_Leituras.Turbina_Tempo_AberturaBorboleta,UG01_750_852,4x,13309,,Undesignated
+UG01_Leituras.Turbina_Tempo_AberturaBorboleta_Minuto,UG01_750_852,4x,13311,,Undesignated
+UG01_Leituras.Turbina_Tempo_FechamentoBorboleta,UG01_750_852,4x,13313,,Undesignated
+UG01_Leituras.Turbina_Tempo_FechamentoBorboleta_Minuto,UG01_750_852,4x,13315,,Undesignated
+UG01_Leituras.Turbina_Tempo_AberturaByPass,UG01_750_852,4x,13317,,Undesignated
+UG01_Leituras.Turbina_Tempo_AberturaByPass_Minuto,UG01_750_852,4x,13319,,Undesignated
+UG01_Leituras.Turbina_Tempo_FechamentoByPass,UG01_750_852,4x,13321,,Undesignated
+UG01_Leituras.Turbina_Tempo_FechamentoByPass_Minuto,UG01_750_852,4x,13323,,Undesignated
+UG01_Leituras.Turbina_TempoEqualizacao,UG01_750_852,4x,13325,,Undesignated
+UG01_Leituras.Turbina_TempoEqualizacao_Minuto,UG01_750_852,4x,13327,,Undesignated
+UG01_Leituras.Turbina_Vibracao01,UG01_750_852,4x,13329,,Undesignated
+UG01_Leituras.Turbina_Vibracao02,UG01_750_852,4x,13330,,Undesignated
+UG01_Leituras.Turbina_Vibracao03,UG01_750_852,4x,13331,,Undesignated
+UG01_Leituras.Turbina_Vibracao04,UG01_750_852,4x,13332,,Undesignated
+UG01_Leituras.Turbina_Vibracao05,UG01_750_852,4x,13333,,Undesignated
+UG01_Leituras.Turbina_Vibracao06,UG01_750_852,4x,13334,,Undesignated
+UG01_Leituras.Turbina_Vibracao07,UG01_750_852,4x,13335,,Undesignated
+UG01_Leituras.Turbina_Vibracao08,UG01_750_852,4x,13336,,Undesignated
+UG01_Leituras.Turbina_Vibracao09,UG01_750_852,4x,13337,,Undesignated
+UG01_Leituras.Turbina_Vibracao10,UG01_750_852,4x,13338,,Undesignated
+UG01_Leituras.Reserva_13337,UG01_750_852,4x,13339,,Undesignated
+UG01_Leituras.Reserva_13338,UG01_750_852,4x,13340,,Undesignated
+UG01_Leituras.Reserva_13339,UG01_750_852,4x,13341,,Undesignated
+UG01_Leituras.Reserva_13340,UG01_750_852,4x,13342,,Undesignated
+UG01_Leituras.Reserva_13341,UG01_750_852,4x,13343,,Undesignated
+UG01_Leituras.Reserva_13342,UG01_750_852,4x,13344,,Undesignated
+UG01_Leituras.Reserva_13343,UG01_750_852,4x,13345,,Undesignated
+UG01_Leituras.Reserva_13344,UG01_750_852,4x,13346,,Undesignated
+UG01_Leituras.Reserva_13345,UG01_750_852,4x,13347,,Undesignated
+UG01_Leituras.Reserva_13346,UG01_750_852,4x,13348,,Undesignated
+UG01_Leituras.F50_U_FaseAB,UG01_750_852,4x,13349,,Undesignated
+UG01_Leituras.F50_U_FaseBC,UG01_750_852,4x,13350,,Undesignated
+UG01_Leituras.F50_U_FaseCA,UG01_750_852,4x,13351,,Undesignated
+UG01_Leituras.F50_U_FaseAN,UG01_750_852,4x,13352,,Undesignated
+UG01_Leituras.F50_U_FaseBN,UG01_750_852,4x,13353,,Undesignated
+UG01_Leituras.F50_U_FaseCN,UG01_750_852,4x,13354,,Undesignated
+UG01_Leituras.F50_I_FaseA,UG01_750_852,4x,13355,,Undesignated
+UG01_Leituras.F50_I_FaseB,UG01_750_852,4x,13356,,Undesignated
+UG01_Leituras.F50_I_FaseC,UG01_750_852,4x,13357,,Undesignated
+UG01_Leituras.F50_I_Neutro,UG01_750_852,4x,13358,,Undesignated
+UG01_Leituras.F50_P_INST,UG01_750_852,4x,13359,,16-bit Unsigned
+UG01_Leituras.F50_Q_INST,UG01_750_852,4x,13360,,Undesignated
+UG01_Leituras.F50_S_INST,UG01_750_852,4x,13361,,Undesignated
+UG01_Leituras.F50_PF_INST,UG01_750_852,4x,13362,,Undesignated
+UG01_Leituras.F50_FHz_INST,UG01_750_852,4x,13363,,Undesignated
+UG01_Leituras.F50_U_Seq_Pos,UG01_750_852,4x,13364,,Undesignated
+UG01_Leituras.F50_U_Seq_Neg,UG01_750_852,4x,13365,,Undesignated
+UG01_Leituras.F50_U_Seq_Zero,UG01_750_852,4x,13366,,Undesignated
+UG01_Leituras.F50_I_Seq_Pos,UG01_750_852,4x,13367,,Undesignated
+UG01_Leituras.F50_I_Seq_Neg,UG01_750_852,4x,13368,,Undesignated
+UG01_Leituras.F50_I_Seq_Zero,UG01_750_852,4x,13369,,Undesignated
+UG01_Leituras.Reserva_13368,UG01_750_852,4x,13370,,Undesignated
+UG01_Leituras.Reserva_13369,UG01_750_852,4x,13371,,Undesignated
+UG01_Leituras.Reserva_13370,UG01_750_852,4x,13372,,Undesignated
+UG01_Leituras.Reserva_13371,UG01_750_852,4x,13373,,Undesignated
+UG01_Leituras.Reserva_13372,UG01_750_852,4x,13374,,Undesignated
+UG01_Leituras.Reserva_13373,UG01_750_852,4x,13375,,Undesignated
+UG01_Leituras.Reserva_13374,UG01_750_852,4x,13376,,Undesignated
+UG01_Leituras.Reserva_13375,UG01_750_852,4x,13377,,Undesignated
+UG01_Leituras.Reserva_13376,UG01_750_852,4x,13378,,Undesignated
+UG01_Leituras.Gerador_Vbarra,UG01_750_852,4x,13379,,Undesignated
+UG01_Leituras.Gerador_ExcitacaoTensao,UG01_750_852,4x,13380,,Undesignated
+UG01_Leituras.Gerador_ExcitacaoCorrente,UG01_750_852,4x,13381,,Undesignated
+UG01_Leituras.Gerador_Media_Varm,UG01_750_852,4x,13407,,Undesignated
+UG01_Leituras.Gerador_Media_Iarm,UG01_750_852,4x,1340,,Undesignated
+UG01_Leituras.MED_750450_AR1_RTD1,UG01_750_852,4x,13409,,32-bit Float
+UG01_Leituras.MED_750450_AR1_RTD2,UG01_750_852,4x,13411,,32-bit Float
+UG01_Leituras.MED_750450_AR1_RTD3,UG01_750_852,4x,13413,,32-bit Float
+UG01_Leituras.MED_750450_AR1_RTD4,UG01_750_852,4x,13415,,32-bit Float
+UG01_Leituras.MED_750450_AR2_RTD1,UG01_750_852,4x,13417,,32-bit Float
+UG01_Leituras.MED_750450_AR2_RTD2,UG01_750_852,4x,13419,,32-bit Float
+UG01_Leituras.MED_750450_AR2_RTD3,UG01_750_852,4x,13421,,32-bit Float
+UG01_Leituras.MED_750450_AR2_RTD4,UG01_750_852,4x,13423,,32-bit Float
+UG01_Leituras.MED_750450_AR3_RTD1,UG01_750_852,4x,13425,,32-bit Float
+UG01_Leituras.MED_750450_AR3_RTD2,UG01_750_852,4x,13427,,32-bit Float
+UG01_Leituras.MED_750450_AR3_RTD3,UG01_750_852,4x,13429,,32-bit Float
+UG01_Leituras.MED_750450_AR3_RTD4,UG01_750_852,4x,13431,,32-bit Float
+UG01_Leituras.MED_750450_AR4_RTD1,UG01_750_852,4x,13433,,32-bit Float
+UG01_Leituras.MED_750450_AR4_RTD2,UG01_750_852,4x,13435,,32-bit Float
+UG01_Leituras.MED_750450_AR4_RTD3,UG01_750_852,4x,13437,,32-bit Float
+UG01_Leituras.MED_750450_AR4_RTD4,UG01_750_852,4x,13439,,32-bit Float
+UG01_Leituras.MED_750450_AR5_RTD1,UG01_750_852,4x,13441,,32-bit Float
+UG01_Leituras.MED_750450_AR5_RTD2,UG01_750_852,4x,13443,,32-bit Float
+UG01_Leituras.MED_750450_AR5_RTD3,UG01_750_852,4x,13445,,32-bit Float
+UG01_Leituras.MED_750450_AR5_RTD4,UG01_750_852,4x,13447,,32-bit Float
+UG01_Leituras.MED_750450_AR6_RTD1,UG01_750_852,4x,13449,,32-bit Float
+UG01_Leituras.MED_750450_AR6_RTD2,UG01_750_852,4x,13451,,32-bit Float
+UG01_Leituras.MED_750450_AR6_RTD3,UG01_750_852,4x,13453,,32-bit Float
+UG01_Leituras.MED_750450_AR6_RTD4,UG01_750_852,4x,13455,,32-bit Float
+UG01_Leituras.MED_750450_AR7_RTD1,UG01_750_852,4x,13457,,32-bit Float
+UG01_Leituras.MED_750450_AR7_RTD2,UG01_750_852,4x,13459,,32-bit Float
+UG01_Leituras.MED_750450_AR7_RTD3,UG01_750_852,4x,13461,,32-bit Float
+UG01_Leituras.MED_750450_AR7_RTD4,UG01_750_852,4x,13463,,32-bit Float
+UG01_Leituras.MED_750450_AR8_RTD1,UG01_750_852,4x,13465,,32-bit Float
+UG01_Leituras.MED_750450_AR8_RTD2,UG01_750_852,4x,13467,,32-bit Float
+UG01_Leituras.MED_750450_AR8_RTD3,UG01_750_852,4x,13469,,32-bit Float
+UG01_Leituras.MED_750450_AR8_RTD4,UG01_750_852,4x,13471,,32-bit Float
+UG01_Leituras.QCC_NivelMontante_Grade,UG01_750_852,4x,13473,,Undesignated
+UG01_Leituras.QCC_NivelJusante_Grade,UG01_750_852,4x,13474,,Undesignated
+UG01_Leituras.QTA_NivelJusante_CanalFuga,UG01_750_852,4x,13475,,Undesignated
+UG01_Leituras.QTA_NivelMontante_Grade,UG01_750_852,4x,13476,,Undesignated
+UG01_Leituras.QTA_NivelJusante_Grade,UG01_750_852,4x,13477,,Undesignated
+UG01_Comandos.Emergencia_Local,UG01_750_852,1x,12289,,Undesignated
+UG01_Comandos.Emergencia_SuperSEP,UG01_750_852,1x,12290,,Undesignated
+UG01_Comandos.Ctrl_Modo_Manual_Habilitar,UG01_750_852,1x,12291,,Undesignated
+UG01_Comandos.Ctrl_Modo_Manual_Desabilitar,UG01_750_852,1x,12292,,Undesignated
+UG01_Comandos.Ctrl_Modo_Automatico_Habilitar,UG01_750_852,1x,12293,,Undesignated
+UG01_Comandos.Ctrl_Modo_Automatico_Desabilitar,UG01_750_852,1x,12294,,Undesignated
+UG01_Comandos.Reserva_12995,UG01_750_852,1x,12295,,Undesignated
+UG01_Comandos.Reserva_12996,UG01_750_852,1x,12296,,Undesignated
+UG01_Comandos.Reserva_12997,UG01_750_852,1x,12297,,Undesignated
+UG01_Comandos.Reserva_12998,UG01_750_852,1x,12298,,Undesignated
+UG01_Comandos.Reserva_12999,UG01_750_852,1x,12299,,Undesignated
+UG01_Comandos.Reserva_12300,UG01_750_852,1x,12300,,Undesignated
+UG01_Comandos.Reserva_12301,UG01_750_852,1x,12301,,Undesignated
+UG01_Comandos.Reserva_12302,UG01_750_852,1x,12302,,Undesignated
+UG01_Comandos.Reserva_12303,UG01_750_852,1x,12303,,Undesignated
+UG01_Comandos.Reserva_12304,UG01_750_852,1x,12304,,Undesignated
+UG01_Comandos.ModoAuto_Reset,UG01_750_852,1x,12305,,Undesignated
+UG01_Comandos.ModoAuto_SelecionaAlvoUP,UG01_750_852,1x,12306,,Undesignated
+UG01_Comandos.ModoAuto_SelecionaAlvoUPGM,UG01_750_852,1x,12307,,Undesignated
+UG01_Comandos.ModoAuto_SelecionaAlvoUMD,UG01_750_852,1x,12308,,Undesignated
+UG01_Comandos.ModoAuto_SelecionaAlvoUPS,UG01_750_852,1x,12309,,Undesignated
+UG01_Comandos.ModoAuto_SelecionaAlvoUS,UG01_750_852,1x,12310,,Undesignated
+UG01_Comandos.Reserva_12311,UG01_750_852,1x,12311,,Undesignated
+UG01_Comandos.Reserva_12312,UG01_750_852,1x,12312,,Undesignated
+UG01_Comandos.Reserva_12313,UG01_750_852,1x,12313,,Undesignated
+UG01_Comandos.Reserva_12314,UG01_750_852,1x,12314,,Undesignated
+UG01_Comandos.Reserva_12315,UG01_750_852,1x,12315,,Undesignated
+UG01_Comandos.Reserva_12316,UG01_750_852,1x,12316,,Undesignated
+UG01_Comandos.Reserva_12317,UG01_750_852,1x,12317,,Undesignated
+UG01_Comandos.Reserva_12318,UG01_750_852,1x,12318,,Undesignated
+UG01_Comandos.Reserva_12319,UG01_750_852,1x,12319,,Undesignated
+UG01_Comandos.Reserva_12320,UG01_750_852,1x,12320,,Undesignated
+UG01_Comandos.CtrlP_Ligar,UG01_750_852,1x,12321,,Undesignated
+UG01_Comandos.CtrlP_Desligar,UG01_750_852,1x,12322,,Undesignated
+UG01_Comandos.CtrlP_ReligamentoLigar,UG01_750_852,1x,12323,,Undesignated
+UG01_Comandos.CtrlP_ReligamentoDesligar,UG01_750_852,1x,12324,,Undesignated
+UG01_Comandos.CtrlQ_ModoFPLigar,UG01_750_852,1x,12325,,Undesignated
+UG01_Comandos.CtrlQ_ModoFPDesligar,UG01_750_852,1x,12326,,Undesignated
+UG01_Comandos.CtrlQ_ModoVARLigar,UG01_750_852,1x,12327,,Undesignated
+UG01_Comandos.CtrlQ_ModoVARDesligar,UG01_750_852,1x,12328,,Undesignated
+UG01_Comandos.CtrlU_CmdModoReativo,UG01_750_852,1x,12329,,Undesignated
+UG01_Comandos.CtrlU_CmdModoFP,UG01_750_852,1x,12330,,Undesignated
+UG01_Comandos.CtrlU_CmdModoManual,UG01_750_852,1x,12331,,Undesignated
+UG01_Comandos.Reserva_12332,UG01_750_852,1x,12332,,Undesignated
+UG01_Comandos.Reserva_12333,UG01_750_852,1x,12333,,Undesignated
+UG01_Comandos.Reserva_12334,UG01_750_852,1x,12334,,Undesignated
+UG01_Comandos.Reserva_12335,UG01_750_852,1x,12335,,Undesignated
+UG01_Comandos.Reserva_12336,UG01_750_852,1x,12336,,Undesignated
+UG01_Comandos.Reserva_12337,UG01_750_852,1x,12337,,Undesignated
+UG01_Comandos.Reserva_12338,UG01_750_852,1x,12338,,Undesignated
+UG01_Comandos.Reserva_12339,UG01_750_852,1x,12339,,Undesignated
+UG01_Comandos.Reserva_12340,UG01_750_852,1x,12340,,Undesignated
+UG01_Comandos.Reserva_12341,UG01_750_852,1x,12341,,Undesignated
+UG01_Comandos.Reserva_12342,UG01_750_852,1x,12342,,Undesignated
+UG01_Comandos.Reserva_12343,UG01_750_852,1x,12343,,Undesignated
+UG01_Comandos.Reserva_12344,UG01_750_852,1x,12344,,Undesignated
+UG01_Comandos.Reserva_12345,UG01_750_852,1x,12345,,Undesignated
+UG01_Comandos.Reserva_12346,UG01_750_852,1x,12346,,Undesignated
+UG01_Comandos.Reserva_12347,UG01_750_852,1x,12347,,Undesignated
+UG01_Comandos.Reserva_12348,UG01_750_852,1x,12348,,Undesignated
+UG01_Comandos.Reserva_12349,UG01_750_852,1x,12349,,Undesignated
+UG01_Comandos.Reserva_12350,UG01_750_852,1x,12350,,Undesignated
+UG01_Comandos.Reserva_12351,UG01_750_852,1x,12351,,Undesignated
+UG01_Comandos.Reserva_12352,UG01_750_852,1x,12352,,Undesignated
+UG01_Comandos.UHLM_Bomba01_Ligar,UG01_750_852,1x,12353,,Undesignated
+UG01_Comandos.UHLM_Bomba01_Desligar,UG01_750_852,1x,12354,,Undesignated
+UG01_Comandos.UHLM_Bomba02_Ligar,UG01_750_852,1x,12355,,Undesignated
+UG01_Comandos.UHLM_Bomba02_Desligar,UG01_750_852,1x,12356,,Undesignated
+UG01_Comandos.UHLM_ResAquec_Ligar,UG01_750_852,1x,12357,,Undesignated
+UG01_Comandos.UHLM_ResAquec_Desligar,UG01_750_852,1x,12358,,Undesignated
+UG01_Comandos.UHLM_TrocCalor_Bomba01_Ligar,UG01_750_852,1x,12359,,Undesignated
+UG01_Comandos.UHLM_TrocCalor_Bomba01_Desligar,UG01_750_852,1x,12360,,Undesignated
+UG01_Comandos.UHLM_Jacking_Ligar,UG01_750_852,1x,12361,,Undesignated
+UG01_Comandos.UHLM_Jacking_Desligar,UG01_750_852,1x,12362,,Undesignated
+UG01_Comandos.UHLM_SelecaoBomba01_Principal,UG01_750_852,1x,12363,,Undesignated
+UG01_Comandos.UHLM_SelecaoBomba02_Principal,UG01_750_852,1x,12364,,Undesignated
+UG01_Comandos.UHLM_RodizioManual,UG01_750_852,1x,12365,,Undesignated
+UG01_Comandos.UHLM_RodizioAutomatico,UG01_750_852,1x,12366,,Undesignated
+UG01_Comandos.Reserva_12367,UG01_750_852,1x,12367,,Undesignated
+UG01_Comandos.Reserva_12368,UG01_750_852,1x,12368,,Undesignated
+UG01_Comandos.UHRV_Bomba01_Ligar,UG01_750_852,1x,12369,,Undesignated
+UG01_Comandos.UHRV_Bomba01_Desligar,UG01_750_852,1x,12370,,Undesignated
+UG01_Comandos.UHRV_Bomba02_Ligar,UG01_750_852,1x,12371,,Undesignated
+UG01_Comandos.UHRV_Bomba02_Desligar,UG01_750_852,1x,12372,,Undesignated
+UG01_Comandos.UHRV_ForcarPressurizacao,UG01_750_852,1x,12373,,Undesignated
+UG01_Comandos.UHRV_ResAquec_Ligar,UG01_750_852,1x,12374,,Undesignated
+UG01_Comandos.UHRV_ResAquec_Desligar,UG01_750_852,1x,12375,,Undesignated
+UG01_Comandos.UHRV_SelecaoBomba01_Principal,UG01_750_852,1x,12376,,Undesignated
+UG01_Comandos.UHRV_SelecaoBomba02_Principal,UG01_750_852,1x,12377,,Undesignated
+UG01_Comandos.UHRV_RodizioManual,UG01_750_852,1x,12378,,Undesignated
+UG01_Comandos.UHRV_RodizioAutomatico,UG01_750_852,1x,12379,,Undesignated
+UG01_Comandos.Reserva_12380,UG01_750_852,1x,12380,,Undesignated
+UG01_Comandos.Reserva_12381,UG01_750_852,1x,12381,,Undesignated
+UG01_Comandos.Reserva_12382,UG01_750_852,1x,12382,,Undesignated
+UG01_Comandos.Reserva_12383,UG01_750_852,1x,12383,,Undesignated
+UG01_Comandos.Reserva_12384,UG01_750_852,1x,12384,,Undesignated
+UG01_Comandos.Reserva_12385,UG01_750_852,1x,12385,,Undesignated
+UG01_Comandos.Reserva_12386,UG01_750_852,1x,12386,,Undesignated
+UG01_Comandos.Reserva_12387,UG01_750_852,1x,12387,,Undesignated
+UG01_Comandos.Reserva_12388,UG01_750_852,1x,12388,,Undesignated
+UG01_Comandos.Reserva_12389,UG01_750_852,1x,12389,,Undesignated
+UG01_Comandos.Reserva_12390,UG01_750_852,1x,12390,,Undesignated
+UG01_Comandos.Reserva_12391,UG01_750_852,1x,12391,,Undesignated
+UG01_Comandos.Reserva_12392,UG01_750_852,1x,12392,,Undesignated
+UG01_Comandos.Reserva_12393,UG01_750_852,1x,12393,,Undesignated
+UG01_Comandos.Reserva_12394,UG01_750_852,1x,12394,,Undesignated
+UG01_Comandos.Reserva_12395,UG01_750_852,1x,12395,,Undesignated
+UG01_Comandos.Reserva_12396,UG01_750_852,1x,12396,,Undesignated
+UG01_Comandos.Reserva_12397,UG01_750_852,1x,12397,,Undesignated
+UG01_Comandos.Reserva_12398,UG01_750_852,1x,12398,,Undesignated
+UG01_Comandos.Reserva_12399,UG01_750_852,1x,12399,,Undesignated
+UG01_Comandos.Reserva_12400,UG01_750_852,1x,12400,,Undesignated
+UG01_Comandos.SFA_Bomba01_Ligar,UG01_750_852,1x,12401,,Undesignated
+UG01_Comandos.SFA_Bomba01_Desligar,UG01_750_852,1x,12402,,Undesignated
+UG01_Comandos.SFA_Bomba02_Ligar,UG01_750_852,1x,12403,,Undesignated
+UG01_Comandos.SFA_Bomba03_Desligar,UG01_750_852,1x,12404,,Undesignated
+UG01_Comandos.Reserva_12405,UG01_750_852,1x,12405,,Undesignated
+UG01_Comandos.Reserva_12406,UG01_750_852,1x,12406,,Undesignated
+UG01_Comandos.Reserva_12407,UG01_750_852,1x,12407,,Undesignated
+UG01_Comandos.Reserva_12408,UG01_750_852,1x,12408,,Undesignated
+UG01_Comandos.Reserva_12409,UG01_750_852,1x,12409,,Undesignated
+UG01_Comandos.Reserva_12410,UG01_750_852,1x,12410,,Undesignated
+UG01_Comandos.Reserva_12411,UG01_750_852,1x,12411,,Undesignated
+UG01_Comandos.Reserva_12412,UG01_750_852,1x,12412,,Undesignated
+UG01_Comandos.Reserva_12413,UG01_750_852,1x,12413,,Undesignated
+UG01_Comandos.Reserva_12414,UG01_750_852,1x,12414,,Undesignated
+UG01_Comandos.Reserva_12415,UG01_750_852,1x,12415,,Undesignated
+UG01_Comandos.Reserva_12416,UG01_750_852,1x,12416,,Undesignated
+UG01_Comandos.Turbina_ByPass_Abrir,UG01_750_852,1x,12417,,Undesignated
+UG01_Comandos.Turbina_ByPass_Fechar,UG01_750_852,1x,12418,,Undesignated
+UG01_Comandos.Turbina_Borboleta_Abrir,UG01_750_852,1x,12419,,Undesignated
+UG01_Comandos.Turbina_Borboleta_Fechar,UG01_750_852,1x,12420,,Undesignated
+UG01_Comandos.Turbina_Freio_Habilitar,UG01_750_852,1x,12421,,Undesignated
+UG01_Comandos.Turbina_Freio_Desabilitar,UG01_750_852,1x,12422,,Undesignated
+UG01_Comandos.Reserva_12423,UG01_750_852,1x,12423,,Undesignated
+UG01_Comandos.Reserva_12424,UG01_750_852,1x,12424,,Undesignated
+UG01_Comandos.Reserva_12425,UG01_750_852,1x,12425,,Undesignated
+UG01_Comandos.Reserva_12426,UG01_750_852,1x,12426,,Undesignated
+UG01_Comandos.Reserva_12427,UG01_750_852,1x,12427,,Undesignated
+UG01_Comandos.Reserva_12428,UG01_750_852,1x,12428,,Undesignated
+UG01_Comandos.Reserva_12429,UG01_750_852,1x,12429,,Undesignated
+UG01_Comandos.Reserva_12430,UG01_750_852,1x,12430,,Undesignated
+UG01_Comandos.Reserva_12431,UG01_750_852,1x,12431,,Undesignated
+UG01_Comandos.Reserva_12432,UG01_750_852,1x,12432,,Undesignated
+UG01_Comandos.RegV_Start,UG01_750_852,1x,12433,,Undesignated
+UG01_Comandos.RegV_Stop,UG01_750_852,1x,12434,,Undesignated
+UG01_Comandos.RegV_Load,UG01_750_852,1x,12435,,Undesignated
+UG01_Comandos.RegV_Unload,UG01_750_852,1x,12436,,Undesignated
+UG01_Comandos.RegV_IncLoad,UG01_750_852,1x,12427,,Undesignated
+UG01_Comandos.RegV_DecLoad,UG01_750_852,1x,12438,,Undesignated
+UG01_Comandos.RegV_IncrementaVelocidade,UG01_750_852,1x,12439,,Undesignated
+UG01_Comandos.RegV_DecrementaVelocidade,UG01_750_852,1x,12440,,Undesignated
+UG01_Comandos.RegV_Ctrl_Man_Distribuidor,UG01_750_852,1x,12441,,Undesignated
+UG01_Comandos.RegV_Ctrl_Man_ValvDistr,UG01_750_852,1x,12442,,Undesignated
+UG01_Comandos.RegV_Ctrl_Man_Rotor,UG01_750_852,1x,12443,,Undesignated
+UG01_Comandos.RegV_Ctrl_Man_ValvRotor,UG01_750_852,1x,12444,,Undesignated
+UG01_Comandos.RegV_Ctrl_Velocidade,UG01_750_852,1x,12445,,Undesignated
+UG01_Comandos.RegV_ModoEstatismo,UG01_750_852,1x,12446,,Undesignated
+UG01_Comandos.RegV_ModoBase_Carga,UG01_750_852,1x,12447,,Undesignated
+UG01_Comandos.RegV_Compensacao_PotP,UG01_750_852,1x,12448,,Undesignated
+UG01_Comandos.RegV_Ctrl_PotP,UG01_750_852,1x,12449,,Undesignated
+UG01_Comandos.Reserva_12450,UG01_750_852,1x,12450,,Undesignated
+UG01_Comandos.Reserva_12451,UG01_750_852,1x,12451,,Undesignated
+UG01_Comandos.Reserva_12452,UG01_750_852,1x,12452,,Undesignated
+UG01_Comandos.Reserva_12453,UG01_750_852,1x,12453,,Undesignated
+UG01_Comandos.Reserva_12454,UG01_750_852,1x,12454,,Undesignated
+UG01_Comandos.Reserva_12455,UG01_750_852,1x,12455,,Undesignated
+UG01_Comandos.Reserva_12456,UG01_750_852,1x,12456,,Undesignated
+UG01_Comandos.Reserva_12457,UG01_750_852,1x,12457,,Undesignated
+UG01_Comandos.Reserva_12458,UG01_750_852,1x,12458,,Undesignated
+UG01_Comandos.Reserva_12459,UG01_750_852,1x,12459,,Undesignated
+UG01_Comandos.Reserva_12460,UG01_750_852,1x,12460,,Undesignated
+UG01_Comandos.Reserva_12461,UG01_750_852,1x,12461,,Undesignated
+UG01_Comandos.Reserva_12462,UG01_750_852,1x,12462,,Undesignated
+UG01_Comandos.Reserva_12463,UG01_750_852,1x,12463,,Undesignated
+UG01_Comandos.Reserva_12464,UG01_750_852,1x,12464,,Undesignated
+UG01_Comandos.RegT_Ligar,UG01_750_852,1x,12465,,Undesignated
+UG01_Comandos.RegT_Desligar,UG01_750_852,1x,12466,,Undesignated
+UG01_Comandos.RegT_IncrementaTensao,UG01_750_852,1x,12467,,Undesignated
+UG01_Comandos.RegT_DecrementaTensao,UG01_750_852,1x,12468,,Undesignated
+UG01_Comandos.RegT_Liga_PreExcitacao,UG01_750_852,1x,12469,,Undesignated
+UG01_Comandos.RegT_Desliga_PreExcitacao,UG01_750_852,1x,12470,,Undesignated
+UG01_Comandos.RegT_Ctrl_Tensao,UG01_750_852,1x,12471,,Undesignated
+UG01_Comandos.RegT_Ctrl_FP,UG01_750_852,1x,12472,,Undesignated
+UG01_Comandos.RegT_Ctrl_VAR,UG01_750_852,1x,12473,,Undesignated
+UG01_Comandos.Reserva_12474,UG01_750_852,1x,12474,,Undesignated
+UG01_Comandos.Reserva_12475,UG01_750_852,1x,12475,,Undesignated
+UG01_Comandos.Reserva_12476,UG01_750_852,1x,12476,,Undesignated
+UG01_Comandos.Reserva_12477,UG01_750_852,1x,12477,,Undesignated
+UG01_Comandos.Reserva_12478,UG01_750_852,1x,12478,,Undesignated
+UG01_Comandos.Reserva_12479,UG01_750_852,1x,12479,,Undesignated
+UG01_Comandos.Reserva_12480,UG01_750_852,1x,12480,,Undesignated
+UG01_Comandos.SincAuto_Ligar,UG01_750_852,1x,12481,,Undesignated
+UG01_Comandos.SincAuto_Desligar,UG01_750_852,1x,12482,,Undesignated
+UG01_Comandos.SincManual_Ligar,UG01_750_852,1x,12483,,Undesignated
+UG01_Comandos.SincManual_Desligar,UG01_750_852,1x,12484,,Undesignated
+UG01_Comandos.SincBM_Ligar,UG01_750_852,1x,12485,,Undesignated
+UG01_Comandos.SincBMl_Desligar,UG01_750_852,1x,12486,,Undesignated
+UG01_Comandos.Reserva_12487,UG01_750_852,1x,12487,,Undesignated
+UG01_Comandos.Reserva_12488,UG01_750_852,1x,12488,,Undesignated
+UG01_Comandos.Reserva_12489,UG01_750_852,1x,12489,,Undesignated
+UG01_Comandos.Reserva_12490,UG01_750_852,1x,12490,,Undesignated
+UG01_Comandos.Reserva_12491,UG01_750_852,1x,12491,,Undesignated
+UG01_Comandos.Reserva_12492,UG01_750_852,1x,12492,,Undesignated
+UG01_Comandos.Reserva_12493,UG01_750_852,1x,12493,,Undesignated
+UG01_Comandos.Reserva_12494,UG01_750_852,1x,12494,,Undesignated
+UG01_Comandos.Reserva_12495,UG01_750_852,1x,12495,,Undesignated
+UG01_Comandos.Reserva_12496,UG01_750_852,1x,12496,,Undesignated
+UG01_Comandos.Rele86M_Atuar,UG01_750_852,1x,12497,,Undesignated
+UG01_Comandos.Rele86E_Atuar,UG01_750_852,1x,12498,,Undesignated
+UG01_Comandos.Rele86H_Atuar,UG01_750_852,1x,12499,,Undesignated
+UG01_Comandos.Rejeicao_86E,UG01_750_852,1x,12500,,Undesignated
+UG01_Comandos.Rejeicao_86H,UG01_750_852,1x,12501,,Undesignated
+UG01_Comandos.Reserva_12502,UG01_750_852,1x,12502,,Undesignated
+UG01_Comandos.Reserva_12503,UG01_750_852,1x,12503,,Undesignated
+UG01_Comandos.Reserva_12504,UG01_750_852,1x,12504,,Undesignated
+UG01_Comandos.Reserva_12505,UG01_750_852,1x,12505,,Undesignated
+UG01_Comandos.Reserva_12506,UG01_750_852,1x,12506,,Undesignated
+UG01_Comandos.Reserva_12507,UG01_750_852,1x,12507,,Undesignated
+UG01_Comandos.Reserva_12508,UG01_750_852,1x,12508,,Undesignated
+UG01_Comandos.Reserva_12509,UG01_750_852,1x,12509,,Undesignated
+UG01_Comandos.Reserva_12510,UG01_750_852,1x,12510,,Undesignated
+UG01_Comandos.Reserva_12511,UG01_750_852,1x,12511,,Undesignated
+UG01_Comandos.Reserva_12512,UG01_750_852,1x,12512,,Undesignated
+UG01_Comandos.Disj52G_Abrir,UG01_750_852,1x,12513,,Undesignated
+UG01_Comandos.Reserva_12514,UG01_750_852,1x,12514,,Undesignated
+UG01_Comandos.Reserva_12515,UG01_750_852,1x,12515,,Undesignated
+UG01_Comandos.Reserva_12516,UG01_750_852,1x,12516,,Undesignated
+UG01_Comandos.Reserva_12517,UG01_750_852,1x,12517,,Undesignated
+UG01_Comandos.Reserva_12518,UG01_750_852,1x,12518,,Undesignated
+UG01_Comandos.Reserva_12519,UG01_750_852,1x,12519,,Undesignated
+UG01_Comandos.Reserva_12520,UG01_750_852,1x,12520,,Undesignated
+UG01_Comandos.Reserva_12521,UG01_750_852,1x,12521,,Undesignated
+UG01_Comandos.Reserva_12522,UG01_750_852,1x,12522,,Undesignated
+UG01_Comandos.Reserva_12523,UG01_750_852,1x,12523,,Undesignated
+UG01_Comandos.Reserva_12524,UG01_750_852,1x,12524,,Undesignated
+UG01_Comandos.Reserva_12525,UG01_750_852,1x,12525,,Undesignated
+UG01_Comandos.Reserva_12526,UG01_750_852,1x,12526,,Undesignated
+UG01_Comandos.Reserva_12527,UG01_750_852,1x,12527,,Undesignated
+UG01_Comandos.Reserva_12528,UG01_750_852,1x,12528,,Undesignated
+UG01_Comandos.Reset_SuperSEP,UG01_750_852,1x,12529,,Undesignated
+UG01_Comandos.Reset_Local,UG01_750_852,1x,12530,,Undesignated
+UG01_Comandos.CalaSirene_SuperSEP,UG01_750_852,1x,12531,,Undesignated
+UG01_Comandos.CalaSirene_Local,UG01_750_852,1x,12532,,Undesignated
+UG01_Comandos.Reserva_12533,UG01_750_852,1x,12533,,Undesignated
+UG01_Comandos.Reserva_12534,UG01_750_852,1x,12534,,Undesignated
+UG01_Comandos.Reserva_12535,UG01_750_852,1x,12535,,Undesignated
+UG01_Comandos.Reserva_12536,UG01_750_852,1x,12536,,Undesignated
+UG01_Comandos.Reserva_12537,UG01_750_852,1x,12537,,Undesignated
+UG01_Comandos.Reserva_12538,UG01_750_852,1x,12538,,Undesignated
+UG01_Comandos.Reserva_12539,UG01_750_852,1x,12539,,Undesignated
+UG01_Comandos.Reserva_12540,UG01_750_852,1x,12540,,Undesignated
+UG01_Comandos.Reserva_12541,UG01_750_852,1x,12541,,Undesignated
+UG01_Comandos.Reserva_12542,UG01_750_852,1x,12542,,Undesignated
+UG01_Comandos.Reserva_12543,UG01_750_852,1x,12543,,Undesignated
+UG01_Comandos.Reserva_12544,UG01_750_852,1x,12544,,Undesignated
+UG01_Comandos.Reset_AcumuladorEnergia,UG01_750_852,1x,12545,,Undesignated
+UG01_Comandos.Reserva_12546,UG01_750_852,1x,12546,,Undesignated
+UG01_Comandos.Reserva_12547,UG01_750_852,1x,12547,,Undesignated
+UG01_Comandos.Reserva_12548,UG01_750_852,1x,12548,,Undesignated
+UG01_Comandos.Reserva_12549,UG01_750_852,1x,12549,,Undesignated
+UG01_Comandos.Reserva_12550,UG01_750_852,1x,12550,,Undesignated
+UG01_Comandos.Reserva_12551,UG01_750_852,1x,12551,,Undesignated
+UG01_Comandos.Reserva_12552,UG01_750_852,1x,12552,,Undesignated
+UG01_Comandos.Reserva_12553,UG01_750_852,1x,12553,,Undesignated
+UG01_Comandos.Reserva_12554,UG01_750_852,1x,12554,,Undesignated
+UG01_Comandos.Reserva_12555,UG01_750_852,1x,12555,,Undesignated
+UG01_Comandos.Reserva_12556,UG01_750_852,1x,12556,,Undesignated
+UG01_Comandos.Reserva_12557,UG01_750_852,1x,12557,,Undesignated
+UG01_Comandos.Reserva_12558,UG01_750_852,1x,12558,,Undesignated
+UG01_Comandos.Reserva_12559,UG01_750_852,1x,12559,,Undesignated
+UG01_Comandos.Reserva_12560,UG01_750_852,1x,12560,,Undesignated
+UG01_Comandos.AR1_RTD1_Block_Protecao,UG01_750_852,1x,12561,,Undesignated
+UG01_Comandos.AR1_RTD2_Block_Protecao,UG01_750_852,1x,12562,,Undesignated
+UG01_Comandos.AR1_RTD3_Block_Protecao,UG01_750_852,1x,12563,,Undesignated
+UG01_Comandos.AR1_RTD4_Block_Protecao,UG01_750_852,1x,12564,,Undesignated
+UG01_Comandos.AR2_RTD1_Block_Protecao,UG01_750_852,1x,12565,,Undesignated
+UG01_Comandos.AR2_RTD2_Block_Protecao,UG01_750_852,1x,12566,,Undesignated
+UG01_Comandos.AR2_RTD3_Block_Protecao,UG01_750_852,1x,12567,,Undesignated
+UG01_Comandos.AR2_RTD4_Block_Protecao,UG01_750_852,1x,12568,,Undesignated
+UG01_Comandos.AR3_RTD1_Block_Protecao,UG01_750_852,1x,12569,,Undesignated
+UG01_Comandos.AR3_RTD2_Block_Protecao,UG01_750_852,1x,12570,,Undesignated
+UG01_Comandos.AR3_RTD3_Block_Protecao,UG01_750_852,1x,12571,,Undesignated
+UG01_Comandos.AR3_RTD4_Block_Protecao,UG01_750_852,1x,12572,,Undesignated
+UG01_Comandos.AR4_RTD1_Block_Protecao,UG01_750_852,1x,12573,,Undesignated
+UG01_Comandos.AR4_RTD2_Block_Protecao,UG01_750_852,1x,12574,,Undesignated
+UG01_Comandos.AR4_RTD3_Block_Protecao,UG01_750_852,1x,12575,,Undesignated
+UG01_Comandos.AR4_RTD4_Block_Protecao,UG01_750_852,1x,12576,,Undesignated
+UG01_Comandos.AR5_RTD1_Block_Protecao,UG01_750_852,1x,12577,,Undesignated
+UG01_Comandos.AR5_RTD2_Block_Protecao,UG01_750_852,1x,12578,,Undesignated
+UG01_Comandos.AR5_RTD3_Block_Protecao,UG01_750_852,1x,12579,,Undesignated
+UG01_Comandos.AR5_RTD4_Block_Protecao,UG01_750_852,1x,12580,,Undesignated
+UG01_Comandos.AR6_RTD1_Block_Protecao,UG01_750_852,1x,12581,,Undesignated
+UG01_Comandos.AR6_RTD2_Block_Protecao,UG01_750_852,1x,12582,,Undesignated
+UG01_Comandos.AR6_RTD3_Block_Protecao,UG01_750_852,1x,12583,,Undesignated
+UG01_Comandos.AR6_RTD4_Block_Protecao,UG01_750_852,1x,12584,,Undesignated
+UG01_Comandos.AR7_RTD1_Block_Protecao,UG01_750_852,1x,12585,,Undesignated
+UG01_Comandos.AR7_RTD2_Block_Protecao,UG01_750_852,1x,12586,,Undesignated
+UG01_Comandos.AR7_RTD3_Block_Protecao,UG01_750_852,1x,12587,,Undesignated
+UG01_Comandos.AR7_RTD4_Block_Protecao,UG01_750_852,1x,12588,,Undesignated
+UG01_Comandos.AR8_RTD1_Block_Protecao,UG01_750_852,1x,12589,,Undesignated
+UG01_Comandos.AR8_RTD2_Block_Protecao,UG01_750_852,1x,12590,,Undesignated
+UG01_Comandos.AR8_RTD3_Block_Protecao,UG01_750_852,1x,12591,,Undesignated
+UG01_Comandos.AR8_RTD4_Block_Protecao,UG01_750_852,1x,12592,,Undesignated
+UG01_Comandos.NivelHH_Block_Protecao,UG01_750_852,1x,12593,,Undesignated
+UG01_Comandos.NivelH_Block_Protecao,UG01_750_852,1x,12594,,Undesignated
+UG01_Comandos.NivelLL_Block_Protecao,UG01_750_852,1x,12595,,Undesignated
+UG01_Comandos.NivelL_Block_Protecao,UG01_750_852,1x,12596,,Undesignated
+UG01_Comandos.Reserva_125978,UG01_750_852,1x,12597,,Undesignated
+UG01_Comandos.Reserva_125988,UG01_750_852,1x,12598,,Undesignated
+UG01_Comandos.Reserva_125998,UG01_750_852,1x,12599,,Undesignated
+UG01_Comandos.Reserva_126008,UG01_750_852,1x,12600,,Undesignated
+UG01_Comandos.Reserva_12601,UG01_750_852,1x,12601,,Undesignated
+UG01_Comandos.Reserva_12602,UG01_750_852,1x,12602,,Undesignated
+UG01_Comandos.Reserva_12603,UG01_750_852,1x,12603,,Undesignated
+UG01_Comandos.Reserva_12604,UG01_750_852,1x,12604,,Undesignated
+UG01_Comandos.Reserva_12605,UG01_750_852,1x,12605,,Undesignated
+UG01_Comandos.Reserva_12606,UG01_750_852,1x,12606,,Undesignated
+UG01_Comandos.Reserva_12607,UG01_750_852,1x,12607,,Undesignated
+UG01_Comandos.Reserva_12608,UG01_750_852,1x,12608,,Undesignated
+UG01_Comandos.Reset_HorimetroEletrico,UG01_750_852,1x,12609,,Undesignated
+UG01_Comandos.Reset_HorimetroMecanico,UG01_750_852,1x,12610,,Undesignated
+UG01_Comandos.Reset_HorimetroUHRV,UG01_750_852,1x,12611,,Undesignated
+UG01_Comandos.Reset_HorimetroUHLM,UG01_750_852,1x,12612,,Undesignated
+UG01_Comandos.Reserva_12613,UG01_750_852,1x,12613,,Undesignated
+UG01_Comandos.Reserva_12614,UG01_750_852,1x,12614,,Undesignated
+UG01_Comandos.Reserva_12615,UG01_750_852,1x,12615,,Undesignated
+UG01_Comandos.Reserva_12616,UG01_750_852,1x,12616,,Undesignated
+UG01_Comandos.Reserva_12617,UG01_750_852,1x,12617,,Undesignated
+UG01_Comandos.Reserva_12618,UG01_750_852,1x,12618,,Undesignated
+UG01_Comandos.Reserva_12619,UG01_750_852,1x,12619,,Undesignated
+UG01_Comandos.Reserva_12620,UG01_750_852,1x,12620,,Undesignated
+UG01_Comandos.Reserva_12621,UG01_750_852,1x,12621,,Undesignated
+UG01_Comandos.Reserva_12622,UG01_750_852,1x,12622,,Undesignated
+UG01_Comandos.Reserva_12623,UG01_750_852,1x,12623,,Undesignated
+UG01_Comandos.Reserva_12624,UG01_750_852,1x,12624,,Undesignated
+UG01_Comandos.QTA_Comporta01_Abrir,UG01_750_852,1x,12641,,Undesignated
+UG01_Comandos.QTA_Comporta01_Fechar,UG01_750_852,1x,12642,,Undesignated
+UG01_Comandos.QTA_Comporta02_Abrir,UG01_750_852,1x,12643,,Undesignated
+UG01_Comandos.QTA_Comporta02_Fechar,UG01_750_852,1x,12644,,Undesignated
+UG01_Comandos.QTA_Comporta03_Abrir,UG01_750_852,1x,12645,,Undesignated
+UG01_Comandos.QTA_Comporta03_Fechar,UG01_750_852,1x,12646,,Undesignated
+UG01_Comandos.Reserva_12647,UG01_750_852,1x,12647,,Undesignated
+UG01_Comandos.Reserva_12648,UG01_750_852,1x,12648,,Undesignated
+UG01_Comandos.Reserva_12649,UG01_750_852,1x,12649,,Undesignated
+UG01_Comandos.Reserva_12650,UG01_750_852,1x,12650,,Undesignated
+UG01_Comandos.Reserva_12651,UG01_750_852,1x,12651,,Undesignated
+UG01_Comandos.Reserva_12652,UG01_750_852,1x,12652,,Undesignated
+UG01_Comandos.Reserva_12653,UG01_750_852,1x,12653,,Undesignated
+UG01_Comandos.Reserva_12654,UG01_750_852,1x,12654,,Undesignated
+UG01_Comandos.Reserva_12655,UG01_750_852,1x,12655,,Undesignated
+UG01_Comandos.Reserva_12656,UG01_750_852,1x,12656,,Undesignated
+UG01_Status.Operacao_Emergencia_Local,UG01_750_852,1x,20289,,Undesignated
+UG01_Status.Operacao_Emergencia_SuperSEP,UG01_750_852,1x,20290,,Undesignated
+UG01_Status.Operacao_Emergencia_UHRV,UG01_750_852,1x,20291,,Undesignated
+UG01_Status.Operacao_Emergencia_UHLM,UG01_750_852,1x,20292,,Undesignated
+UG01_Status.Operacao_ModoAuto,UG01_750_852,1x,20293,,Undesignated
+UG01_Status.Operacao_ModoManual,UG01_750_852,1x,20294,,Undesignated
+UG01_Status.Operacao_PartidaReligamento,UG01_750_852,1x,20295,,Undesignated
+UG01_Status.Operacao_PartidaManual,UG01_750_852,1x,20296,,Undesignated
+UG01_Status.Operacao_ParadaTripAgua,UG01_750_852,1x,20297,,Undesignated
+UG01_Status.Operacao_ParadaTripEletrico,UG01_750_852,1x,20298,,Undesignated
+UG01_Status.Operacao_ParadaTripMecanico,UG01_750_852,1x,20299,,Undesignated
+UG01_Status.Operacao_ParadaTripHidraulico,UG01_750_852,1x,20300,,Undesignated
+UG01_Status.Operacao_ParadaNormal,UG01_750_852,1x,20301,,Undesignated
+UG01_Status.Operacao_ParadaEmergenciaLocal,UG01_750_852,1x,20302,,Undesignated
+UG01_Status.Operacao_ParadaEmergenciaSuperSEP,UG01_750_852,1x,20303,,Undesignated
+UG01_Status.Operacao_ParadaEmergenciaUHRV,UG01_750_852,1x,20304,,Undesignated
+UG01_Status.Operacao_ParadaEmergenciaUHLM,UG01_750_852,1x,20305,,Undesignated
+UG01_Status.Operacao_ParadaAbertura52G,UG01_750_852,1x,20306,,Undesignated
+UG01_Status.Operacao_ParadaInfoValida,UG01_750_852,1x,20307,,Undesignated
+UG01_Status.Operacao_BloqueioAtuado,UG01_750_852,1x,20308,,Undesignated
+UG01_Status.Reserva_20309,UG01_750_852,1x,20309,,Undesignated
+UG01_Status.Reserva_20310,UG01_750_852,1x,20310,,Undesignated
+UG01_Status.Reserva_20311,UG01_750_852,1x,20311,,Undesignated
+UG01_Status.Reserva_20312,UG01_750_852,1x,20312,,Undesignated
+UG01_Status.Reserva_20313,UG01_750_852,1x,20313,,Undesignated
+UG01_Status.Reserva_20314,UG01_750_852,1x,20314,,Undesignated
+UG01_Status.Reserva_20315,UG01_750_852,1x,20315,,Undesignated
+UG01_Status.Reserva_20316,UG01_750_852,1x,20316,,Undesignated
+UG01_Status.Reserva_20317,UG01_750_852,1x,20317,,Undesignated
+UG01_Status.Reserva_20318,UG01_750_852,1x,20318,,Undesignated
+UG01_Status.Reserva_20319,UG01_750_852,1x,20319,,Undesignated
+UG01_Status.Reserva_20320,UG01_750_852,1x,20320,,Undesignated
+UG01_Status.ModoAuto_AlvoUP,UG01_750_852,1x,20321,,Undesignated
+UG01_Status.ModoAuto_AlvoUPGM,UG01_750_852,1x,20322,,Undesignated
+UG01_Status.ModoAuto_AlvoUMD,UG01_750_852,1x,20323,,Undesignated
+UG01_Status.ModoAuto_AlvoUPS,UG01_750_852,1x,20324,,Undesignated
+UG01_Status.ModoAuto_AlvoUS,UG01_750_852,1x,20325,,Undesignated
+UG01_Status.ModoAuto_UP,UG01_750_852,1x,20326,,Undesignated
+UG01_Status.ModoAuto_UPGM,UG01_750_852,1x,20327,,Undesignated
+UG01_Status.ModoAuto_UMD,UG01_750_852,1x,20328,,Undesignated
+UG01_Status.ModoAuto_UPS,UG01_750_852,1x,20329,,Undesignated
+UG01_Status.ModoAuto_US,UG01_750_852,1x,20330,,Undesignated
+UG01_Status.ModoAuto_Transicao,UG01_750_852,1x,20331,,Undesignated
+UG01_Status.ModoAuto_TransicaoUPtoUPGM,UG01_750_852,1x,20332,,Undesignated
+UG01_Status.ModoAuto_TransicaoUPGMtoUMD,UG01_750_852,1x,20333,,Undesignated
+UG01_Status.ModoAuto_TransicaoUMDtoUPS,UG01_750_852,1x,20334,,Undesignated
+UG01_Status.ModoAuto_TransicaoUPStoUS,UG01_750_852,1x,20335,,Undesignated
+UG01_Status.ModoAuto_TransicaoUStoUPS,UG01_750_852,1x,20336,,Undesignated
+UG01_Status.ModoAuto_TransicaoUPStoUMD,UG01_750_852,1x,20337,,Undesignated
+UG01_Status.ModoAuto_TransicaoUMDtoUPGM,UG01_750_852,1x,20338,,Undesignated
+UG01_Status.ModoAuto_TransicaoUPGMtoUP,UG01_750_852,1x,20339,,Undesignated
+UG01_Status.Reserva_28340,UG01_750_852,1x,20340,,Undesignated
+UG01_Status.Reserva_28341,UG01_750_852,1x,20341,,Undesignated
+UG01_Status.Reserva_28342,UG01_750_852,1x,20342,,Undesignated
+UG01_Status.Reserva_28343,UG01_750_852,1x,20343,,Undesignated
+UG01_Status.Reserva_28344,UG01_750_852,1x,20344,,Undesignated
+UG01_Status.Reserva_28345,UG01_750_852,1x,20345,,Undesignated
+UG01_Status.Reserva_28346,UG01_750_852,1x,20346,,Undesignated
+UG01_Status.Reserva_28347,UG01_750_852,1x,20347,,Undesignated
+UG01_Status.Reserva_28348,UG01_750_852,1x,20348,,Undesignated
+UG01_Status.Reserva_13149,UG01_750_852,1x,20349,,Undesignated
+UG01_Status.Reserva_28350,UG01_750_852,1x,20350,,Undesignated
+UG01_Status.Reserva_28351,UG01_750_852,1x,20351,,Undesignated
+UG01_Status.Reserva_28352,UG01_750_852,1x,20352,,Undesignated
+UG01_Status.CtrlP_Status,UG01_750_852,1x,20353,,Undesignated
+UG01_Status.CtrlP_Religamento,UG01_750_852,1x,20354,,Undesignated
+UG01_Status.CtrlQ_ModoFP,UG01_750_852,1x,20355,,Undesignated
+UG01_Status.CtrlQ_ModoVAr,UG01_750_852,1x,20356,,Undesignated
+UG01_Status.Reserva_20357,UG01_750_852,1x,20357,,Undesignated
+UG01_Status.Reserva_20358,UG01_750_852,1x,20358,,Undesignated
+UG01_Status.Reserva_20359,UG01_750_852,1x,20359,,Undesignated
+UG01_Status.Reserva_20360,UG01_750_852,1x,20360,,Undesignated
+UG01_Status.Reserva_20361,UG01_750_852,1x,20361,,Undesignated
+UG01_Status.Reserva_20362,UG01_750_852,1x,20362,,Undesignated
+UG01_Status.Reserva_20363,UG01_750_852,1x,20363,,Undesignated
+UG01_Status.Reserva_20364,UG01_750_852,1x,20364,,Undesignated
+UG01_Status.Reserva_20365,UG01_750_852,1x,20365,,Undesignated
+UG01_Status.Reserva_20366,UG01_750_852,1x,20366,,Undesignated
+UG01_Status.Reserva_20367,UG01_750_852,1x,20367,,Undesignated
+UG01_Status.Reserva_20368,UG01_750_852,1x,20368,,Undesignated
+UG01_Status.UHLM_Ligada,UG01_750_852,1x,20369,,Undesignated
+UG01_Status.UHLM_Desligada,UG01_750_852,1x,20370,,Undesignated
+UG01_Status.UHLM_Operacional,UG01_750_852,1x,20371,,Undesignated
+UG01_Status.UHLM_Bomba01_Status,UG01_750_852,1x,20372,,Undesignated
+UG01_Status.UHLM_Bomba02_Status,UG01_750_852,1x,20373,,Undesignated
+UG01_Status.UHLM_Bomba03_Status,UG01_750_852,1x,20374,,Undesignated
+UG01_Status.UHLM_Bomba04_Status,UG01_750_852,1x,20375,,Undesignated
+UG01_Status.UHLM_Bomba05_Status,UG01_750_852,1x,20376,,Undesignated
+UG01_Status.UHLM_Bomba01_Trip,UG01_750_852,1x,20377,,Undesignated
+UG01_Status.UHLM_Bomba02_Trip,UG01_750_852,1x,20378,,Undesignated
+UG01_Status.UHLM_Bomba03_Trip,UG01_750_852,1x,20379,,Undesignated
+UG01_Status.UHLM_Bomba04_Trip,UG01_750_852,1x,20380,,Undesignated
+UG01_Status.UHLM_Bomba05_Trip,UG01_750_852,1x,20381,,Undesignated
+UG01_Status.UHLM_Fluxo01_TrocrCalor,UG01_750_852,1x,20382,,Undesignated
+UG01_Status.UHLM_Fluxo02_TrocrCalor,UG01_750_852,1x,20383,,Undesignated
+UG01_Status.UHLM_Fluxo03_TrocrCalor,UG01_750_852,1x,20384,,Undesignated
+UG01_Status.UHLM_Fluxo04_TrocrCalor,UG01_750_852,1x,20385,,Undesignated
+UG01_Status.UHLM_Fluxo05_TrocrCalor,UG01_750_852,1x,20386,,Undesignated
+UG01_Status.UHLM_FluxoOleo_Mancal01,UG01_750_852,1x,20387,,Undesignated
+UG01_Status.UHLM_FluxoOleo_Mancal02,UG01_750_852,1x,20388,,Undesignated
+UG01_Status.UHLM_FluxoOleo_Mancal03,UG01_750_852,1x,20389,,Undesignated
+UG01_Status.UHLM_FluxoOleo_Mancal04,UG01_750_852,1x,20390,,Undesignated
+UG01_Status.UHLM_FluxoOleo_Mancal05,UG01_750_852,1x,20391,,Undesignated
+UG01_Status.UHLM_Pressostato01_Linha,UG01_750_852,1x,20392,,Undesignated
+UG01_Status.UHLM_Pressostato02_Linha,UG01_750_852,1x,20393,,Undesignated
+UG01_Status.UHLM_Pressostato03_Linha,UG01_750_852,1x,20394,,Undesignated
+UG01_Status.UHLM_Pressostato04_Linha,UG01_750_852,1x,20395,,Undesignated
+UG01_Status.UHLM_Pressostato05_Linha,UG01_750_852,1x,20396,,Undesignated
+UG01_Status.UHLM_FiltroOleo01_Sujo,UG01_750_852,1x,20397,,Undesignated
+UG01_Status.UHLM_FiltroOleo02_Sujo,UG01_750_852,1x,20398,,Undesignated
+UG01_Status.UHLM_FiltroOleo03_Sujo,UG01_750_852,1x,20399,,Undesignated
+UG01_Status.UHLM_FiltroOleo04_Sujo,UG01_750_852,1x,20400,,Undesignated
+UG01_Status.UHLM_FiltroOleo05_Sujo,UG01_750_852,1x,20401,,Undesignated
+UG01_Status.UHLM_NivelMaximo01_Oleo,UG01_750_852,1x,20402,,Undesignated
+UG01_Status.UHLM_NivelMaximo02_Oleo,UG01_750_852,1x,20403,,Undesignated
+UG01_Status.UHLM_NivelMaximo03_Oleo,UG01_750_852,1x,20404,,Undesignated
+UG01_Status.UHLM_NivelMinimo01_Oleo,UG01_750_852,1x,20405,,Undesignated
+UG01_Status.UHLM_NivelMinimo02_Oleo,UG01_750_852,1x,20406,,Undesignated
+UG01_Status.UHLM_NivelMinimo03_Oleo,UG01_750_852,1x,20407,,Undesignated
+UG01_Status.UHLM_ResAquec_Operacional,UG01_750_852,1x,20408,,Undesignated
+UG01_Status.UHLM_ResAquec_Ligada,UG01_750_852,1x,20409,,Undesignated
+UG01_Status.UHLM_ResAquec_Desligada,UG01_750_852,1x,20410,,Undesignated
+UG01_Status.UHLM_ResAquec_Trip,UG01_750_852,1x,20411,,Undesignated
+UG01_Status.TrocCalor_Bomba01_Status,UG01_750_852,1x,20412,,Undesignated
+UG01_Status.TrocCalor_Bomba02_Status,UG01_750_852,1x,20413,,Undesignated
+UG01_Status.TrocCalor_Bomba03_Status,UG01_750_852,1x,20414,,Undesignated
+UG01_Status.TrocCalor_Bomba04_Status,UG01_750_852,1x,20415,,Undesignated
+UG01_Status.TrocCalor_Bomba05_Status,UG01_750_852,1x,20416,,Undesignated
+UG01_Status.TrocCalor_Bomba01_Trip,UG01_750_852,1x,20417,,Undesignated
+UG01_Status.TrocCalor_Bomba02_Trip,UG01_750_852,1x,20418,,Undesignated
+UG01_Status.TrocCalor_Bomba03_Trip,UG01_750_852,1x,20419,,Undesignated
+UG01_Status.TrocCalor_Bomba04_Trip,UG01_750_852,1x,20420,,Undesignated
+UG01_Status.TrocCalor_Bomba05_Trip,UG01_750_852,1x,20421,,Undesignated
+UG01_Status.UHLM_TrocCalor_Operacional,UG01_750_852,1x,20422,,Undesignated
+UG01_Status.Reserva_20423,UG01_750_852,1x,20423,,Undesignated
+UG01_Status.Reserva_20424,UG01_750_852,1x,20424,,Undesignated
+UG01_Status.Reserva_20425,UG01_750_852,1x,20425,,Undesignated
+UG01_Status.Reserva_20426,UG01_750_852,1x,20426,,Undesignated
+UG01_Status.Reserva_20427,UG01_750_852,1x,20427,,Undesignated
+UG01_Status.Reserva_20428,UG01_750_852,1x,20428,,Undesignated
+UG01_Status.Reserva_20429,UG01_750_852,1x,20429,,Undesignated
+UG01_Status.Reserva_20430,UG01_750_852,1x,20430,,Undesignated
+UG01_Status.Reserva_20431,UG01_750_852,1x,20431,,Undesignated
+UG01_Status.Reserva_20432,UG01_750_852,1x,20432,,Undesignated
+UG01_Status.UHRV_Ligada,UG01_750_852,1x,20433,,Undesignated
+UG01_Status.UHRV_Desligada,UG01_750_852,1x,20434,,Undesignated
+UG01_Status.UHRV_Operacional,UG01_750_852,1x,20435,,Undesignated
+UG01_Status.UHRV_PressaoCritica,UG01_750_852,1x,20436,,Undesignated
+UG01_Status.UHRV_Bomba01_Status,UG01_750_852,1x,20437,,Undesignated
+UG01_Status.UHRV_Bomba02_Status,UG01_750_852,1x,20438,,Undesignated
+UG01_Status.UHRV_Bomba03_Status,UG01_750_852,1x,20439,,Undesignated
+UG01_Status.UHRV_Bomba04_Status,UG01_750_852,1x,20440,,Undesignated
+UG01_Status.UHRV_Bomba05_Status,UG01_750_852,1x,20441,,Undesignated
+UG01_Status.UHRV_Bomba01_Trip,UG01_750_852,1x,20442,,Undesignated
+UG01_Status.UHRV_Bomba02_Trip,UG01_750_852,1x,20443,,Undesignated
+UG01_Status.UHRV_Bomba03_Trip,UG01_750_852,1x,20444,,Undesignated
+UG01_Status.UHRV_Bomba04_Trip,UG01_750_852,1x,20445,,Undesignated
+UG01_Status.UHRV_Bomba05_Trip,UG01_750_852,1x,20446,,Undesignated
+UG01_Status.UHRV_FiltroPressao01_Sujo,UG01_750_852,1x,20447,,Undesignated
+UG01_Status.UHRV_FiltroPressao02_Sujo,UG01_750_852,1x,20448,,Undesignated
+UG01_Status.UHRV_FiltroPressao03_Sujo,UG01_750_852,1x,20449,,Undesignated
+UG01_Status.UHRV_FiltroPressao04_Sujo,UG01_750_852,1x,20450,,Undesignated
+UG01_Status.UHRV_FiltroPressao05_Sujo,UG01_750_852,1x,20451,,Undesignated
+UG01_Status.UHRV_FiltroRetorno01_Sujo,UG01_750_852,1x,20452,,Undesignated
+UG01_Status.UHRV_FiltroRetorno02_Sujo,UG01_750_852,1x,20453,,Undesignated
+UG01_Status.UHRV_FiltroRetorno03_Sujo,UG01_750_852,1x,20454,,Undesignated
+UG01_Status.UHRV_FiltroRetorno04_Sujo,UG01_750_852,1x,20455,,Undesignated
+UG01_Status.UHRV_FiltroRetorno05_Sujo,UG01_750_852,1x,20456,,Undesignated
+UG01_Status.UHRV_NivelMinimo01_Oleo,UG01_750_852,1x,20457,,Undesignated
+UG01_Status.UHRV_NivelMinimo02_Oleo,UG01_750_852,1x,20458,,Undesignated
+UG01_Status.UHRV_NivelMinimo03_Oleo,UG01_750_852,1x,20459,,Undesignated
+UG01_Status.UHRV_NivelMaximo01_Oleo,UG01_750_852,1x,20460,,Undesignated
+UG01_Status.UHRV_NivelMaximo02_Oleo,UG01_750_852,1x,20461,,Undesignated
+UG01_Status.UHRV_NivelMaximo03_Oleo,UG01_750_852,1x,20462,,Undesignated
+UG01_Status.UHRV_Pressostato_Maximo,UG01_750_852,1x,20463,,Undesignated
+UG01_Status.UHRV_Pressostato_Minimo,UG01_750_852,1x,20464,,Undesignated
+UG01_Status.UHRV_Pressostato_Critico,UG01_750_852,1x,20465,,Undesignated
+UG01_Status.UHRV_Pressostato01,UG01_750_852,1x,20466,,Undesignated
+UG01_Status.UHRV_Pressostato02,UG01_750_852,1x,20467,,Undesignated
+UG01_Status.UHRV_Pressostato03,UG01_750_852,1x,20468,,Undesignated
+UG01_Status.UHRV_ResAquec_Ligada,UG01_750_852,1x,20469,,Undesignated
+UG01_Status.UHRV_ResAquec_Desligada,UG01_750_852,1x,20470,,Undesignated
+UG01_Status.UHRV_ValvCtrl_Pressao01,UG01_750_852,1x,20471,,Undesignated
+UG01_Status.UHRV_ValvCtrl_Pressao02,UG01_750_852,1x,20472,,Undesignated
+UG01_Status.Reserva_20473,UG01_750_852,1x,20473,,Undesignated
+UG01_Status.Reserva_20474,UG01_750_852,1x,20474,,Undesignated
+UG01_Status.Reserva_20475,UG01_750_852,1x,20475,,Undesignated
+UG01_Status.Reserva_20476,UG01_750_852,1x,20476,,Undesignated
+UG01_Status.Reserva_20477,UG01_750_852,1x,20477,,Undesignated
+UG01_Status.Reserva_20478,UG01_750_852,1x,20478,,Undesignated
+UG01_Status.Reserva_20479,UG01_750_852,1x,20479,,Undesignated
+UG01_Status.Reserva_20480,UG01_750_852,1x,20480,,Undesignated
+UG01_Status.Reserva_20481,UG01_750_852,1x,20481,,Undesignated
+UG01_Status.Reserva_20482,UG01_750_852,1x,20482,,Undesignated
+UG01_Status.Reserva_20483,UG01_750_852,1x,20483,,Undesignated
+UG01_Status.Reserva_20484,UG01_750_852,1x,20484,,Undesignated
+UG01_Status.Reserva_20485,UG01_750_852,1x,20485,,Undesignated
+UG01_Status.Reserva_20486,UG01_750_852,1x,20486,,Undesignated
+UG01_Status.Reserva_20487,UG01_750_852,1x,20487,,Undesignated
+UG01_Status.Reserva_20488,UG01_750_852,1x,20488,,Undesignated
+UG01_Status.Reserva_20489,UG01_750_852,1x,20489,,Undesignated
+UG01_Status.Reserva_20490,UG01_750_852,1x,20490,,Undesignated
+UG01_Status.Reserva_20491,UG01_750_852,1x,20491,,Undesignated
+UG01_Status.Reserva_20492,UG01_750_852,1x,20492,,Undesignated
+UG01_Status.Reserva_20493,UG01_750_852,1x,20493,,Undesignated
+UG01_Status.Reserva_20494,UG01_750_852,1x,20494,,Undesignated
+UG01_Status.Reserva_20495,UG01_750_852,1x,20495,,Undesignated
+UG01_Status.Reserva_20496,UG01_750_852,1x,20496,,Undesignated
+UG01_Status.SFA_Operacional,UG01_750_852,1x,20497,,Undesignated
+UG01_Status.SFA_Ligada,UG01_750_852,1x,20498,,Undesignated
+UG01_Status.SFA_Desligada,UG01_750_852,1x,20499,,Undesignated
+UG01_Status.SFA_StatusBomba01,UG01_750_852,1x,20500,,Undesignated
+UG01_Status.SFA_StatusBomba02,UG01_750_852,1x,20501,,Undesignated
+UG01_Status.SFA_TRIPBomba01,UG01_750_852,1x,20502,,Undesignated
+UG01_Status.SFA_TRIPBomba02,UG01_750_852,1x,20503,,Undesignated
+UG01_Status.SFA_Pressostato01,UG01_750_852,1x,20504,,Undesignated
+UG01_Status.SFA_Pressostato02,UG01_750_852,1x,20505,,Undesignated
+UG01_Status.SFA_Pressostato03,UG01_750_852,1x,20506,,Undesignated
+UG01_Status.Reserva_20507,UG01_750_852,1x,20507,,Undesignated
+UG01_Status.Reserva_20508,UG01_750_852,1x,20508,,Undesignated
+UG01_Status.Reserva_20509,UG01_750_852,1x,20509,,Undesignated
+UG01_Status.Reserva_20510,UG01_750_852,1x,20510,,Undesignated
+UG01_Status.Reserva_20511,UG01_750_852,1x,20511,,Undesignated
+UG01_Status.Reserva_20512,UG01_750_852,1x,20512,,Undesignated
+UG01_Status.Turbina_DistribuidorFechado,UG01_750_852,1x,20513,,Undesignated
+UG01_Status.Turbina_BorboletaAbrindo,UG01_750_852,1x,20514,,Undesignated
+UG01_Status.Turbina_BorboletaFechando,UG01_750_852,1x,20515,,Undesignated
+UG01_Status.Turbina_BorboletaCracking,UG01_750_852,1x,20516,,Undesignated
+UG01_Status.Turbina_BorboletaFechada,UG01_750_852,1x,20517,,Undesignated
+UG01_Status.Turbina_BorboletaAberta,UG01_750_852,1x,20518,,Undesignated
+UG01_Status.Turbina_BorboletaRetencao,UG01_750_852,1x,20519,,Undesignated
+UG01_Status.Turbina_BorboletaTravada,UG01_750_852,1x,20520,,Undesignated
+UG01_Status.Turbina_BorboletaDeriva,UG01_750_852,1x,20521,,Undesignated
+UG01_Status.Turbina_ByPassAbrindo,UG01_750_852,1x,20522,,Undesignated
+UG01_Status.Turbina_ByPassFechando,UG01_750_852,1x,20523,,Undesignated
+UG01_Status.Turbina_ByPassFechado,UG01_750_852,1x,20524,,Undesignated
+UG01_Status.Turbina_ByPassAberto,UG01_750_852,1x,20525,,Undesignated
+UG01_Status.Turbina_Operacional,UG01_750_852,1x,20526,,Undesignated
+UG01_Status.Turbina_Equalizando,UG01_750_852,1x,20527,,Undesignated
+UG01_Status.Turbina_Equalizada,UG01_750_852,1x,20528,,Undesignated
+UG01_Status.Turbina_Aberta,UG01_750_852,1x,20529,,Undesignated
+UG01_Status.Turbina_Fechada,UG01_750_852,1x,20530,,Undesignated
+UG01_Status.Turbina_PasDesalinhadas,UG01_750_852,1x,20531,,Undesignated
+UG01_Status.Turbina_Pressostato01,UG01_750_852,1x,20532,,Undesignated
+UG01_Status.Turbina_Pressostato02,UG01_750_852,1x,20533,,Undesignated
+UG01_Status.Turbina_Pressostato03,UG01_750_852,1x,20534,,Undesignated
+UG01_Status.Reserva_20535,UG01_750_852,1x,20535,,Undesignated
+UG01_Status.Reserva_20536,UG01_750_852,1x,20536,,Undesignated
+UG01_Status.Reserva_20537,UG01_750_852,1x,20537,,Undesignated
+UG01_Status.Reserva_20538,UG01_750_852,1x,20538,,Undesignated
+UG01_Status.Reserva_20539,UG01_750_852,1x,20539,,Undesignated
+UG01_Status.Reserva_20540,UG01_750_852,1x,20540,,Undesignated
+UG01_Status.Reserva_20541,UG01_750_852,1x,20541,,Undesignated
+UG01_Status.Reserva_20542,UG01_750_852,1x,20542,,Undesignated
+UG01_Status.Reserva_20543,UG01_750_852,1x,20543,,Undesignated
+UG01_Status.Reserva_20544,UG01_750_852,1x,20544,,Undesignated
+UG01_Status.RegV_Habilitado,UG01_750_852,1x,20545,,Undesignated
+UG01_Status.RegV_Desabilitado,UG01_750_852,1x,20546,,Undesignated
+UG01_Status.RegV_ProtecoesAtuadas,UG01_750_852,1x,20547,,Undesignated
+UG01_Status.RegV_TurbinaParada,UG01_750_852,1x,20548,,Undesignated
+UG01_Status.RegV_RPM030,UG01_750_852,1x,20549,,Undesignated
+UG01_Status.RegV_RPM090,UG01_750_852,1x,20550,,Undesignated
+UG01_Status.RegV_RPM100,UG01_750_852,1x,20551,,Undesignated
+UG01_Status.RegV_RPM125,UG01_750_852,1x,20552,,Undesignated
+UG01_Status.RegV_CargaZerada,UG01_750_852,1x,20553,,Undesignated
+UG01_Status.RegV_ValvSeguranca01,UG01_750_852,1x,20554,,Undesignated
+UG01_Status.RegV_ValvSeguranca02,UG01_750_852,1x,20555,,Undesignated
+UG01_Status.RegV_ValvSeg_Borboleta,UG01_750_852,1x,20556,,Undesignated
+UG01_Status.RegV_Ctrl_Man_Distribuidor_Status,UG01_750_852,1x,20557,,Undesignated
+UG01_Status.RegV_Ctrl_Man_ValvDistr_Status,UG01_750_852,1x,20558,,Undesignated
+UG01_Status.RegV_Ctrl_Man_Rotor_Status,UG01_750_852,1x,20559,,Undesignated
+UG01_Status.RegV_Ctrl_Velocidade_Status,UG01_750_852,1x,20560,,Undesignated
+UG01_Status.RegV_Estatismo_Status,UG01_750_852,1x,20561,,Undesignated
+UG01_Status.RegV_BaseCarga_Status,UG01_750_852,1x,20562,,Undesignated
+UG01_Status.RegV_Compensacao_PotP_Status,UG01_750_852,1x,20563,,Undesignated
+UG01_Status.RegV_Ctrl_PotP_Status,UG01_750_852,1x,20564,,Undesignated
+UG01_Status.RegV_MaquinaEmDescarga,UG01_750_852,1x,20565,,Undesignated
+UG01_Status.RegV_SobreVel_Mecanica,UG01_750_852,1x,20566,,Undesignated
+UG01_Status.Reserva_20567,UG01_750_852,1x,20567,,Undesignated
+UG01_Status.Reserva_20568,UG01_750_852,1x,20568,,Undesignated
+UG01_Status.Reserva_20569,UG01_750_852,1x,20569,,Undesignated
+UG01_Status.Reserva_20570,UG01_750_852,1x,20570,,Undesignated
+UG01_Status.Reserva_20571,UG01_750_852,1x,20571,,Undesignated
+UG01_Status.Reserva_20572,UG01_750_852,1x,20572,,Undesignated
+UG01_Status.Reserva_20573,UG01_750_852,1x,20573,,Undesignated
+UG01_Status.Reserva_20574,UG01_750_852,1x,20574,,Undesignated
+UG01_Status.Reserva_20575,UG01_750_852,1x,20575,,Undesignated
+UG01_Status.Reserva_20576,UG01_750_852,1x,20576,,Undesignated
+UG01_Status.RegT_Habilitado,UG01_750_852,1x,20577,,Undesignated
+UG01_Status.RegT_Desabilitado,UG01_750_852,1x,20578,,Undesignated
+UG01_Status.RegT_41C_Ligado,UG01_750_852,1x,20579,,Undesignated
+UG01_Status.RegT_41C_Desligado,UG01_750_852,1x,20580,,Undesignated
+UG01_Status.RegT_PreExcitacao,UG01_750_852,1x,20581,,Undesignated
+UG01_Status.RegT_SemErro,UG01_750_852,1x,20582,,Undesignated
+UG01_Status.RegT_TensaoEstabilizada,UG01_750_852,1x,20583,,Undesignated
+UG01_Status.RegT_Protecao_Atuada,UG01_750_852,1x,20584,,Undesignated
+UG01_Status.RegT_Ctrl_Tensao_Status,UG01_750_852,1x,20585,,Undesignated
+UG01_Status.RegT_Ctrl_FP_Status,UG01_750_852,1x,20586,,Undesignated
+UG01_Status.RegT_Ctrl_VAR_Status,UG01_750_852,1x,20587,,Undesignated
+UG01_Status.RegT_Escova_Positiva,UG01_750_852,1x,20588,,Undesignated
+UG01_Status.RegT_Escova_Negativa,UG01_750_852,1x,20589,,Undesignated
+UG01_Status.Reserva_20590,UG01_750_852,1x,20590,,Undesignated
+UG01_Status.Reserva_20591,UG01_750_852,1x,20591,,Undesignated
+UG01_Status.Reserva_20592,UG01_750_852,1x,20592,,Undesignated
+UG01_Status.Reserva_20593,UG01_750_852,1x,20593,,Undesignated
+UG01_Status.Reserva_20594,UG01_750_852,1x,20594,,Undesignated
+UG01_Status.Reserva_20595,UG01_750_852,1x,20595,,Undesignated
+UG01_Status.Reserva_20596,UG01_750_852,1x,20596,,Undesignated
+UG01_Status.Reserva_20597,UG01_750_852,1x,20597,,Undesignated
+UG01_Status.Reserva_20598,UG01_750_852,1x,20598,,Undesignated
+UG01_Status.Reserva_20599,UG01_750_852,1x,20599,,Undesignated
+UG01_Status.Reserva_20600,UG01_750_852,1x,20600,,Undesignated
+UG01_Status.Reserva_20601,UG01_750_852,1x,20601,,Undesignated
+UG01_Status.Reserva_20602,UG01_750_852,1x,20602,,Undesignated
+UG01_Status.Reserva_20603,UG01_750_852,1x,20603,,Undesignated
+UG01_Status.Reserva_20604,UG01_750_852,1x,20604,,Undesignated
+UG01_Status.Reserva_20605,UG01_750_852,1x,20605,,Undesignated
+UG01_Status.Reserva_20606,UG01_750_852,1x,20606,,Undesignated
+UG01_Status.Reserva_20607,UG01_750_852,1x,20607,,Undesignated
+UG01_Status.Reserva_20608,UG01_750_852,1x,20608,,Undesignated
+UG01_Status.Sinc_Habilitado,UG01_750_852,1x,20609,,Undesignated
+UG01_Status.Sinc_ModoAuto,UG01_750_852,1x,20610,,Undesignated
+UG01_Status.Sinc_ModoManual,UG01_750_852,1x,20611,,Undesignated
+UG01_Status.Sinc_ModoBM,UG01_750_852,1x,20612,,Undesignated
+UG01_Status.Reserva_20613,UG01_750_852,1x,20613,,Undesignated
+UG01_Status.Reserva_20614,UG01_750_852,1x,20614,,Undesignated
+UG01_Status.Reserva_20615,UG01_750_852,1x,20615,,Undesignated
+UG01_Status.Reserva_20616,UG01_750_852,1x,20616,,Undesignated
+UG01_Status.Reserva_20617,UG01_750_852,1x,20617,,Undesignated
+UG01_Status.Reserva_20618,UG01_750_852,1x,20618,,Undesignated
+UG01_Status.Reserva_20619,UG01_750_852,1x,20619,,Undesignated
+UG01_Status.Reserva_20620,UG01_750_852,1x,20620,,Undesignated
+UG01_Status.Reserva_20621,UG01_750_852,1x,20621,,Undesignated
+UG01_Status.Reserva_20622,UG01_750_852,1x,20622,,Undesignated
+UG01_Status.Reserva_20623,UG01_750_852,1x,20623,,Undesignated
+UG01_Status.Reserva_20624,UG01_750_852,1x,20624,,Undesignated
+UG01_Status.Rele86E_Status,UG01_750_852,1x,20625,,Undesignated
+UG01_Status.Rele86M_Status,UG01_750_852,1x,20626,,Undesignated
+UG01_Status.Rele86H_Status,UG01_750_852,1x,20627,,Undesignated
+UG01_Status.Reserva_20628,UG01_750_852,1x,20628,,Undesignated
+UG01_Status.Reserva_20629,UG01_750_852,1x,20629,,Undesignated
+UG01_Status.Reserva_20630,UG01_750_852,1x,20630,,Undesignated
+UG01_Status.Reserva_20631,UG01_750_852,1x,20631,,Undesignated
+UG01_Status.Reserva_20632,UG01_750_852,1x,20632,,Undesignated
+UG01_Status.Reserva_20633,UG01_750_852,1x,20633,,Undesignated
+UG01_Status.Reserva_20634,UG01_750_852,1x,20634,,Undesignated
+UG01_Status.Reserva_20635,UG01_750_852,1x,20635,,Undesignated
+UG01_Status.Reserva_20636,UG01_750_852,1x,20636,,Undesignated
+UG01_Status.Reserva_20637,UG01_750_852,1x,20637,,Undesignated
+UG01_Status.Reserva_20638,UG01_750_852,1x,20638,,Undesignated
+UG01_Status.Reserva_20639,UG01_750_852,1x,20639,,Undesignated
+UG01_Status.Reserva_20640,UG01_750_852,1x,20640,,Undesignated
+UG01_Status.Disj52G_Aberto,UG01_750_852,1x,20641,,Undesignated
+UG01_Status.Disj52G_Fechado,UG01_750_852,1x,20642,,Undesignated
+UG01_Status.Disj52G_Inconsistente,UG01_750_852,1x,20643,,Undesignated
+UG01_Status.Disj52G_MolaCarregada,UG01_750_852,1x,20644,,Undesignated
+UG01_Status.Disj52G_ModoTeste,UG01_750_852,1x,20645,,Undesignated
+UG01_Status.Disj52G_Inserido,UG01_750_852,1x,20646,,Undesignated
+UG01_Status.Disj52G_Extraido,UG01_750_852,1x,20647,,Undesignated
+UG01_Status.Disj52L_Aberto,UG01_750_852,1x,20648,,Undesignated
+UG01_Status.Disj52L_Fechado,UG01_750_852,1x,20649,,Undesignated
+UG01_Status.Reserva_20650,UG01_750_852,1x,20650,,Undesignated
+UG01_Status.Reserva_20651,UG01_750_852,1x,20651,,Undesignated
+UG01_Status.Reserva_20652,UG01_750_852,1x,20652,,Undesignated
+UG01_Status.Reserva_20653,UG01_750_852,1x,20653,,Undesignated
+UG01_Status.Reserva_20654,UG01_750_852,1x,20654,,Undesignated
+UG01_Status.Reserva_20655,UG01_750_852,1x,20655,,Undesignated
+UG01_Status.Reserva_20656,UG01_750_852,1x,20656,,Undesignated
+UG01_Status.PCP_DisjQCCV_Status,UG01_750_852,1x,20657,,Undesignated
+UG01_Status.PCP_DisjQCAG_Status,UG01_750_852,1x,20658,,Undesignated
+UG01_Status.PCP_DisjQCAR_Status,UG01_750_852,1x,20659,,Undesignated
+UG01_Status.CS_DisjQCC_Status,UG01_750_852,1x,20660,,Undesignated
+UG01_Status.CS_DisjQCA01_Status,UG01_750_852,1x,20661,,Undesignated
+UG01_Status.CS_DisjQCA02_Status,UG01_750_852,1x,20662,,Undesignated
+UG01_Status.Reserva_20663,UG01_750_852,1x,20663,,Undesignated
+UG01_Status.Reserva_20664,UG01_750_852,1x,20664,,Undesignated
+UG01_Status.Reserva_20665,UG01_750_852,1x,20665,,Undesignated
+UG01_Status.Reserva_20666,UG01_750_852,1x,20666,,Undesignated
+UG01_Status.Reserva_20667,UG01_750_852,1x,20667,,Undesignated
+UG01_Status.Reserva_20668,UG01_750_852,1x,20668,,Undesignated
+UG01_Status.Reserva_20669,UG01_750_852,1x,20669,,Undesignated
+UG01_Status.Reserva_20670,UG01_750_852,1x,20670,,Undesignated
+UG01_Status.Reserva_20671,UG01_750_852,1x,20671,,Undesignated
+UG01_Status.Reserva_20672,UG01_750_852,1x,20672,,Undesignated
+UG01_Status.F50_Atuado,UG01_750_852,1x,20673,,Undesignated
+UG01_Status.Reserva_20674,UG01_750_852,1x,20674,,Undesignated
+UG01_Status.Reserva_20675,UG01_750_852,1x,20675,,Undesignated
+UG01_Status.Reserva_20676,UG01_750_852,1x,20676,,Undesignated
+UG01_Status.Reserva_20677,UG01_750_852,1x,20677,,Undesignated
+UG01_Status.Reserva_20678,UG01_750_852,1x,20678,,Undesignated
+UG01_Status.Reserva_20679,UG01_750_852,1x,20679,,Undesignated
+UG01_Status.Reserva_20680,UG01_750_852,1x,20680,,Undesignated
+UG01_Status.Reserva_20681,UG01_750_852,1x,20681,,Undesignated
+UG01_Status.Reserva_20682,UG01_750_852,1x,20682,,Undesignated
+UG01_Status.Reserva_20683,UG01_750_852,1x,20683,,Undesignated
+UG01_Status.Reserva_20684,UG01_750_852,1x,20684,,Undesignated
+UG01_Status.Reserva_20685,UG01_750_852,1x,20685,,Undesignated
+UG01_Status.Reserva_20686,UG01_750_852,1x,20686,,Undesignated
+UG01_Status.Reserva_20687,UG01_750_852,1x,20687,,Undesignated
+UG01_Status.Reserva_20688,UG01_750_852,1x,20688,,Undesignated
+UG01_Status.Reserva_20689,UG01_750_852,1x,20689,,Undesignated
+UG01_Status.Reserva_20690,UG01_750_852,1x,20690,,Undesignated
+UG01_Status.Reserva_20691,UG01_750_852,1x,20691,,Undesignated
+UG01_Status.Reserva_20692,UG01_750_852,1x,20692,,Undesignated
+UG01_Status.Reserva_20693,UG01_750_852,1x,20693,,Undesignated
+UG01_Status.Reserva_20694,UG01_750_852,1x,20694,,Undesignated
+UG01_Status.Reserva_20695,UG01_750_852,1x,20695,,Undesignated
+UG01_Status.Reserva_20696,UG01_750_852,1x,20696,,Undesignated
+UG01_Status.Reserva_20697,UG01_750_852,1x,20697,,Undesignated
+UG01_Status.Reserva_20698,UG01_750_852,1x,20698,,Undesignated
+UG01_Status.Reserva_20699,UG01_750_852,1x,20699,,Undesignated
+UG01_Status.Reserva_20700,UG01_750_852,1x,20700,,Undesignated
+UG01_Status.Reserva_20701,UG01_750_852,1x,20701,,Undesignated
+UG01_Status.Reserva_20702,UG01_750_852,1x,20702,,Undesignated
+UG01_Status.Reserva_20703,UG01_750_852,1x,20703,,Undesignated
+UG01_Status.Reserva_20704,UG01_750_852,1x,20704,,Undesignated
+UG01_Status.AlarmeAtivo,UG01_750_852,1x,20705,,Undesignated
+UG01_Status.AlarmeLatente,UG01_750_852,1x,20706,,Undesignated
+UG01_Status.Reserva_20707,UG01_750_852,1x,20707,,Undesignated
+UG01_Status.Reserva_20708,UG01_750_852,1x,20708,,Undesignated
+UG01_Status.Reserva_20709,UG01_750_852,1x,20709,,Undesignated
+UG01_Status.Reserva_20710,UG01_750_852,1x,20710,,Undesignated
+UG01_Status.Reserva_20711,UG01_750_852,1x,20711,,Undesignated
+UG01_Status.Reserva_20712,UG01_750_852,1x,20712,,Undesignated
+UG01_Status.Reserva_20713,UG01_750_852,1x,20713,,Undesignated
+UG01_Status.Reserva_20714,UG01_750_852,1x,20714,,Undesignated
+UG01_Status.Reserva_20715,UG01_750_852,1x,20715,,Undesignated
+UG01_Status.Reserva_20716,UG01_750_852,1x,20716,,Undesignated
+UG01_Status.Reserva_20717,UG01_750_852,1x,20717,,Undesignated
+UG01_Status.Reserva_20718,UG01_750_852,1x,20718,,Undesignated
+UG01_Status.Reserva_20719,UG01_750_852,1x,20719,,Undesignated
+UG01_Status.Reserva_20720,UG01_750_852,1x,20720,,Undesignated
+UG01_Status.QTA_Emergencia_Remota,UG01_750_852,1x,20721,,Undesignated
+UG01_Status.QTA_Comporta_Fechada,UG01_750_852,1x,20722,,Undesignated
+UG01_Status.QTA_Comporta_Aberta,UG01_750_852,1x,20723,,Undesignated
+UG01_Status.QTA_Comporta_Abrindo,UG01_750_852,1x,20724,,Undesignated
+UG01_Status.QTA_Comporta_Fechando,UG01_750_852,1x,20725,,Undesignated
+UG01_Status.QTA_Comporta_Cracking,UG01_750_852,1x,20726,,Undesignated
+UG01_Status.QTA_Comporta_Reposicao,UG01_750_852,1x,20727,,Undesignated
+UG01_Status.QTA_ComportaTravadaTimeOut,UG01_750_852,1x,20728,,Undesignated
+UG01_Status.QTA_Bomba01_Ligada,UG01_750_852,1x,20729,,Undesignated
+UG01_Status.QTA_Bomba01_TRIP,UG01_750_852,1x,20730,,Undesignated
+UG01_Status.QTA_Bomba02_Ligada,UG01_750_852,1x,20731,,Undesignated
+UG01_Status.QTA_Bomba02_TRIP,UG01_750_852,1x,20732,,Undesignated
+UG01_Status.QTA_Falha_Comunicacao,UG01_750_852,1x,20733,,Undesignated
+UG01_Status.QTA_Bomba03_Ligada,UG01_750_852,1x,20734,,Undesignated
+UG01_Status.QTA_Bomba03_TRIP,UG01_750_852,1x,20735,,Undesignated
+UG01_Status.Reserva_20736,UG01_750_852,1x,20736,,Undesignated
+UG01_Status.Reserva_20737,UG01_750_852,1x,20737,,Undesignated
+UG01_Status.Reserva_20738,UG01_750_852,1x,20738,,Undesignated
+UG01_Status.Reserva_20739,UG01_750_852,1x,20739,,Undesignated
+UG01_Status.Reserva_20740,UG01_750_852,1x,20740,,Undesignated
+UG01_Status.Reserva_20741,UG01_750_852,1x,20741,,Undesignated
+UG01_Status.Reserva_20742,UG01_750_852,1x,20742,,Undesignated
+UG01_Status.Reserva_20743,UG01_750_852,1x,20743,,Undesignated
+UG01_Status.Reserva_20744,UG01_750_852,1x,20744,,Undesignated
+UG01_Status.Reserva_20745,UG01_750_852,1x,20745,,Undesignated
+UG01_Status.Reserva_20746,UG01_750_852,1x,20746,,Undesignated
+UG01_Status.Reserva_20747,UG01_750_852,1x,20747,,Undesignated
+UG01_Status.Reserva_20748,UG01_750_852,1x,20748,,Undesignated
+UG01_Status.Reserva_20749,UG01_750_852,1x,20749,,Undesignated
+UG01_Status.Reserva_20750,UG01_750_852,1x,20750,,Undesignated
+UG01_Status.Reserva_20751,UG01_750_852,1x,20751,,Undesignated
+UG01_Status.Reserva_20752,UG01_750_852,1x,20752,,Undesignated
+UG01_Status.PSA_Emergencia,UG01_750_852,1x,20753,,Undesignated
+UG01_Status.PSA_NivelEmergenciaPoco,UG01_750_852,1x,20754,,Undesignated
+UG01_Status.PSA_Falha_Comunicacao,UG01_750_852,1x,20755,,Undesignated
+UG01_Status.Reserva_20756,UG01_750_852,1x,20756,,Undesignated
+UG01_Status.Reserva_20757,UG01_750_852,1x,20757,,Undesignated
+UG01_Status.Reserva_20758,UG01_750_852,1x,20758,,Undesignated
+UG01_Status.Reserva_20759,UG01_750_852,1x,20759,,Undesignated
+UG01_Status.Reserva_20760,UG01_750_852,1x,20760,,Undesignated
+UG01_Status.Reserva_20761,UG01_750_852,1x,20761,,Undesignated
+UG01_Status.Reserva_20762,UG01_750_852,1x,20762,,Undesignated
+UG01_Status.Reserva_20763,UG01_750_852,1x,20763,,Undesignated
+UG01_Status.Reserva_20764,UG01_750_852,1x,20764,,Undesignated
+UG01_Status.Reserva_20765,UG01_750_852,1x,20765,,Undesignated
+UG01_Status.Reserva_20766,UG01_750_852,1x,20766,,Undesignated
+UG01_Status.Reserva_20767,UG01_750_852,1x,20767,,Undesignated
+UG01_Status.Reserva_20768,UG01_750_852,1x,20768,,Undesignated
+UG01_Setpoint.Setpoint_UHLM_Pressao_Maxima,UG01_750_852,4x,13789,,Undesignated
+UG01_Setpoint.Setpoint_UHLM_Pressao_Minima,UG01_750_852,4x,13790,,Undesignated
+UG01_Setpoint.Setpoint_UHLM_Pressao_Alarme,UG01_750_852,4x,13791,,Undesignated
+UG01_Setpoint.Setpoint_UHLM_Pressao_TRIP,UG01_750_852,4x,13792,,Undesignated
+UG01_Setpoint.Setpoint_UHLM_Temp_Alarme,UG01_750_852,4x,13793,,32-bit Float
+UG01_Setpoint.Setpoint_UHLM_Temp_TRIP,UG01_750_852,4x,13795,,32-bit Float
+UG01_Setpoint.Setpoint_UHLM_Temp_ResAquec,UG01_750_852,4x,13797,,32-bit Float
+UG01_Setpoint.Setpoint_UHLM_Vazao_Oleo,UG01_750_852,4x,13799,,32-bit Float
+UG01_Setpoint.Setpoint_UHLM_Temp_Oleo,UG01_750_852,4x,13801,,32-bit Float
+UG01_Setpoint.Setpoint_UHLM_Temp_TrocCalor,UG01_750_852,4x,13803,,32-bit Float
+UG01_Setpoint.Setpoint_UHRV_Pressao_Maxima,UG01_750_852,4x,13805,,Undesignated
+UG01_Setpoint.Setpoint_UHRV_Pressao_Minima,UG01_750_852,4x,13806,,Undesignated
+UG01_Setpoint.Setpoint_UHRV_Pressao_Alarme,UG01_750_852,4x,13807,,Undesignated
+UG01_Setpoint.Setpoint_UHRV_Pressao_TRIP,UG01_750_852,4x,13808,,Undesignated
+UG01_Setpoint.Setpoint_UHRV_Temp_Alarme,UG01_750_852,4x,13809,,32-bit Float
+UG01_Setpoint.Setpoint_UHRV_Temp_TRIP,UG01_750_852,4x,13811,,32-bit Float
+UG01_Setpoint.Setpoint_UHRV_Temp_ResAquec,UG01_750_852,4x,13813,,32-bit Float
+UG01_Setpoint.Setpoit_Turb_Sobrevelocidade,UG01_750_852,4x,13815,,Undesignated
+UG01_Setpoint.Setpoit_Turb_PressaoMinima,UG01_750_852,4x,13817,,32-bit Float
+UG01_Setpoint.Setpoit_Turb_TempoEqualizacao,UG01_750_852,4x,13819,,32-bit Float
+UG01_Setpoint.Setpoint_Vibracao01_Trip,UG01_750_852,4x,13821,,32-bit Float
+UG01_Setpoint.Setpoint_Vibracao02_Trip,UG01_750_852,4x,13823,,32-bit Float
+UG01_Setpoint.Setpoint_Vibracao03_Trip,UG01_750_852,4x,13825,,32-bit Float
+UG01_Setpoint.Setpoint_Vibracao04_Trip,UG01_750_852,4x,13827,,32-bit Float
+UG01_Setpoint.Setpoint_Vibracao05_Trip,UG01_750_852,4x,13829,,32-bit Float
+UG01_Setpoint.Setpoint_Vibracao06_Trip,UG01_750_852,4x,13831,,32-bit Float
+UG01_Setpoint.Setpoint_Vibracao07_Trip,UG01_750_852,4x,13833,,32-bit Float
+UG01_Setpoint.Setpoint_Vibracao08_Trip,UG01_750_852,4x,13835,,32-bit Float
+UG01_Setpoint.Setpoint_Vibracao09_Trip,UG01_750_852,4x,13837,,32-bit Float
+UG01_Setpoint.Setpoint_Vibracao10_Trip,UG01_750_852,4x,13839,,32-bit Float
+UG01_Setpoint.Setpoint_Vibracao01_Alarme,UG01_750_852,4x,13841,,32-bit Float
+UG01_Setpoint.Setpoint_Vibracao02_Alarme,UG01_750_852,4x,13843,,32-bit Float
+UG01_Setpoint.Setpoint_Vibracao03_Alarme,UG01_750_852,4x,13845,,32-bit Float
+UG01_Setpoint.Setpoint_Vibracao04_Alarme,UG01_750_852,4x,13847,,32-bit Float
+UG01_Setpoint.Setpoint_Vibracao05_Alarme,UG01_750_852,4x,13849,,32-bit Float
+UG01_Setpoint.Setpoint_Vibracao06_Alarme,UG01_750_852,4x,13851,,32-bit Float
+UG01_Setpoint.Setpoint_Vibracao07_Alarme,UG01_750_852,4x,13853,,32-bit Float
+UG01_Setpoint.Setpoint_Vibracao08_Alarme,UG01_750_852,4x,13855,,32-bit Float
+UG01_Setpoint.Setpoint_Vibracao09_Alarme,UG01_750_852,4x,13857,,32-bit Float
+UG01_Setpoint.Setpoint_Vibracao10_Alarme,UG01_750_852,4x,13859,,32-bit Float
+UG01_Setpoint.Reserva_13861,UG01_750_852,4x,13861,,Undesignated
+UG01_Setpoint.Reserva_13863,UG01_750_852,4x,13863,,32-bit Float
+UG01_Setpoint.Reserva_13865,UG01_750_852,4x,13865,,32-bit Float
+UG01_Setpoint.Reserva_13867,UG01_750_852,4x,13867,,32-bit Float
+UG01_Setpoint.Reserva_13869,UG01_750_852,4x,13869,,32-bit Float
+UG01_Setpoint.Reserva_13871,UG01_750_852,4x,13871,,32-bit Float
+UG01_Setpoint.CtrlP_PotenciaSetpoint,UG01_750_852,4x,13873,,Undesignated
+UG01_Setpoint.CtrlP_PotenciaMaxima,UG01_750_852,4x,13874,,Undesignated
+UG01_Setpoint.CtrlP_PotenciaMinima,UG01_750_852,4x,13875,,Undesignated
+UG01_Setpoint.CtrlP_NivelSetpoint,UG01_750_852,4x,13877,,32-bit Float
+UG01_Setpoint.CtrlP_NivelDesligamento,UG01_750_852,4x,13879,,32-bit Float
+UG01_Setpoint.CtrlP_NivelReligamento,UG01_750_852,4x,13881,,32-bit Float
+UG01_Setpoint.CtrlP_NivelGanho,UG01_750_852,4x,13883,,Undesignated
+UG01_Setpoint.CtrlP_NivelIntervalo,UG01_750_852,4x,13884,,Undesignated
+UG01_Setpoint.CtrlP_NivelTolerancia,UG01_750_852,4x,13885,,Undesignated
+UG01_Setpoint.CtrlP_NivelAlarme,UG01_750_852,4x,13887,,32-bit Float
+UG01_Setpoint.CtrlP_NivelTrip,UG01_750_852,4x,13889,,32-bit Float
+UG01_Setpoint.CtrlQ_SetpointFP,UG01_750_852,4x,13891,,Undesignated
+UG01_Setpoint.CtrlQ_SetpointkVAr,UG01_750_852,4x,13892,,Undesignated
+UG01_Setpoint.Reserva_13893,UG01_750_852,4x,13893,,Undesignated
+UG01_Setpoint.GRTD_PotenciaSetpoint,UG01_750_852,4x,13894,,32-bit Float
+UG01_Setpoint.Setpoint_AR1_RTD1_TRIP,UG01_750_852,4x,13897,,32-bit Float
+UG01_Setpoint.Setpoint_AR1_RTD2_TRIP,UG01_750_852,4x,13899,,32-bit Float
+UG01_Setpoint.Setpoint_AR1_RTD3_TRIP,UG01_750_852,4x,13901,,32-bit Float
+UG01_Setpoint.Setpoint_AR1_RTD4_TRIP,UG01_750_852,4x,13903,,32-bit Float
+UG01_Setpoint.Setpoint_AR2_RTD1_TRIP,UG01_750_852,4x,13905,,32-bit Float
+UG01_Setpoint.Setpoint_AR2_RTD2_TRIP,UG01_750_852,4x,13907,,32-bit Float
+UG01_Setpoint.Setpoint_AR2_RTD3_TRIP,UG01_750_852,4x,13909,,32-bit Float
+UG01_Setpoint.Setpoint_AR2_RTD4_TRIP,UG01_750_852,4x,13911,,32-bit Float
+UG01_Setpoint.Setpoint_AR3_RTD1_TRIP,UG01_750_852,4x,13913,,32-bit Float
+UG01_Setpoint.Setpoint_AR3_RTD2_TRIP,UG01_750_852,4x,13915,,32-bit Float
+UG01_Setpoint.Setpoint_AR3_RTD3_TRIP,UG01_750_852,4x,13917,,32-bit Float
+UG01_Setpoint.Setpoint_AR3_RTD4_TRIP,UG01_750_852,4x,13919,,32-bit Float
+UG01_Setpoint.Setpoint_AR4_RTD1_TRIP,UG01_750_852,4x,13921,,32-bit Float
+UG01_Setpoint.Setpoint_AR4_RTD2_TRIP,UG01_750_852,4x,13923,,32-bit Float
+UG01_Setpoint.Setpoint_AR4_RTD3_TRIP,UG01_750_852,4x,13925,,32-bit Float
+UG01_Setpoint.Setpoint_AR4_RTD4_TRIP,UG01_750_852,4x,13927,,32-bit Float
+UG01_Setpoint.Setpoint_AR5_RTD1_TRIP,UG01_750_852,4x,13929,,32-bit Float
+UG01_Setpoint.Setpoint_AR5_RTD2_TRIP,UG01_750_852,4x,13931,,32-bit Float
+UG01_Setpoint.Setpoint_AR5_RTD3_TRIP,UG01_750_852,4x,13933,,32-bit Float
+UG01_Setpoint.Setpoint_AR5_RTD4_TRIP,UG01_750_852,4x,13935,,32-bit Float
+UG01_Setpoint.Setpoint_AR6_RTD1_TRIP,UG01_750_852,4x,13937,,32-bit Float
+UG01_Setpoint.Setpoint_AR6_RTD2_TRIP,UG01_750_852,4x,13939,,32-bit Float
+UG01_Setpoint.Setpoint_AR6_RTD3_TRIP,UG01_750_852,4x,13941,,32-bit Float
+UG01_Setpoint.Setpoint_AR6_RTD4_TRIP,UG01_750_852,4x,13943,,32-bit Float
+UG01_Setpoint.Setpoint_AR7_RTD1_TRIP,UG01_750_852,4x,13945,,32-bit Float
+UG01_Setpoint.Setpoint_AR7_RTD2_TRIP,UG01_750_852,4x,13947,,32-bit Float
+UG01_Setpoint.Setpoint_AR7_RTD3_TRIP,UG01_750_852,4x,13949,,32-bit Float
+UG01_Setpoint.Setpoint_AR7_RTD4_TRIP,UG01_750_852,4x,13951,,32-bit Float
+UG01_Setpoint.Setpoint_AR8_RTD1_TRIP,UG01_750_852,4x,13953,,32-bit Float
+UG01_Setpoint.Setpoint_AR8_RTD2_TRIP,UG01_750_852,4x,13955,,32-bit Float
+UG01_Setpoint.Setpoint_AR8_RTD3_TRIP,UG01_750_852,4x,13957,,32-bit Float
+UG01_Setpoint.Setpoint_AR8_RTD4_TRIP,UG01_750_852,4x,13959,,32-bit Float
+UG01_Setpoint.Setpoint_AR1_RTD1_Alarme,UG01_750_852,4x,13961,,32-bit Float
+UG01_Setpoint.Setpoint_AR1_RTD2_Alarme,UG01_750_852,4x,13963,,32-bit Float
+UG01_Setpoint.Setpoint_AR1_RTD3_Alarme,UG01_750_852,4x,13965,,32-bit Float
+UG01_Setpoint.Setpoint_AR1_RTD4_Alarme,UG01_750_852,4x,13967,,32-bit Float
+UG01_Setpoint.Setpoint_AR2_RTD1_Alarme,UG01_750_852,4x,13969,,32-bit Float
+UG01_Setpoint.Setpoint_AR2_RTD2_Alarme,UG01_750_852,4x,13971,,32-bit Float
+UG01_Setpoint.Setpoint_AR2_RTD3_Alarme,UG01_750_852,4x,13973,,32-bit Float
+UG01_Setpoint.Setpoint_AR2_RTD4_Alarme,UG01_750_852,4x,13975,,32-bit Float
+UG01_Setpoint.Setpoint_AR3_RTD1_Alarme,UG01_750_852,4x,13977,,32-bit Float
+UG01_Setpoint.Setpoint_AR3_RTD2_Alarme,UG01_750_852,4x,13979,,32-bit Float
+UG01_Setpoint.Setpoint_AR3_RTD3_Alarme,UG01_750_852,4x,13981,,32-bit Float
+UG01_Setpoint.Setpoint_AR3_RTD4_Alarme,UG01_750_852,4x,13983,,32-bit Float
+UG01_Setpoint.Setpoint_AR4_RTD1_Alarme,UG01_750_852,4x,13985,,32-bit Float
+UG01_Setpoint.Setpoint_AR4_RTD2_Alarme,UG01_750_852,4x,13987,,32-bit Float
+UG01_Setpoint.Setpoint_AR4_RTD3_Alarme,UG01_750_852,4x,13989,,32-bit Float
+UG01_Setpoint.Setpoint_AR4_RTD4_Alarme,UG01_750_852,4x,13991,,32-bit Float
+UG01_Setpoint.Setpoint_AR5_RTD1_Alarme,UG01_750_852,4x,13993,,32-bit Float
+UG01_Setpoint.Setpoint_AR5_RTD2_Alarme,UG01_750_852,4x,13995,,32-bit Float
+UG01_Setpoint.Setpoint_AR5_RTD3_Alarme,UG01_750_852,4x,13997,,32-bit Float
+UG01_Setpoint.Setpoint_AR5_RTD4_Alarme,UG01_750_852,4x,13999,,32-bit Float
+UG01_Setpoint.Setpoint_AR6_RTD1_Alarme,UG01_750_852,4x,14001,,32-bit Float
+UG01_Setpoint.Setpoint_AR6_RTD2_Alarme,UG01_750_852,4x,14003,,32-bit Float
+UG01_Setpoint.Setpoint_AR6_RTD3_Alarme,UG01_750_852,4x,14005,,32-bit Float
+UG01_Setpoint.Setpoint_AR6_RTD4_Alarme,UG01_750_852,4x,14007,,32-bit Float
+UG01_Setpoint.Setpoint_AR7_RTD1_Alarme,UG01_750_852,4x,14009,,32-bit Float
+UG01_Setpoint.Setpoint_AR7_RTD2_Alarme,UG01_750_852,4x,14011,,32-bit Float
+UG01_Setpoint.Setpoint_AR7_RTD3_Alarme,UG01_750_852,4x,14013,,32-bit Float
+UG01_Setpoint.Setpoint_AR7_RTD4_Alarme,UG01_750_852,4x,14015,,32-bit Float
+UG01_Setpoint.Setpoint_AR8_RTD1_Alarme,UG01_750_852,4x,14017,,32-bit Float
+UG01_Setpoint.Setpoint_AR8_RTD2_Alarme,UG01_750_852,4x,14019,,32-bit Float
+UG01_Setpoint.Setpoint_AR8_RTD3_Alarme,UG01_750_852,4x,14021,,32-bit Float
+UG01_Setpoint.Setpoint_AR8_RTD4_Alarme,UG01_750_852,4x,14023,,32-bit Float
+UG01_Setpoint.Setpoint_AR1_RTD1_PickupProtecao,UG01_750_852,4x,14025,,32-bit Float
+UG01_Setpoint.Setpoint_AR1_RTD2_PickupProtecao,UG01_750_852,4x,14027,,32-bit Float
+UG01_Setpoint.Setpoint_AR1_RTD3_PickupProtecao,UG01_750_852,4x,14029,,32-bit Float
+UG01_Setpoint.Setpoint_AR1_RTD4_PickupProtecao,UG01_750_852,4x,14031,,32-bit Float
+UG01_Setpoint.Setpoint_AR2_RTD1_PickupProtecao,UG01_750_852,4x,14033,,32-bit Float
+UG01_Setpoint.Setpoint_AR2_RTD2_PickupProtecao,UG01_750_852,4x,14035,,32-bit Float
+UG01_Setpoint.Setpoint_AR2_RTD3_PickupProtecao,UG01_750_852,4x,14037,,32-bit Float
+UG01_Setpoint.Setpoint_AR2_RTD4_PickupProtecao,UG01_750_852,4x,14039,,32-bit Float
+UG01_Setpoint.Setpoint_AR3_RTD1_PickupProtecao,UG01_750_852,4x,14041,,32-bit Float
+UG01_Setpoint.Setpoint_AR3_RTD2_PickupProtecao,UG01_750_852,4x,14043,,32-bit Float
+UG01_Setpoint.Setpoint_AR3_RTD3_PickupProtecao,UG01_750_852,4x,14045,,32-bit Float
+UG01_Setpoint.Setpoint_AR3_RTD4_PickupProtecao,UG01_750_852,4x,14047,,32-bit Float
+UG01_Setpoint.Setpoint_AR4_RTD1_PickupProtecao,UG01_750_852,4x,14049,,32-bit Float
+UG01_Setpoint.Setpoint_AR4_RTD2_PickupProtecao,UG01_750_852,4x,14051,,32-bit Float
+UG01_Setpoint.Setpoint_AR4_RTD3_PickupProtecao,UG01_750_852,4x,14053,,32-bit Float
+UG01_Setpoint.Setpoint_AR4_RTD4_PickupProtecao,UG01_750_852,4x,14055,,32-bit Float
+UG01_Setpoint.Setpoint_AR5_RTD1_PickupProtecao,UG01_750_852,4x,14057,,32-bit Float
+UG01_Setpoint.Setpoint_AR5_RTD2_PickupProtecao,UG01_750_852,4x,14059,,32-bit Float
+UG01_Setpoint.Setpoint_AR5_RTD3_PickupProtecao,UG01_750_852,4x,14061,,32-bit Float
+UG01_Setpoint.Setpoint_AR5_RTD4_PickupProtecao,UG01_750_852,4x,14063,,32-bit Float
+UG01_Setpoint.Setpoint_AR6_RTD1_PickupProtecao,UG01_750_852,4x,14065,,32-bit Float
+UG01_Setpoint.Setpoint_AR6_RTD2_PickupProtecao,UG01_750_852,4x,14067,,32-bit Float
+UG01_Setpoint.Setpoint_AR6_RTD3_PickupProtecao,UG01_750_852,4x,14069,,32-bit Float
+UG01_Setpoint.Setpoint_AR6_RTD4_PickupProtecao,UG01_750_852,4x,14071,,32-bit Float
+UG01_Setpoint.Setpoint_AR7_RTD1_PickupProtecao,UG01_750_852,4x,14073,,32-bit Float
+UG01_Setpoint.Setpoint_AR7_RTD2_PickupProtecao,UG01_750_852,4x,14075,,32-bit Float
+UG01_Setpoint.Setpoint_AR7_RTD3_PickupProtecao,UG01_750_852,4x,14077,,32-bit Float
+UG01_Setpoint.Setpoint_AR7_RTD4_PickupProtecao,UG01_750_852,4x,14079,,32-bit Float
+UG01_Setpoint.Setpoint_AR8_RTD1_PickupProtecao,UG01_750_852,4x,14081,,32-bit Float
+UG01_Setpoint.Setpoint_AR8_RTD2_PickupProtecao,UG01_750_852,4x,14083,,32-bit Float
+UG01_Setpoint.Setpoint_AR8_RTD3_PickupProtecao,UG01_750_852,4x,14085,,32-bit Float
+UG01_Setpoint.Setpoint_AR8_RTD4_PickupProtecao,UG01_750_852,4x,14087,,32-bit Float
+UG01_Setpoint.Reserva_14089,UG01_750_852,4x,14089,,32-bit Float
+UG01_Setpoint.Reserva_14091,UG01_750_852,4x,14091,,32-bit Float
+UG01_Setpoint.Reserva_14093,UG01_750_852,4x,14093,,32-bit Float
+UG01_Setpoint.Reserva_14095,UG01_750_852,4x,14095,,32-bit Float
+UG01_Setpoint.Reserva_14097,UG01_750_852,4x,14097,,32-bit Float
+UG01_Setpoint.Horimetro_Mecanico_Total,UG01_750_852,4x,14099,,32-bit Float
+UG01_Setpoint.Horimetro_Mecanico_Atual,UG01_750_852,4x,14101,,32-bit Float
+UG01_Setpoint.Horimetro_Mecanico_Ultimo,UG01_750_852,4x,14103,,32-bit Float
+UG01_Setpoint.Horimetro_Eletrico_Total,UG01_750_852,4x,14105,,32-bit Float
+UG01_Setpoint.Horimetro_Eletrico_Atual,UG01_750_852,4x,14107,,32-bit Float
+UG01_Setpoint.Horimetro_Eletrico_Ultimo,UG01_750_852,4x,14109,,32-bit Float
+UG01_Setpoint.Horimetro_UHRV_Total,UG01_750_852,4x,14111,,32-bit Float
+UG01_Setpoint.Horimetro_UHRV_Atual,UG01_750_852,4x,14113,,32-bit Float
+UG01_Setpoint.Horimetro_UHRV_Ultimo,UG01_750_852,4x,14115,,32-bit Float
+UG01_Setpoint.Horimetro_UHLM_Total,UG01_750_852,4x,14117,,32-bit Float
+UG01_Setpoint.Horimetro_UHLM_Atual,UG01_750_852,4x,14119,,32-bit Float
+UG01_Setpoint.Horimetro_UHLM_Ultimo,UG01_750_852,4x,14121,,32-bit Float
+UG01_Setpoint.Setpoint_HH_Nivel_Barragem,UG01_750_852,4x,14123,,32-bit Float
+UG01_Setpoint.Setpoint_H_Nivel_Barragem,UG01_750_852,4x,14125,,32-bit Float
+UG01_Setpoint.Reserva_14127,UG01_750_852,4x,14127,,32-bit Float
+UG01_Setpoint.Reserva_14129,UG01_750_852,4x,14129,,32-bit Float
+UG01_Setpoint.Reserva_14131,UG01_750_852,4x,14131,,32-bit Float
+UG01_Setpoint.Reserva_14133,UG01_750_852,4x,14133,,32-bit Float
+UG01_Setpoint.Reserva_14135,UG01_750_852,4x,14135,,32-bit Float
+UG01_Setpoint.Reserva_14137,UG01_750_852,4x,14137,,32-bit Float
+UG01_Setpoint.Reserva_14139,UG01_750_852,4x,14139,,32-bit Float
+UG01_Setpoint.Reserva_14141,UG01_750_852,4x,14141,,32-bit Float
+UG01_Setpoint.Reserva_14143,UG01_750_852,4x,14143,,32-bit Float
+UG01_Setpoint.Reserva_14145,UG01_750_852,4x,14145,,32-bit Float
+UG02_Leituras.Gerador_EnergiaFornecidakWh,UG02_750_852,4x,13383,,32-bit Float
+UG02_Leituras.Gerador_EnergiaFornecidaMWh,UG02_750_852,4x,13385,,32-bit Float
+UG02_Leituras.Gerador_EnergiaFornecidaGWh,UG02_750_852,4x,13387,,32-bit Float
+UG02_Leituras.Gerador_EnergiaFornecidakVArh,UG02_750_852,4x,13389,,32-bit Float
+UG02_Leituras.Gerador_EnergiaFornecidaMVArh,UG02_750_852,4x,13391,,32-bit Float
+UG02_Leituras.Gerador_EnergiaFornecidaGVArh,UG02_750_852,4x,13393,,32-bit Float
+UG02_Leituras.Gerador_EnergiaConsumidakWh,UG02_750_852,4x,13395,,32-bit Float
+UG02_Leituras.Gerador_EnergiaConsumidaMWh,UG02_750_852,4x,13397,,32-bit Float
+UG02_Leituras.Gerador_EnergiaConsumidaGWh,UG02_750_852,4x,13399,,32-bit Float
+UG02_Leituras.Gerador_EnergiaConsumidakVArh,UG02_750_852,4x,13401,,32-bit Float
+UG02_Leituras.Gerador_EnergiaConsumidaMVArh,UG02_750_852,4x,13403,,32-bit Float
+UG02_Leituras.Gerador_EnergiaConsumidaGVArh,UG02_750_852,4x,13405,,32-bit Float
+UG02_Leituras.UHLM_PressaoOleo,UG02_750_852,4x,13289,,Undesignated
+UG02_Leituras.UHLM_VazaoOleo,UG02_750_852,4x,13290,,Undesignated
+UG02_Leituras.Reserva_13291,UG02_750_852,4x,13291,,Undesignated
+UG02_Leituras.Reserva_13292,UG02_750_852,4x,13292,,Undesignated
+UG02_Leituras.Reserva_13293,UG02_750_852,4x,13293,,Undesignated
+UG02_Leituras.Reserva_13294,UG02_750_852,4x,13294,,Undesignated
+UG02_Leituras.UHRV_PressaoOleo,UG02_750_852,4x,13295,,Undesignated
+UG02_Leituras.Reserva_13296,UG02_750_852,4x,13296,,Undesignated
+UG02_Leituras.Reserva_13297,UG02_750_852,4x,13297,,Undesignated
+UG02_Leituras.Reserva_13298,UG02_750_852,4x,13298,,Undesignated
+UG02_Leituras.Reserva_13299,UG02_750_852,4x,13299,,Undesignated
+UG02_Leituras.Reserva_13300,UG02_750_852,4x,13300,,Undesignated
+UG02_Leituras.Turbina_Pressao_JusanteBorboleta,UG02_750_852,4x,13301,,Undesignated
+UG02_Leituras.Turbina_Pressao_MontanteBorboleta,UG02_750_852,4x,13302,,Undesignated
+UG02_Leituras.Turbina_PosicaoDistribuidor,UG02_750_852,4x,13303,,32-bit Float
+UG02_Leituras.Turbina_PosicaoRotor,UG02_750_852,4x,13305,,32-bit Float
+UG02_Leituras.Turbina_Velocidade,UG02_750_852,4x,13307,,32-bit Float
+UG02_Leituras.Turbina_Vazao,UG02_750_852,4x,13308,,Undesignated
+UG02_Leituras.Turbina_Tempo_AberturaBorboleta,UG02_750_852,4x,13309,,Undesignated
+UG02_Leituras.Turbina_Tempo_AberturaBorboleta_Minuto,UG02_750_852,4x,13311,,Undesignated
+UG02_Leituras.Turbina_Tempo_FechamentoBorboleta,UG02_750_852,4x,13313,,Undesignated
+UG02_Leituras.Turbina_Tempo_FechamentoBorboleta_Minuto,UG02_750_852,4x,13315,,Undesignated
+UG02_Leituras.Turbina_Tempo_AberturaByPass,UG02_750_852,4x,13317,,Undesignated
+UG02_Leituras.Turbina_Tempo_AberturaByPass_Minuto,UG02_750_852,4x,13319,,Undesignated
+UG02_Leituras.Turbina_Tempo_FechamentoByPass,UG02_750_852,4x,13321,,Undesignated
+UG02_Leituras.Turbina_Tempo_FechamentoByPass_Minuto,UG02_750_852,4x,13323,,Undesignated
+UG02_Leituras.Turbina_TempoEqualizacao,UG02_750_852,4x,13325,,Undesignated
+UG02_Leituras.Turbina_TempoEqualizacao_Minuto,UG02_750_852,4x,13327,,Undesignated
+UG02_Leituras.Turbina_Vibracao01,UG02_750_852,4x,13329,,Undesignated
+UG02_Leituras.Turbina_Vibracao02,UG02_750_852,4x,13330,,Undesignated
+UG02_Leituras.Turbina_Vibracao03,UG02_750_852,4x,13331,,Undesignated
+UG02_Leituras.Turbina_Vibracao04,UG02_750_852,4x,13332,,Undesignated
+UG02_Leituras.Turbina_Vibracao05,UG02_750_852,4x,13333,,Undesignated
+UG02_Leituras.Turbina_Vibracao06,UG02_750_852,4x,13334,,Undesignated
+UG02_Leituras.Turbina_Vibracao07,UG02_750_852,4x,13335,,Undesignated
+UG02_Leituras.Turbina_Vibracao08,UG02_750_852,4x,13336,,Undesignated
+UG02_Leituras.Turbina_Vibracao09,UG02_750_852,4x,13337,,Undesignated
+UG02_Leituras.Turbina_Vibracao10,UG02_750_852,4x,13338,,Undesignated
+UG02_Leituras.Reserva_13337,UG02_750_852,4x,13339,,Undesignated
+UG02_Leituras.Reserva_13338,UG02_750_852,4x,13340,,Undesignated
+UG02_Leituras.Reserva_13339,UG02_750_852,4x,13341,,Undesignated
+UG02_Leituras.Reserva_13340,UG02_750_852,4x,13342,,Undesignated
+UG02_Leituras.Reserva_13341,UG02_750_852,4x,13343,,Undesignated
+UG02_Leituras.Reserva_13342,UG02_750_852,4x,13344,,Undesignated
+UG02_Leituras.Reserva_13343,UG02_750_852,4x,13345,,Undesignated
+UG02_Leituras.Reserva_13344,UG02_750_852,4x,13346,,Undesignated
+UG02_Leituras.Reserva_13345,UG02_750_852,4x,13347,,Undesignated
+UG02_Leituras.Reserva_13346,UG02_750_852,4x,13348,,Undesignated
+UG02_Leituras.F50_U_FaseAB,UG02_750_852,4x,13349,,Undesignated
+UG02_Leituras.F50_U_FaseBC,UG02_750_852,4x,13350,,Undesignated
+UG02_Leituras.F50_U_FaseCA,UG02_750_852,4x,13351,,Undesignated
+UG02_Leituras.F50_U_FaseAN,UG02_750_852,4x,13352,,Undesignated
+UG02_Leituras.F50_U_FaseBN,UG02_750_852,4x,13353,,Undesignated
+UG02_Leituras.F50_U_FaseCN,UG02_750_852,4x,13354,,Undesignated
+UG02_Leituras.F50_I_FaseA,UG02_750_852,4x,13355,,Undesignated
+UG02_Leituras.F50_I_FaseB,UG02_750_852,4x,13356,,Undesignated
+UG02_Leituras.F50_I_FaseC,UG02_750_852,4x,13357,,Undesignated
+UG02_Leituras.F50_I_Neutro,UG02_750_852,4x,13358,,Undesignated
+UG02_Leituras.F50_P_INST,UG02_750_852,4x,13359,,16-bit Unsigned
+UG02_Leituras.F50_Q_INST,UG02_750_852,4x,13360,,Undesignated
+UG02_Leituras.F50_S_INST,UG02_750_852,4x,13361,,Undesignated
+UG02_Leituras.F50_PF_INST,UG02_750_852,4x,13362,,Undesignated
+UG02_Leituras.F50_FHz_INST,UG02_750_852,4x,13363,,Undesignated
+UG02_Leituras.F50_U_Seq_Pos,UG02_750_852,4x,13364,,Undesignated
+UG02_Leituras.F50_U_Seq_Neg,UG02_750_852,4x,13365,,Undesignated
+UG02_Leituras.F50_U_Seq_Zero,UG02_750_852,4x,13366,,Undesignated
+UG02_Leituras.F50_I_Seq_Pos,UG02_750_852,4x,13367,,Undesignated
+UG02_Leituras.F50_I_Seq_Neg,UG02_750_852,4x,13368,,Undesignated
+UG02_Leituras.F50_I_Seq_Zero,UG02_750_852,4x,13369,,Undesignated
+UG02_Leituras.Reserva_13368,UG02_750_852,4x,13370,,Undesignated
+UG02_Leituras.Reserva_13369,UG02_750_852,4x,13371,,Undesignated
+UG02_Leituras.Reserva_13370,UG02_750_852,4x,13372,,Undesignated
+UG02_Leituras.Reserva_13371,UG02_750_852,4x,13373,,Undesignated
+UG02_Leituras.Reserva_13372,UG02_750_852,4x,13374,,Undesignated
+UG02_Leituras.Reserva_13373,UG02_750_852,4x,13375,,Undesignated
+UG02_Leituras.Reserva_13374,UG02_750_852,4x,13376,,Undesignated
+UG02_Leituras.Reserva_13375,UG02_750_852,4x,13377,,Undesignated
+UG02_Leituras.Reserva_13376,UG02_750_852,4x,13378,,Undesignated
+UG02_Leituras.Gerador_Vbarra,UG02_750_852,4x,13379,,Undesignated
+UG02_Leituras.Gerador_ExcitacaoTensao,UG02_750_852,4x,13380,,Undesignated
+UG02_Leituras.Gerador_ExcitacaoCorrente,UG02_750_852,4x,13381,,Undesignated
+UG02_Leituras.Gerador_Media_Varm,UG02_750_852,4x,13407,,Undesignated
+UG02_Leituras.Gerador_Media_Iarm,UG02_750_852,4x,13408,,Undesignated
+UG02_Leituras.MED_750450_AR1_RTD1,UG02_750_852,4x,13409,,32-bit Float
+UG02_Leituras.MED_750450_AR1_RTD2,UG02_750_852,4x,13411,,32-bit Float
+UG02_Leituras.MED_750450_AR1_RTD3,UG02_750_852,4x,13413,,32-bit Float
+UG02_Leituras.MED_750450_AR1_RTD4,UG02_750_852,4x,13415,,32-bit Float
+UG02_Leituras.MED_750450_AR2_RTD1,UG02_750_852,4x,13417,,32-bit Float
+UG02_Leituras.MED_750450_AR2_RTD2,UG02_750_852,4x,13419,,32-bit Float
+UG02_Leituras.MED_750450_AR2_RTD3,UG02_750_852,4x,13421,,32-bit Float
+UG02_Leituras.MED_750450_AR2_RTD4,UG02_750_852,4x,13423,,32-bit Float
+UG02_Leituras.MED_750450_AR3_RTD1,UG02_750_852,4x,13425,,32-bit Float
+UG02_Leituras.MED_750450_AR3_RTD2,UG02_750_852,4x,13427,,32-bit Float
+UG02_Leituras.MED_750450_AR3_RTD3,UG02_750_852,4x,13429,,32-bit Float
+UG02_Leituras.MED_750450_AR3_RTD4,UG02_750_852,4x,13431,,32-bit Float
+UG02_Leituras.MED_750450_AR4_RTD1,UG02_750_852,4x,13433,,32-bit Float
+UG02_Leituras.MED_750450_AR4_RTD2,UG02_750_852,4x,13435,,32-bit Float
+UG02_Leituras.MED_750450_AR4_RTD3,UG02_750_852,4x,13437,,32-bit Float
+UG02_Leituras.MED_750450_AR4_RTD4,UG02_750_852,4x,13439,,32-bit Float
+UG02_Leituras.MED_750450_AR5_RTD1,UG02_750_852,4x,13441,,32-bit Float
+UG02_Leituras.MED_750450_AR5_RTD2,UG02_750_852,4x,13443,,32-bit Float
+UG02_Leituras.MED_750450_AR5_RTD3,UG02_750_852,4x,13445,,32-bit Float
+UG02_Leituras.MED_750450_AR5_RTD4,UG02_750_852,4x,13447,,32-bit Float
+UG02_Leituras.MED_750450_AR6_RTD1,UG02_750_852,4x,13449,,32-bit Float
+UG02_Leituras.MED_750450_AR6_RTD2,UG02_750_852,4x,13451,,32-bit Float
+UG02_Leituras.MED_750450_AR6_RTD3,UG02_750_852,4x,13453,,32-bit Float
+UG02_Leituras.MED_750450_AR6_RTD4,UG02_750_852,4x,13455,,32-bit Float
+UG02_Leituras.MED_750450_AR7_RTD1,UG02_750_852,4x,13457,,32-bit Float
+UG02_Leituras.MED_750450_AR7_RTD2,UG02_750_852,4x,13459,,32-bit Float
+UG02_Leituras.MED_750450_AR7_RTD3,UG02_750_852,4x,13461,,32-bit Float
+UG02_Leituras.MED_750450_AR7_RTD4,UG02_750_852,4x,13463,,32-bit Float
+UG02_Leituras.MED_750450_AR8_RTD1,UG02_750_852,4x,13465,,32-bit Float
+UG02_Leituras.MED_750450_AR8_RTD2,UG02_750_852,4x,13467,,32-bit Float
+UG02_Leituras.MED_750450_AR8_RTD3,UG02_750_852,4x,13469,,32-bit Float
+UG02_Leituras.MED_750450_AR8_RTD4,UG02_750_852,4x,13471,,32-bit Float
+UG02_Leituras.QCC_NivelMontante_Grade,UG02_750_852,4x,13473,,Undesignated
+UG02_Leituras.QCC_NivelJusante_Grade,UG02_750_852,4x,13474,,Undesignated
+UG02_Leituras.QTA_NivelJusante_CanalFuga,UG02_750_852,4x,13475,,Undesignated
+UG02_Leituras.QTA_NivelMontante_Grade,UG02_750_852,4x,13476,,Undesignated
+UG02_Leituras.QTA_NivelJusante_Grade,UG02_750_852,4x,13477,,Undesignated
+UG02_Comandos.Emergencia_Local,UG02_750_852,1x,12289,,Undesignated
+UG02_Comandos.Emergencia_SuperSEP,UG02_750_852,1x,12290,,Undesignated
+UG02_Comandos.Ctrl_Modo_Manual_Habilitar,UG02_750_852,1x,12291,,Undesignated
+UG02_Comandos.Ctrl_Modo_Manual_Desabilitar,UG02_750_852,1x,12292,,Undesignated
+UG02_Comandos.Ctrl_Modo_Automatico_Habilitar,UG02_750_852,1x,12293,,Undesignated
+UG02_Comandos.Ctrl_Modo_Automatico_Desabilitar,UG02_750_852,1x,12294,,Undesignated
+UG02_Comandos.Reserva_12995,UG02_750_852,1x,12295,,Undesignated
+UG02_Comandos.Reserva_12996,UG02_750_852,1x,12296,,Undesignated
+UG02_Comandos.Reserva_12997,UG02_750_852,1x,12297,,Undesignated
+UG02_Comandos.Reserva_12998,UG02_750_852,1x,12298,,Undesignated
+UG02_Comandos.Reserva_12999,UG02_750_852,1x,12299,,Undesignated
+UG02_Comandos.Reserva_12300,UG02_750_852,1x,12300,,Undesignated
+UG02_Comandos.Reserva_12301,UG02_750_852,1x,12301,,Undesignated
+UG02_Comandos.Reserva_12302,UG02_750_852,1x,12302,,Undesignated
+UG02_Comandos.Reserva_12303,UG02_750_852,1x,12303,,Undesignated
+UG02_Comandos.Reserva_12304,UG02_750_852,1x,12304,,Undesignated
+UG02_Comandos.ModoAuto_Reset,UG02_750_852,1x,12305,,Undesignated
+UG02_Comandos.ModoAuto_SelecionaAlvoUP,UG02_750_852,1x,12306,,Undesignated
+UG02_Comandos.ModoAuto_SelecionaAlvoUPGM,UG02_750_852,1x,12307,,Undesignated
+UG02_Comandos.ModoAuto_SelecionaAlvoUMD,UG02_750_852,1x,12308,,Undesignated
+UG02_Comandos.ModoAuto_SelecionaAlvoUPS,UG02_750_852,1x,12309,,Undesignated
+UG02_Comandos.ModoAuto_SelecionaAlvoUS,UG02_750_852,1x,12310,,Undesignated
+UG02_Comandos.Reserva_12311,UG02_750_852,1x,12311,,Undesignated
+UG02_Comandos.Reserva_12312,UG02_750_852,1x,12312,,Undesignated
+UG02_Comandos.Reserva_12313,UG02_750_852,1x,12313,,Undesignated
+UG02_Comandos.Reserva_12314,UG02_750_852,1x,12314,,Undesignated
+UG02_Comandos.Reserva_12315,UG02_750_852,1x,12315,,Undesignated
+UG02_Comandos.Reserva_12316,UG02_750_852,1x,12316,,Undesignated
+UG02_Comandos.Reserva_12317,UG02_750_852,1x,12317,,Undesignated
+UG02_Comandos.Reserva_12318,UG02_750_852,1x,12318,,Undesignated
+UG02_Comandos.Reserva_12319,UG02_750_852,1x,12319,,Undesignated
+UG02_Comandos.Reserva_12320,UG02_750_852,1x,12320,,Undesignated
+UG02_Comandos.CtrlP_Ligar,UG02_750_852,1x,12321,,Undesignated
+UG02_Comandos.CtrlP_Desligar,UG02_750_852,1x,12322,,Undesignated
+UG02_Comandos.CtrlP_ReligamentoLigar,UG02_750_852,1x,12323,,Undesignated
+UG02_Comandos.CtrlP_ReligamentoDesligar,UG02_750_852,1x,12324,,Undesignated
+UG02_Comandos.CtrlQ_ModoFPLigar,UG02_750_852,1x,12325,,Undesignated
+UG02_Comandos.CtrlQ_ModoFPDesligar,UG02_750_852,1x,12326,,Undesignated
+UG02_Comandos.CtrlQ_ModoVARLigar,UG02_750_852,1x,12327,,Undesignated
+UG02_Comandos.CtrlQ_ModoVARDesligar,UG02_750_852,1x,12328,,Undesignated
+UG02_Comandos.CtrlU_CmdModoReativo,UG02_750_852,1x,12329,,Undesignated
+UG02_Comandos.CtrlU_CmdModoFP,UG02_750_852,1x,12330,,Undesignated
+UG02_Comandos.CtrlU_CmdModoManual,UG02_750_852,1x,12331,,Undesignated
+UG02_Comandos.Reserva_12332,UG02_750_852,1x,12332,,Undesignated
+UG02_Comandos.Reserva_12333,UG02_750_852,1x,12333,,Undesignated
+UG02_Comandos.Reserva_12334,UG02_750_852,1x,12334,,Undesignated
+UG02_Comandos.Reserva_12335,UG02_750_852,1x,12335,,Undesignated
+UG02_Comandos.Reserva_12336,UG02_750_852,1x,12336,,Undesignated
+UG02_Comandos.Reserva_12337,UG02_750_852,1x,12337,,Undesignated
+UG02_Comandos.Reserva_12338,UG02_750_852,1x,12338,,Undesignated
+UG02_Comandos.Reserva_12339,UG02_750_852,1x,12339,,Undesignated
+UG02_Comandos.Reserva_12340,UG02_750_852,1x,12340,,Undesignated
+UG02_Comandos.Reserva_12341,UG02_750_852,1x,12341,,Undesignated
+UG02_Comandos.Reserva_12342,UG02_750_852,1x,12342,,Undesignated
+UG02_Comandos.Reserva_12343,UG02_750_852,1x,12343,,Undesignated
+UG02_Comandos.Reserva_12344,UG02_750_852,1x,12344,,Undesignated
+UG02_Comandos.Reserva_12345,UG02_750_852,1x,12345,,Undesignated
+UG02_Comandos.Reserva_12346,UG02_750_852,1x,12346,,Undesignated
+UG02_Comandos.Reserva_12347,UG02_750_852,1x,12347,,Undesignated
+UG02_Comandos.Reserva_12348,UG02_750_852,1x,12348,,Undesignated
+UG02_Comandos.Reserva_12349,UG02_750_852,1x,12349,,Undesignated
+UG02_Comandos.Reserva_12350,UG02_750_852,1x,12350,,Undesignated
+UG02_Comandos.Reserva_12351,UG02_750_852,1x,12351,,Undesignated
+UG02_Comandos.Reserva_12352,UG02_750_852,1x,12352,,Undesignated
+UG02_Comandos.UHLM_Bomba01_Ligar,UG02_750_852,1x,12353,,Undesignated
+UG02_Comandos.UHLM_Bomba01_Desligar,UG02_750_852,1x,12354,,Undesignated
+UG02_Comandos.UHLM_Bomba02_Ligar,UG02_750_852,1x,12355,,Undesignated
+UG02_Comandos.UHLM_Bomba02_Desligar,UG02_750_852,1x,12356,,Undesignated
+UG02_Comandos.UHLM_ResAquec_Ligar,UG02_750_852,1x,12357,,Undesignated
+UG02_Comandos.UHLM_ResAquec_Desligar,UG02_750_852,1x,12358,,Undesignated
+UG02_Comandos.UHLM_TrocCalor_Bomba01_Ligar,UG02_750_852,1x,12359,,Undesignated
+UG02_Comandos.UHLM_TrocCalor_Bomba01_Desligar,UG02_750_852,1x,12360,,Undesignated
+UG02_Comandos.UHLM_Jacking_Ligar,UG02_750_852,1x,12361,,Undesignated
+UG02_Comandos.UHLM_Jacking_Desligar,UG02_750_852,1x,12362,,Undesignated
+UG02_Comandos.UHLM_SelecaoBomba01_Principal,UG02_750_852,1x,12363,,Undesignated
+UG02_Comandos.UHLM_SelecaoBomba02_Principal,UG02_750_852,1x,12364,,Undesignated
+UG02_Comandos.UHLM_RodizioManual,UG02_750_852,1x,12365,,Undesignated
+UG02_Comandos.UHLM_RodizioAutomatico,UG02_750_852,1x,12366,,Undesignated
+UG02_Comandos.Reserva_12367,UG02_750_852,1x,12367,,Undesignated
+UG02_Comandos.Reserva_12368,UG02_750_852,1x,12368,,Undesignated
+UG02_Comandos.UHRV_Bomba01_Ligar,UG02_750_852,1x,12369,,Undesignated
+UG02_Comandos.UHRV_Bomba01_Desligar,UG02_750_852,1x,12370,,Undesignated
+UG02_Comandos.UHRV_Bomba02_Ligar,UG02_750_852,1x,12371,,Undesignated
+UG02_Comandos.UHRV_Bomba02_Desligar,UG02_750_852,1x,12372,,Undesignated
+UG02_Comandos.UHRV_ForcarPressurizacao,UG02_750_852,1x,12373,,Undesignated
+UG02_Comandos.UHRV_ResAquec_Ligar,UG02_750_852,1x,12374,,Undesignated
+UG02_Comandos.UHRV_ResAquec_Desligar,UG02_750_852,1x,12375,,Undesignated
+UG02_Comandos.UHRV_SelecaoBomba01_Principal,UG02_750_852,1x,12376,,Undesignated
+UG02_Comandos.UHRV_SelecaoBomba02_Principal,UG02_750_852,1x,12377,,Undesignated
+UG02_Comandos.UHRV_RodizioManual,UG02_750_852,1x,12378,,Undesignated
+UG02_Comandos.UHRV_RodizioAutomatico,UG02_750_852,1x,12379,,Undesignated
+UG02_Comandos.Reserva_12380,UG02_750_852,1x,12380,,Undesignated
+UG02_Comandos.Reserva_12381,UG02_750_852,1x,12381,,Undesignated
+UG02_Comandos.Reserva_12382,UG02_750_852,1x,12382,,Undesignated
+UG02_Comandos.Reserva_12383,UG02_750_852,1x,12383,,Undesignated
+UG02_Comandos.Reserva_12384,UG02_750_852,1x,12384,,Undesignated
+UG02_Comandos.Reserva_12385,UG02_750_852,1x,12385,,Undesignated
+UG02_Comandos.Reserva_12386,UG02_750_852,1x,12386,,Undesignated
+UG02_Comandos.Reserva_12387,UG02_750_852,1x,12387,,Undesignated
+UG02_Comandos.Reserva_12388,UG02_750_852,1x,12388,,Undesignated
+UG02_Comandos.Reserva_12389,UG02_750_852,1x,12389,,Undesignated
+UG02_Comandos.Reserva_12390,UG02_750_852,1x,12390,,Undesignated
+UG02_Comandos.Reserva_12391,UG02_750_852,1x,12391,,Undesignated
+UG02_Comandos.Reserva_12392,UG02_750_852,1x,12392,,Undesignated
+UG02_Comandos.Reserva_12393,UG02_750_852,1x,12393,,Undesignated
+UG02_Comandos.Reserva_12394,UG02_750_852,1x,12394,,Undesignated
+UG02_Comandos.Reserva_12395,UG02_750_852,1x,12395,,Undesignated
+UG02_Comandos.Reserva_12396,UG02_750_852,1x,12396,,Undesignated
+UG02_Comandos.Reserva_12397,UG02_750_852,1x,12397,,Undesignated
+UG02_Comandos.Reserva_12398,UG02_750_852,1x,12398,,Undesignated
+UG02_Comandos.Reserva_12399,UG02_750_852,1x,12399,,Undesignated
+UG02_Comandos.Reserva_12400,UG02_750_852,1x,12400,,Undesignated
+UG02_Comandos.SFA_Bomba01_Ligar,UG02_750_852,1x,12401,,Undesignated
+UG02_Comandos.SFA_Bomba01_Desligar,UG02_750_852,1x,12402,,Undesignated
+UG02_Comandos.SFA_Bomba02_Ligar,UG02_750_852,1x,12403,,Undesignated
+UG02_Comandos.SFA_Bomba03_Desligar,UG02_750_852,1x,12404,,Undesignated
+UG02_Comandos.Reserva_12405,UG02_750_852,1x,12405,,Undesignated
+UG02_Comandos.Reserva_12406,UG02_750_852,1x,12406,,Undesignated
+UG02_Comandos.Reserva_12407,UG02_750_852,1x,12407,,Undesignated
+UG02_Comandos.Reserva_12408,UG02_750_852,1x,12408,,Undesignated
+UG02_Comandos.Reserva_12409,UG02_750_852,1x,12409,,Undesignated
+UG02_Comandos.Reserva_12410,UG02_750_852,1x,12410,,Undesignated
+UG02_Comandos.Reserva_12411,UG02_750_852,1x,12411,,Undesignated
+UG02_Comandos.Reserva_12412,UG02_750_852,1x,12412,,Undesignated
+UG02_Comandos.Reserva_12413,UG02_750_852,1x,12413,,Undesignated
+UG02_Comandos.Reserva_12414,UG02_750_852,1x,12414,,Undesignated
+UG02_Comandos.Reserva_12415,UG02_750_852,1x,12415,,Undesignated
+UG02_Comandos.Reserva_12416,UG02_750_852,1x,12416,,Undesignated
+UG02_Comandos.Turbina_ByPass_Abrir,UG02_750_852,1x,12417,,Undesignated
+UG02_Comandos.Turbina_ByPass_Fechar,UG02_750_852,1x,12418,,Undesignated
+UG02_Comandos.Turbina_Borboleta_Abrir,UG02_750_852,1x,12419,,Undesignated
+UG02_Comandos.Turbina_Borboleta_Fechar,UG02_750_852,1x,12420,,Undesignated
+UG02_Comandos.Turbina_Freio_Habilitar,UG02_750_852,1x,12421,,Undesignated
+UG02_Comandos.Turbina_Freio_Desabilitar,UG02_750_852,1x,12422,,Undesignated
+UG02_Comandos.Reserva_12423,UG02_750_852,1x,12423,,Undesignated
+UG02_Comandos.Reserva_12424,UG02_750_852,1x,12424,,Undesignated
+UG02_Comandos.Reserva_12425,UG02_750_852,1x,12425,,Undesignated
+UG02_Comandos.Reserva_12426,UG02_750_852,1x,12426,,Undesignated
+UG02_Comandos.Reserva_12427,UG02_750_852,1x,12427,,Undesignated
+UG02_Comandos.Reserva_12428,UG02_750_852,1x,12428,,Undesignated
+UG02_Comandos.Reserva_12429,UG02_750_852,1x,12429,,Undesignated
+UG02_Comandos.Reserva_12430,UG02_750_852,1x,12430,,Undesignated
+UG02_Comandos.Reserva_12431,UG02_750_852,1x,12431,,Undesignated
+UG02_Comandos.Reserva_12432,UG02_750_852,1x,12432,,Undesignated
+UG02_Comandos.RegV_Start,UG02_750_852,1x,12433,,Undesignated
+UG02_Comandos.RegV_Stop,UG02_750_852,1x,12434,,Undesignated
+UG02_Comandos.RegV_Load,UG02_750_852,1x,12435,,Undesignated
+UG02_Comandos.RegV_Unload,UG02_750_852,1x,12436,,Undesignated
+UG02_Comandos.RegV_IncLoad,UG02_750_852,1x,12427,,Undesignated
+UG02_Comandos.RegV_DecLoad,UG02_750_852,1x,12438,,Undesignated
+UG02_Comandos.RegV_IncrementaVelocidade,UG02_750_852,1x,12439,,Undesignated
+UG02_Comandos.RegV_DecrementaVelocidade,UG02_750_852,1x,12440,,Undesignated
+UG02_Comandos.RegV_Ctrl_Man_Distribuidor,UG02_750_852,1x,12441,,Undesignated
+UG02_Comandos.RegV_Ctrl_Man_ValvDistr,UG02_750_852,1x,12442,,Undesignated
+UG02_Comandos.RegV_Ctrl_Man_Rotor,UG02_750_852,1x,12443,,Undesignated
+UG02_Comandos.RegV_Ctrl_Man_ValvRotor,UG02_750_852,1x,12444,,Undesignated
+UG02_Comandos.RegV_Ctrl_Velocidade,UG02_750_852,1x,12445,,Undesignated
+UG02_Comandos.RegV_ModoEstatismo,UG02_750_852,1x,12446,,Undesignated
+UG02_Comandos.RegV_ModoBase_Carga,UG02_750_852,1x,12447,,Undesignated
+UG02_Comandos.RegV_Compensacao_PotP,UG02_750_852,1x,12448,,Undesignated
+UG02_Comandos.RegV_Ctrl_PotP,UG02_750_852,1x,12449,,Undesignated
+UG02_Comandos.Reserva_12450,UG02_750_852,1x,12450,,Undesignated
+UG02_Comandos.Reserva_12451,UG02_750_852,1x,12451,,Undesignated
+UG02_Comandos.Reserva_12452,UG02_750_852,1x,12452,,Undesignated
+UG02_Comandos.Reserva_12453,UG02_750_852,1x,12453,,Undesignated
+UG02_Comandos.Reserva_12454,UG02_750_852,1x,12454,,Undesignated
+UG02_Comandos.Reserva_12455,UG02_750_852,1x,12455,,Undesignated
+UG02_Comandos.Reserva_12456,UG02_750_852,1x,12456,,Undesignated
+UG02_Comandos.Reserva_12457,UG02_750_852,1x,12457,,Undesignated
+UG02_Comandos.Reserva_12458,UG02_750_852,1x,12458,,Undesignated
+UG02_Comandos.Reserva_12459,UG02_750_852,1x,12459,,Undesignated
+UG02_Comandos.Reserva_12460,UG02_750_852,1x,12460,,Undesignated
+UG02_Comandos.Reserva_12461,UG02_750_852,1x,12461,,Undesignated
+UG02_Comandos.Reserva_12462,UG02_750_852,1x,12462,,Undesignated
+UG02_Comandos.Reserva_12463,UG02_750_852,1x,12463,,Undesignated
+UG02_Comandos.Reserva_12464,UG02_750_852,1x,12464,,Undesignated
+UG02_Comandos.RegT_Ligar,UG02_750_852,1x,12465,,Undesignated
+UG02_Comandos.RegT_Desligar,UG02_750_852,1x,12466,,Undesignated
+UG02_Comandos.RegT_IncrementaTensao,UG02_750_852,1x,12467,,Undesignated
+UG02_Comandos.RegT_DecrementaTensao,UG02_750_852,1x,12468,,Undesignated
+UG02_Comandos.RegT_Liga_PreExcitacao,UG02_750_852,1x,12469,,Undesignated
+UG02_Comandos.RegT_Desliga_PreExcitacao,UG02_750_852,1x,12470,,Undesignated
+UG02_Comandos.RegT_Ctrl_Tensao,UG02_750_852,1x,12471,,Undesignated
+UG02_Comandos.RegT_Ctrl_FP,UG02_750_852,1x,12472,,Undesignated
+UG02_Comandos.RegT_Ctrl_VAR,UG02_750_852,1x,12473,,Undesignated
+UG02_Comandos.Reserva_12474,UG02_750_852,1x,12474,,Undesignated
+UG02_Comandos.Reserva_12475,UG02_750_852,1x,12475,,Undesignated
+UG02_Comandos.Reserva_12476,UG02_750_852,1x,12476,,Undesignated
+UG02_Comandos.Reserva_12477,UG02_750_852,1x,12477,,Undesignated
+UG02_Comandos.Reserva_12478,UG02_750_852,1x,12478,,Undesignated
+UG02_Comandos.Reserva_12479,UG02_750_852,1x,12479,,Undesignated
+UG02_Comandos.Reserva_12480,UG02_750_852,1x,12480,,Undesignated
+UG02_Comandos.SincAuto_Ligar,UG02_750_852,1x,12481,,Undesignated
+UG02_Comandos.SincAuto_Desligar,UG02_750_852,1x,12482,,Undesignated
+UG02_Comandos.SincManual_Ligar,UG02_750_852,1x,12483,,Undesignated
+UG02_Comandos.SincManual_Desligar,UG02_750_852,1x,12484,,Undesignated
+UG02_Comandos.SincBM_Ligar,UG02_750_852,1x,12485,,Undesignated
+UG02_Comandos.SincBMl_Desligar,UG02_750_852,1x,12486,,Undesignated
+UG02_Comandos.Reserva_12487,UG02_750_852,1x,12487,,Undesignated
+UG02_Comandos.Reserva_12488,UG02_750_852,1x,12488,,Undesignated
+UG02_Comandos.Reserva_12489,UG02_750_852,1x,12489,,Undesignated
+UG02_Comandos.Reserva_12490,UG02_750_852,1x,12490,,Undesignated
+UG02_Comandos.Reserva_12491,UG02_750_852,1x,12491,,Undesignated
+UG02_Comandos.Reserva_12492,UG02_750_852,1x,12492,,Undesignated
+UG02_Comandos.Reserva_12493,UG02_750_852,1x,12493,,Undesignated
+UG02_Comandos.Reserva_12494,UG02_750_852,1x,12494,,Undesignated
+UG02_Comandos.Reserva_12495,UG02_750_852,1x,12495,,Undesignated
+UG02_Comandos.Reserva_12496,UG02_750_852,1x,12496,,Undesignated
+UG02_Comandos.Rele86M_Atuar,UG02_750_852,1x,12497,,Undesignated
+UG02_Comandos.Rele86E_Atuar,UG02_750_852,1x,12498,,Undesignated
+UG02_Comandos.Rele86H_Atuar,UG02_750_852,1x,12499,,Undesignated
+UG02_Comandos.Rejeicao_86E,UG02_750_852,1x,12500,,Undesignated
+UG02_Comandos.Rejeicao_86H,UG02_750_852,1x,12501,,Undesignated
+UG02_Comandos.Reserva_12502,UG02_750_852,1x,12502,,Undesignated
+UG02_Comandos.Reserva_12503,UG02_750_852,1x,12503,,Undesignated
+UG02_Comandos.Reserva_12504,UG02_750_852,1x,12504,,Undesignated
+UG02_Comandos.Reserva_12505,UG02_750_852,1x,12505,,Undesignated
+UG02_Comandos.Reserva_12506,UG02_750_852,1x,12506,,Undesignated
+UG02_Comandos.Reserva_12507,UG02_750_852,1x,12507,,Undesignated
+UG02_Comandos.Reserva_12508,UG02_750_852,1x,12508,,Undesignated
+UG02_Comandos.Reserva_12509,UG02_750_852,1x,12509,,Undesignated
+UG02_Comandos.Reserva_12510,UG02_750_852,1x,12510,,Undesignated
+UG02_Comandos.Reserva_12511,UG02_750_852,1x,12511,,Undesignated
+UG02_Comandos.Reserva_12512,UG02_750_852,1x,12512,,Undesignated
+UG02_Comandos.Disj52G_Abrir,UG02_750_852,1x,12513,,Undesignated
+UG02_Comandos.Reserva_12514,UG02_750_852,1x,12514,,Undesignated
+UG02_Comandos.Reserva_12515,UG02_750_852,1x,12515,,Undesignated
+UG02_Comandos.Reserva_12516,UG02_750_852,1x,12516,,Undesignated
+UG02_Comandos.Reserva_12517,UG02_750_852,1x,12517,,Undesignated
+UG02_Comandos.Reserva_12518,UG02_750_852,1x,12518,,Undesignated
+UG02_Comandos.Reserva_12519,UG02_750_852,1x,12519,,Undesignated
+UG02_Comandos.Reserva_12520,UG02_750_852,1x,12520,,Undesignated
+UG02_Comandos.Reserva_12521,UG02_750_852,1x,12521,,Undesignated
+UG02_Comandos.Reserva_12522,UG02_750_852,1x,12522,,Undesignated
+UG02_Comandos.Reserva_12523,UG02_750_852,1x,12523,,Undesignated
+UG02_Comandos.Reserva_12524,UG02_750_852,1x,12524,,Undesignated
+UG02_Comandos.Reserva_12525,UG02_750_852,1x,12525,,Undesignated
+UG02_Comandos.Reserva_12526,UG02_750_852,1x,12526,,Undesignated
+UG02_Comandos.Reserva_12527,UG02_750_852,1x,12527,,Undesignated
+UG02_Comandos.Reserva_12528,UG02_750_852,1x,12528,,Undesignated
+UG02_Comandos.Reset_SuperSEP,UG02_750_852,1x,12529,,Undesignated
+UG02_Comandos.Reset_Local,UG02_750_852,1x,12530,,Undesignated
+UG02_Comandos.CalaSirene_SuperSEP,UG02_750_852,1x,12531,,Undesignated
+UG02_Comandos.CalaSirene_Local,UG02_750_852,1x,12532,,Undesignated
+UG02_Comandos.Reserva_12533,UG02_750_852,1x,12533,,Undesignated
+UG02_Comandos.Reserva_12534,UG02_750_852,1x,12534,,Undesignated
+UG02_Comandos.Reserva_12535,UG02_750_852,1x,12535,,Undesignated
+UG02_Comandos.Reserva_12536,UG02_750_852,1x,12536,,Undesignated
+UG02_Comandos.Reserva_12537,UG02_750_852,1x,12537,,Undesignated
+UG02_Comandos.Reserva_12538,UG02_750_852,1x,12538,,Undesignated
+UG02_Comandos.Reserva_12539,UG02_750_852,1x,12539,,Undesignated
+UG02_Comandos.Reserva_12540,UG02_750_852,1x,12540,,Undesignated
+UG02_Comandos.Reserva_12541,UG02_750_852,1x,12541,,Undesignated
+UG02_Comandos.Reserva_12542,UG02_750_852,1x,12542,,Undesignated
+UG02_Comandos.Reserva_12543,UG02_750_852,1x,12543,,Undesignated
+UG02_Comandos.Reserva_12544,UG02_750_852,1x,12544,,Undesignated
+UG02_Comandos.Reset_AcumuladorEnergia,UG02_750_852,1x,12545,,Undesignated
+UG02_Comandos.Reserva_12546,UG02_750_852,1x,12546,,Undesignated
+UG02_Comandos.Reserva_12547,UG02_750_852,1x,12547,,Undesignated
+UG02_Comandos.Reserva_12548,UG02_750_852,1x,12548,,Undesignated
+UG02_Comandos.Reserva_12549,UG02_750_852,1x,12549,,Undesignated
+UG02_Comandos.Reserva_12550,UG02_750_852,1x,12550,,Undesignated
+UG02_Comandos.Reserva_12551,UG02_750_852,1x,12551,,Undesignated
+UG02_Comandos.Reserva_12552,UG02_750_852,1x,12552,,Undesignated
+UG02_Comandos.Reserva_12553,UG02_750_852,1x,12553,,Undesignated
+UG02_Comandos.Reserva_12554,UG02_750_852,1x,12554,,Undesignated
+UG02_Comandos.Reserva_12555,UG02_750_852,1x,12555,,Undesignated
+UG02_Comandos.Reserva_12556,UG02_750_852,1x,12556,,Undesignated
+UG02_Comandos.Reserva_12557,UG02_750_852,1x,12557,,Undesignated
+UG02_Comandos.Reserva_12558,UG02_750_852,1x,12558,,Undesignated
+UG02_Comandos.Reserva_12559,UG02_750_852,1x,12559,,Undesignated
+UG02_Comandos.Reserva_12560,UG02_750_852,1x,12560,,Undesignated
+UG02_Comandos.AR1_RTD1_Block_Protecao,UG02_750_852,1x,12561,,Undesignated
+UG02_Comandos.AR1_RTD2_Block_Protecao,UG02_750_852,1x,12562,,Undesignated
+UG02_Comandos.AR1_RTD3_Block_Protecao,UG02_750_852,1x,12563,,Undesignated
+UG02_Comandos.AR1_RTD4_Block_Protecao,UG02_750_852,1x,12564,,Undesignated
+UG02_Comandos.AR2_RTD1_Block_Protecao,UG02_750_852,1x,12565,,Undesignated
+UG02_Comandos.AR2_RTD2_Block_Protecao,UG02_750_852,1x,12566,,Undesignated
+UG02_Comandos.AR2_RTD3_Block_Protecao,UG02_750_852,1x,12567,,Undesignated
+UG02_Comandos.AR2_RTD4_Block_Protecao,UG02_750_852,1x,12568,,Undesignated
+UG02_Comandos.AR3_RTD1_Block_Protecao,UG02_750_852,1x,12569,,Undesignated
+UG02_Comandos.AR3_RTD2_Block_Protecao,UG02_750_852,1x,12570,,Undesignated
+UG02_Comandos.AR3_RTD3_Block_Protecao,UG02_750_852,1x,12571,,Undesignated
+UG02_Comandos.AR3_RTD4_Block_Protecao,UG02_750_852,1x,12572,,Undesignated
+UG02_Comandos.AR4_RTD1_Block_Protecao,UG02_750_852,1x,12573,,Undesignated
+UG02_Comandos.AR4_RTD2_Block_Protecao,UG02_750_852,1x,12574,,Undesignated
+UG02_Comandos.AR4_RTD3_Block_Protecao,UG02_750_852,1x,12575,,Undesignated
+UG02_Comandos.AR4_RTD4_Block_Protecao,UG02_750_852,1x,12576,,Undesignated
+UG02_Comandos.AR5_RTD1_Block_Protecao,UG02_750_852,1x,12577,,Undesignated
+UG02_Comandos.AR5_RTD2_Block_Protecao,UG02_750_852,1x,12578,,Undesignated
+UG02_Comandos.AR5_RTD3_Block_Protecao,UG02_750_852,1x,12579,,Undesignated
+UG02_Comandos.AR5_RTD4_Block_Protecao,UG02_750_852,1x,12580,,Undesignated
+UG02_Comandos.AR6_RTD1_Block_Protecao,UG02_750_852,1x,12581,,Undesignated
+UG02_Comandos.AR6_RTD2_Block_Protecao,UG02_750_852,1x,12582,,Undesignated
+UG02_Comandos.AR6_RTD3_Block_Protecao,UG02_750_852,1x,12583,,Undesignated
+UG02_Comandos.AR6_RTD4_Block_Protecao,UG02_750_852,1x,12584,,Undesignated
+UG02_Comandos.AR7_RTD1_Block_Protecao,UG02_750_852,1x,12585,,Undesignated
+UG02_Comandos.AR7_RTD2_Block_Protecao,UG02_750_852,1x,12586,,Undesignated
+UG02_Comandos.AR7_RTD3_Block_Protecao,UG02_750_852,1x,12587,,Undesignated
+UG02_Comandos.AR7_RTD4_Block_Protecao,UG02_750_852,1x,12588,,Undesignated
+UG02_Comandos.AR8_RTD1_Block_Protecao,UG02_750_852,1x,12589,,Undesignated
+UG02_Comandos.AR8_RTD2_Block_Protecao,UG02_750_852,1x,12590,,Undesignated
+UG02_Comandos.AR8_RTD3_Block_Protecao,UG02_750_852,1x,12591,,Undesignated
+UG02_Comandos.AR8_RTD4_Block_Protecao,UG02_750_852,1x,12592,,Undesignated
+UG02_Comandos.NivelHH_Block_Protecao,UG02_750_852,1x,12593,,Undesignated
+UG02_Comandos.NivelH_Block_Protecao,UG02_750_852,1x,12594,,Undesignated
+UG02_Comandos.NivelLL_Block_Protecao,UG02_750_852,1x,12595,,Undesignated
+UG02_Comandos.NivelL_Block_Protecao,UG02_750_852,1x,12596,,Undesignated
+UG02_Comandos.Reserva_125978,UG02_750_852,1x,12597,,Undesignated
+UG02_Comandos.Reserva_125988,UG02_750_852,1x,12598,,Undesignated
+UG02_Comandos.Reserva_125998,UG02_750_852,1x,12599,,Undesignated
+UG02_Comandos.Reserva_126008,UG02_750_852,1x,12600,,Undesignated
+UG02_Comandos.Reserva_12601,UG02_750_852,1x,12601,,Undesignated
+UG02_Comandos.Reserva_12602,UG02_750_852,1x,12602,,Undesignated
+UG02_Comandos.Reserva_12603,UG02_750_852,1x,12603,,Undesignated
+UG02_Comandos.Reserva_12604,UG02_750_852,1x,12604,,Undesignated
+UG02_Comandos.Reserva_12605,UG02_750_852,1x,12605,,Undesignated
+UG02_Comandos.Reserva_12606,UG02_750_852,1x,12606,,Undesignated
+UG02_Comandos.Reserva_12607,UG02_750_852,1x,12607,,Undesignated
+UG02_Comandos.Reserva_12608,UG02_750_852,1x,12608,,Undesignated
+UG02_Comandos.Reset_HorimetroEletrico,UG02_750_852,1x,12609,,Undesignated
+UG02_Comandos.Reset_HorimetroMecanico,UG02_750_852,1x,12610,,Undesignated
+UG02_Comandos.Reset_HorimetroUHRV,UG02_750_852,1x,12611,,Undesignated
+UG02_Comandos.Reset_HorimetroUHLM,UG02_750_852,1x,12612,,Undesignated
+UG02_Comandos.Reserva_12613,UG02_750_852,1x,12613,,Undesignated
+UG02_Comandos.Reserva_12614,UG02_750_852,1x,12614,,Undesignated
+UG02_Comandos.Reserva_12615,UG02_750_852,1x,12615,,Undesignated
+UG02_Comandos.Reserva_12616,UG02_750_852,1x,12616,,Undesignated
+UG02_Comandos.Reserva_12617,UG02_750_852,1x,12617,,Undesignated
+UG02_Comandos.Reserva_12618,UG02_750_852,1x,12618,,Undesignated
+UG02_Comandos.Reserva_12619,UG02_750_852,1x,12619,,Undesignated
+UG02_Comandos.Reserva_12620,UG02_750_852,1x,12620,,Undesignated
+UG02_Comandos.Reserva_12621,UG02_750_852,1x,12621,,Undesignated
+UG02_Comandos.Reserva_12622,UG02_750_852,1x,12622,,Undesignated
+UG02_Comandos.Reserva_12623,UG02_750_852,1x,12623,,Undesignated
+UG02_Comandos.Reserva_12624,UG02_750_852,1x,12624,,Undesignated
+UG02_Comandos.QTA_Comporta01_Abrir,UG02_750_852,1x,12641,,Undesignated
+UG02_Comandos.QTA_Comporta01_Fechar,UG02_750_852,1x,12642,,Undesignated
+UG02_Comandos.QTA_Comporta02_Abrir,UG02_750_852,1x,12643,,Undesignated
+UG02_Comandos.QTA_Comporta02_Fechar,UG02_750_852,1x,12644,,Undesignated
+UG02_Comandos.QTA_Comporta03_Abrir,UG02_750_852,1x,12645,,Undesignated
+UG02_Comandos.QTA_Comporta03_Fechar,UG02_750_852,1x,12646,,Undesignated
+UG02_Comandos.Reserva_12647,UG02_750_852,1x,12647,,Undesignated
+UG02_Comandos.Reserva_12648,UG02_750_852,1x,12648,,Undesignated
+UG02_Comandos.Reserva_12649,UG02_750_852,1x,12649,,Undesignated
+UG02_Comandos.Reserva_12650,UG02_750_852,1x,12650,,Undesignated
+UG02_Comandos.Reserva_12651,UG02_750_852,1x,12651,,Undesignated
+UG02_Comandos.Reserva_12652,UG02_750_852,1x,12652,,Undesignated
+UG02_Comandos.Reserva_12653,UG02_750_852,1x,12653,,Undesignated
+UG02_Comandos.Reserva_12654,UG02_750_852,1x,12654,,Undesignated
+UG02_Comandos.Reserva_12655,UG02_750_852,1x,12655,,Undesignated
+UG02_Comandos.Reserva_12656,UG02_750_852,1x,12656,,Undesignated
+UG02_Status.Operacao_Emergencia_Local,UG02_750_852,1x,20289,,Undesignated
+UG02_Status.Operacao_Emergencia_SuperSEP,UG02_750_852,1x,20290,,Undesignated
+UG02_Status.Operacao_Emergencia_UHRV,UG02_750_852,1x,20291,,Undesignated
+UG02_Status.Operacao_Emergencia_UHLM,UG02_750_852,1x,20292,,Undesignated
+UG02_Status.Operacao_ModoAuto,UG02_750_852,1x,20293,,Undesignated
+UG02_Status.Operacao_ModoManual,UG02_750_852,1x,20294,,Undesignated
+UG02_Status.Operacao_PartidaReligamento,UG02_750_852,1x,20295,,Undesignated
+UG02_Status.Operacao_PartidaManual,UG02_750_852,1x,20296,,Undesignated
+UG02_Status.Operacao_ParadaTripAgua,UG02_750_852,1x,20297,,Undesignated
+UG02_Status.Operacao_ParadaTripEletrico,UG02_750_852,1x,20298,,Undesignated
+UG02_Status.Operacao_ParadaTripMecanico,UG02_750_852,1x,20299,,Undesignated
+UG02_Status.Operacao_ParadaTripHidraulico,UG02_750_852,1x,20300,,Undesignated
+UG02_Status.Operacao_ParadaNormal,UG02_750_852,1x,20301,,Undesignated
+UG02_Status.Operacao_ParadaEmergenciaLocal,UG02_750_852,1x,20302,,Undesignated
+UG02_Status.Operacao_ParadaEmergenciaSuperSEP,UG02_750_852,1x,20303,,Undesignated
+UG02_Status.Operacao_ParadaEmergenciaUHRV,UG02_750_852,1x,20304,,Undesignated
+UG02_Status.Operacao_ParadaEmergenciaUHLM,UG02_750_852,1x,20305,,Undesignated
+UG02_Status.Operacao_ParadaAbertura52G,UG02_750_852,1x,20306,,Undesignated
+UG02_Status.Operacao_ParadaInfoValida,UG02_750_852,1x,20307,,Undesignated
+UG02_Status.Operacao_BloqueioAtuado,UG02_750_852,1x,20308,,Undesignated
+UG02_Status.Reserva_20309,UG02_750_852,1x,20309,,Undesignated
+UG02_Status.Reserva_20310,UG02_750_852,1x,20310,,Undesignated
+UG02_Status.Reserva_20311,UG02_750_852,1x,20311,,Undesignated
+UG02_Status.Reserva_20312,UG02_750_852,1x,20312,,Undesignated
+UG02_Status.Reserva_20313,UG02_750_852,1x,20313,,Undesignated
+UG02_Status.Reserva_20314,UG02_750_852,1x,20314,,Undesignated
+UG02_Status.Reserva_20315,UG02_750_852,1x,20315,,Undesignated
+UG02_Status.Reserva_20316,UG02_750_852,1x,20316,,Undesignated
+UG02_Status.Reserva_20317,UG02_750_852,1x,20317,,Undesignated
+UG02_Status.Reserva_20318,UG02_750_852,1x,20318,,Undesignated
+UG02_Status.Reserva_20319,UG02_750_852,1x,20319,,Undesignated
+UG02_Status.Reserva_20320,UG02_750_852,1x,20320,,Undesignated
+UG02_Status.ModoAuto_AlvoUP,UG02_750_852,1x,20321,,Undesignated
+UG02_Status.ModoAuto_AlvoUPGM,UG02_750_852,1x,20322,,Undesignated
+UG02_Status.ModoAuto_AlvoUMD,UG02_750_852,1x,20323,,Undesignated
+UG02_Status.ModoAuto_AlvoUPS,UG02_750_852,1x,20324,,Undesignated
+UG02_Status.ModoAuto_AlvoUS,UG02_750_852,1x,20325,,Undesignated
+UG02_Status.ModoAuto_UP,UG02_750_852,1x,20326,,Undesignated
+UG02_Status.ModoAuto_UPGM,UG02_750_852,1x,20327,,Undesignated
+UG02_Status.ModoAuto_UMD,UG02_750_852,1x,20328,,Undesignated
+UG02_Status.ModoAuto_UPS,UG02_750_852,1x,20329,,Undesignated
+UG02_Status.ModoAuto_US,UG02_750_852,1x,20330,,Undesignated
+UG02_Status.ModoAuto_Transicao,UG02_750_852,1x,20331,,Undesignated
+UG02_Status.ModoAuto_TransicaoUPtoUPGM,UG02_750_852,1x,20332,,Undesignated
+UG02_Status.ModoAuto_TransicaoUPGMtoUMD,UG02_750_852,1x,20333,,Undesignated
+UG02_Status.ModoAuto_TransicaoUMDtoUPS,UG02_750_852,1x,20334,,Undesignated
+UG02_Status.ModoAuto_TransicaoUPStoUS,UG02_750_852,1x,20335,,Undesignated
+UG02_Status.ModoAuto_TransicaoUStoUPS,UG02_750_852,1x,20336,,Undesignated
+UG02_Status.ModoAuto_TransicaoUPStoUMD,UG02_750_852,1x,20337,,Undesignated
+UG02_Status.ModoAuto_TransicaoUMDtoUPGM,UG02_750_852,1x,20338,,Undesignated
+UG02_Status.ModoAuto_TransicaoUPGMtoUP,UG02_750_852,1x,20339,,Undesignated
+UG02_Status.Reserva_28340,UG02_750_852,1x,20340,,Undesignated
+UG02_Status.Reserva_28341,UG02_750_852,1x,20341,,Undesignated
+UG02_Status.Reserva_28342,UG02_750_852,1x,20342,,Undesignated
+UG02_Status.Reserva_28343,UG02_750_852,1x,20343,,Undesignated
+UG02_Status.Reserva_28344,UG02_750_852,1x,20344,,Undesignated
+UG02_Status.Reserva_28345,UG02_750_852,1x,20345,,Undesignated
+UG02_Status.Reserva_28346,UG02_750_852,1x,20346,,Undesignated
+UG02_Status.Reserva_28347,UG02_750_852,1x,20347,,Undesignated
+UG02_Status.Reserva_28348,UG02_750_852,1x,20348,,Undesignated
+UG02_Status.Reserva_13149,UG02_750_852,1x,20349,,Undesignated
+UG02_Status.Reserva_28350,UG02_750_852,1x,20350,,Undesignated
+UG02_Status.Reserva_28351,UG02_750_852,1x,20351,,Undesignated
+UG02_Status.Reserva_28352,UG02_750_852,1x,20352,,Undesignated
+UG02_Status.CtrlP_Status,UG02_750_852,1x,20353,,Undesignated
+UG02_Status.CtrlP_Religamento,UG02_750_852,1x,20354,,Undesignated
+UG02_Status.CtrlQ_ModoFP,UG02_750_852,1x,20355,,Undesignated
+UG02_Status.CtrlQ_ModoVAr,UG02_750_852,1x,20356,,Undesignated
+UG02_Status.Reserva_20357,UG02_750_852,1x,20357,,Undesignated
+UG02_Status.Reserva_20358,UG02_750_852,1x,20358,,Undesignated
+UG02_Status.Reserva_20359,UG02_750_852,1x,20359,,Undesignated
+UG02_Status.Reserva_20360,UG02_750_852,1x,20360,,Undesignated
+UG02_Status.Reserva_20361,UG02_750_852,1x,20361,,Undesignated
+UG02_Status.Reserva_20362,UG02_750_852,1x,20362,,Undesignated
+UG02_Status.Reserva_20363,UG02_750_852,1x,20363,,Undesignated
+UG02_Status.Reserva_20364,UG02_750_852,1x,20364,,Undesignated
+UG02_Status.Reserva_20365,UG02_750_852,1x,20365,,Undesignated
+UG02_Status.Reserva_20366,UG02_750_852,1x,20366,,Undesignated
+UG02_Status.Reserva_20367,UG02_750_852,1x,20367,,Undesignated
+UG02_Status.Reserva_20368,UG02_750_852,1x,20368,,Undesignated
+UG02_Status.UHLM_Ligada,UG02_750_852,1x,20369,,Undesignated
+UG02_Status.UHLM_Desligada,UG02_750_852,1x,20370,,Undesignated
+UG02_Status.UHLM_Operacional,UG02_750_852,1x,20371,,Undesignated
+UG02_Status.UHLM_Bomba01_Status,UG02_750_852,1x,20372,,Undesignated
+UG02_Status.UHLM_Bomba02_Status,UG02_750_852,1x,20373,,Undesignated
+UG02_Status.UHLM_Bomba03_Status,UG02_750_852,1x,20374,,Undesignated
+UG02_Status.UHLM_Bomba04_Status,UG02_750_852,1x,20375,,Undesignated
+UG02_Status.UHLM_Bomba05_Status,UG02_750_852,1x,20376,,Undesignated
+UG02_Status.UHLM_Bomba01_Trip,UG02_750_852,1x,20377,,Undesignated
+UG02_Status.UHLM_Bomba02_Trip,UG02_750_852,1x,20378,,Undesignated
+UG02_Status.UHLM_Bomba03_Trip,UG02_750_852,1x,20379,,Undesignated
+UG02_Status.UHLM_Bomba04_Trip,UG02_750_852,1x,20380,,Undesignated
+UG02_Status.UHLM_Bomba05_Trip,UG02_750_852,1x,20381,,Undesignated
+UG02_Status.UHLM_Fluxo01_TrocrCalor,UG02_750_852,1x,20382,,Undesignated
+UG02_Status.UHLM_Fluxo02_TrocrCalor,UG02_750_852,1x,20383,,Undesignated
+UG02_Status.UHLM_Fluxo03_TrocrCalor,UG02_750_852,1x,20384,,Undesignated
+UG02_Status.UHLM_Fluxo04_TrocrCalor,UG02_750_852,1x,20385,,Undesignated
+UG02_Status.UHLM_Fluxo05_TrocrCalor,UG02_750_852,1x,20386,,Undesignated
+UG02_Status.UHLM_FluxoOleo_Mancal01,UG02_750_852,1x,20387,,Undesignated
+UG02_Status.UHLM_FluxoOleo_Mancal02,UG02_750_852,1x,20388,,Undesignated
+UG02_Status.UHLM_FluxoOleo_Mancal03,UG02_750_852,1x,20389,,Undesignated
+UG02_Status.UHLM_FluxoOleo_Mancal04,UG02_750_852,1x,20390,,Undesignated
+UG02_Status.UHLM_FluxoOleo_Mancal05,UG02_750_852,1x,20391,,Undesignated
+UG02_Status.UHLM_Pressostato01_Linha,UG02_750_852,1x,20392,,Undesignated
+UG02_Status.UHLM_Pressostato02_Linha,UG02_750_852,1x,20393,,Undesignated
+UG02_Status.UHLM_Pressostato03_Linha,UG02_750_852,1x,20394,,Undesignated
+UG02_Status.UHLM_Pressostato04_Linha,UG02_750_852,1x,20395,,Undesignated
+UG02_Status.UHLM_Pressostato05_Linha,UG02_750_852,1x,20396,,Undesignated
+UG02_Status.UHLM_FiltroOleo01_Sujo,UG02_750_852,1x,20397,,Undesignated
+UG02_Status.UHLM_FiltroOleo02_Sujo,UG02_750_852,1x,20398,,Undesignated
+UG02_Status.UHLM_FiltroOleo03_Sujo,UG02_750_852,1x,20399,,Undesignated
+UG02_Status.UHLM_FiltroOleo04_Sujo,UG02_750_852,1x,20400,,Undesignated
+UG02_Status.UHLM_FiltroOleo05_Sujo,UG02_750_852,1x,20401,,Undesignated
+UG02_Status.UHLM_NivelMaximo01_Oleo,UG02_750_852,1x,20402,,Undesignated
+UG02_Status.UHLM_NivelMaximo02_Oleo,UG02_750_852,1x,20403,,Undesignated
+UG02_Status.UHLM_NivelMaximo03_Oleo,UG02_750_852,1x,20404,,Undesignated
+UG02_Status.UHLM_NivelMinimo01_Oleo,UG02_750_852,1x,20405,,Undesignated
+UG02_Status.UHLM_NivelMinimo02_Oleo,UG02_750_852,1x,20406,,Undesignated
+UG02_Status.UHLM_NivelMinimo03_Oleo,UG02_750_852,1x,20407,,Undesignated
+UG02_Status.UHLM_ResAquec_Operacional,UG02_750_852,1x,20408,,Undesignated
+UG02_Status.UHLM_ResAquec_Ligada,UG02_750_852,1x,20409,,Undesignated
+UG02_Status.UHLM_ResAquec_Desligada,UG02_750_852,1x,20410,,Undesignated
+UG02_Status.UHLM_ResAquec_Trip,UG02_750_852,1x,20411,,Undesignated
+UG02_Status.TrocCalor_Bomba01_Status,UG02_750_852,1x,20412,,Undesignated
+UG02_Status.TrocCalor_Bomba02_Status,UG02_750_852,1x,20413,,Undesignated
+UG02_Status.TrocCalor_Bomba03_Status,UG02_750_852,1x,20414,,Undesignated
+UG02_Status.TrocCalor_Bomba04_Status,UG02_750_852,1x,20415,,Undesignated
+UG02_Status.TrocCalor_Bomba05_Status,UG02_750_852,1x,20416,,Undesignated
+UG02_Status.TrocCalor_Bomba01_Trip,UG02_750_852,1x,20417,,Undesignated
+UG02_Status.TrocCalor_Bomba02_Trip,UG02_750_852,1x,20418,,Undesignated
+UG02_Status.TrocCalor_Bomba03_Trip,UG02_750_852,1x,20419,,Undesignated
+UG02_Status.TrocCalor_Bomba04_Trip,UG02_750_852,1x,20420,,Undesignated
+UG02_Status.TrocCalor_Bomba05_Trip,UG02_750_852,1x,20421,,Undesignated
+UG02_Status.UHLM_TrocCalor_Operacional,UG02_750_852,1x,20422,,Undesignated
+UG02_Status.Reserva_20423,UG02_750_852,1x,20423,,Undesignated
+UG02_Status.Reserva_20424,UG02_750_852,1x,20424,,Undesignated
+UG02_Status.Reserva_20425,UG02_750_852,1x,20425,,Undesignated
+UG02_Status.Reserva_20426,UG02_750_852,1x,20426,,Undesignated
+UG02_Status.Reserva_20427,UG02_750_852,1x,20427,,Undesignated
+UG02_Status.Reserva_20428,UG02_750_852,1x,20428,,Undesignated
+UG02_Status.Reserva_20429,UG02_750_852,1x,20429,,Undesignated
+UG02_Status.Reserva_20430,UG02_750_852,1x,20430,,Undesignated
+UG02_Status.Reserva_20431,UG02_750_852,1x,20431,,Undesignated
+UG02_Status.Reserva_20432,UG02_750_852,1x,20432,,Undesignated
+UG02_Status.UHRV_Ligada,UG02_750_852,1x,20433,,Undesignated
+UG02_Status.UHRV_Desligada,UG02_750_852,1x,20434,,Undesignated
+UG02_Status.UHRV_Operacional,UG02_750_852,1x,20435,,Undesignated
+UG02_Status.UHRV_PressaoCritica,UG02_750_852,1x,20436,,Undesignated
+UG02_Status.UHRV_Bomba01_Status,UG02_750_852,1x,20437,,Undesignated
+UG02_Status.UHRV_Bomba02_Status,UG02_750_852,1x,20438,,Undesignated
+UG02_Status.UHRV_Bomba03_Status,UG02_750_852,1x,20439,,Undesignated
+UG02_Status.UHRV_Bomba04_Status,UG02_750_852,1x,20440,,Undesignated
+UG02_Status.UHRV_Bomba05_Status,UG02_750_852,1x,20441,,Undesignated
+UG02_Status.UHRV_Bomba01_Trip,UG02_750_852,1x,20442,,Undesignated
+UG02_Status.UHRV_Bomba02_Trip,UG02_750_852,1x,20443,,Undesignated
+UG02_Status.UHRV_Bomba03_Trip,UG02_750_852,1x,20444,,Undesignated
+UG02_Status.UHRV_Bomba04_Trip,UG02_750_852,1x,20445,,Undesignated
+UG02_Status.UHRV_Bomba05_Trip,UG02_750_852,1x,20446,,Undesignated
+UG02_Status.UHRV_FiltroPressao01_Sujo,UG02_750_852,1x,20447,,Undesignated
+UG02_Status.UHRV_FiltroPressao02_Sujo,UG02_750_852,1x,20448,,Undesignated
+UG02_Status.UHRV_FiltroPressao03_Sujo,UG02_750_852,1x,20449,,Undesignated
+UG02_Status.UHRV_FiltroPressao04_Sujo,UG02_750_852,1x,20450,,Undesignated
+UG02_Status.UHRV_FiltroPressao05_Sujo,UG02_750_852,1x,20451,,Undesignated
+UG02_Status.UHRV_FiltroRetorno01_Sujo,UG02_750_852,1x,20452,,Undesignated
+UG02_Status.UHRV_FiltroRetorno02_Sujo,UG02_750_852,1x,20453,,Undesignated
+UG02_Status.UHRV_FiltroRetorno03_Sujo,UG02_750_852,1x,20454,,Undesignated
+UG02_Status.UHRV_FiltroRetorno04_Sujo,UG02_750_852,1x,20455,,Undesignated
+UG02_Status.UHRV_FiltroRetorno05_Sujo,UG02_750_852,1x,20456,,Undesignated
+UG02_Status.UHRV_NivelMinimo01_Oleo,UG02_750_852,1x,20457,,Undesignated
+UG02_Status.UHRV_NivelMinimo02_Oleo,UG02_750_852,1x,20458,,Undesignated
+UG02_Status.UHRV_NivelMinimo03_Oleo,UG02_750_852,1x,20459,,Undesignated
+UG02_Status.UHRV_NivelMaximo01_Oleo,UG02_750_852,1x,20460,,Undesignated
+UG02_Status.UHRV_NivelMaximo02_Oleo,UG02_750_852,1x,20461,,Undesignated
+UG02_Status.UHRV_NivelMaximo03_Oleo,UG02_750_852,1x,20462,,Undesignated
+UG02_Status.UHRV_Pressostato_Maximo,UG02_750_852,1x,20463,,Undesignated
+UG02_Status.UHRV_Pressostato_Minimo,UG02_750_852,1x,20464,,Undesignated
+UG02_Status.UHRV_Pressostato_Critico,UG02_750_852,1x,20465,,Undesignated
+UG02_Status.UHRV_Pressostato01,UG02_750_852,1x,20466,,Undesignated
+UG02_Status.UHRV_Pressostato02,UG02_750_852,1x,20467,,Undesignated
+UG02_Status.UHRV_Pressostato03,UG02_750_852,1x,20468,,Undesignated
+UG02_Status.UHRV_ResAquec_Ligada,UG02_750_852,1x,20469,,Undesignated
+UG02_Status.UHRV_ResAquec_Desligada,UG02_750_852,1x,20470,,Undesignated
+UG02_Status.UHRV_ValvCtrl_Pressao01,UG02_750_852,1x,20471,,Undesignated
+UG02_Status.UHRV_ValvCtrl_Pressao02,UG02_750_852,1x,20472,,Undesignated
+UG02_Status.Reserva_20473,UG02_750_852,1x,20473,,Undesignated
+UG02_Status.Reserva_20474,UG02_750_852,1x,20474,,Undesignated
+UG02_Status.Reserva_20475,UG02_750_852,1x,20475,,Undesignated
+UG02_Status.Reserva_20476,UG02_750_852,1x,20476,,Undesignated
+UG02_Status.Reserva_20477,UG02_750_852,1x,20477,,Undesignated
+UG02_Status.Reserva_20478,UG02_750_852,1x,20478,,Undesignated
+UG02_Status.Reserva_20479,UG02_750_852,1x,20479,,Undesignated
+UG02_Status.Reserva_20480,UG02_750_852,1x,20480,,Undesignated
+UG02_Status.Reserva_20481,UG02_750_852,1x,20481,,Undesignated
+UG02_Status.Reserva_20482,UG02_750_852,1x,20482,,Undesignated
+UG02_Status.Reserva_20483,UG02_750_852,1x,20483,,Undesignated
+UG02_Status.Reserva_20484,UG02_750_852,1x,20484,,Undesignated
+UG02_Status.Reserva_20485,UG02_750_852,1x,20485,,Undesignated
+UG02_Status.Reserva_20486,UG02_750_852,1x,20486,,Undesignated
+UG02_Status.Reserva_20487,UG02_750_852,1x,20487,,Undesignated
+UG02_Status.Reserva_20488,UG02_750_852,1x,20488,,Undesignated
+UG02_Status.Reserva_20489,UG02_750_852,1x,20489,,Undesignated
+UG02_Status.Reserva_20490,UG02_750_852,1x,20490,,Undesignated
+UG02_Status.Reserva_20491,UG02_750_852,1x,20491,,Undesignated
+UG02_Status.Reserva_20492,UG02_750_852,1x,20492,,Undesignated
+UG02_Status.Reserva_20493,UG02_750_852,1x,20493,,Undesignated
+UG02_Status.Reserva_20494,UG02_750_852,1x,20494,,Undesignated
+UG02_Status.Reserva_20495,UG02_750_852,1x,20495,,Undesignated
+UG02_Status.Reserva_20496,UG02_750_852,1x,20496,,Undesignated
+UG02_Status.SFA_Operacional,UG02_750_852,1x,20497,,Undesignated
+UG02_Status.SFA_Ligada,UG02_750_852,1x,20498,,Undesignated
+UG02_Status.SFA_Desligada,UG02_750_852,1x,20499,,Undesignated
+UG02_Status.SFA_StatusBomba01,UG02_750_852,1x,20500,,Undesignated
+UG02_Status.SFA_StatusBomba02,UG02_750_852,1x,20501,,Undesignated
+UG02_Status.SFA_TRIPBomba01,UG02_750_852,1x,20502,,Undesignated
+UG02_Status.SFA_TRIPBomba02,UG02_750_852,1x,20503,,Undesignated
+UG02_Status.SFA_Pressostato01,UG02_750_852,1x,20504,,Undesignated
+UG02_Status.SFA_Pressostato02,UG02_750_852,1x,20505,,Undesignated
+UG02_Status.SFA_Pressostato03,UG02_750_852,1x,20506,,Undesignated
+UG02_Status.Reserva_20507,UG02_750_852,1x,20507,,Undesignated
+UG02_Status.Reserva_20508,UG02_750_852,1x,20508,,Undesignated
+UG02_Status.Reserva_20509,UG02_750_852,1x,20509,,Undesignated
+UG02_Status.Reserva_20510,UG02_750_852,1x,20510,,Undesignated
+UG02_Status.Reserva_20511,UG02_750_852,1x,20511,,Undesignated
+UG02_Status.Reserva_20512,UG02_750_852,1x,20512,,Undesignated
+UG02_Status.Turbina_DistribuidorFechado,UG02_750_852,1x,20513,,Undesignated
+UG02_Status.Turbina_BorboletaAbrindo,UG02_750_852,1x,20514,,Undesignated
+UG02_Status.Turbina_BorboletaFechando,UG02_750_852,1x,20515,,Undesignated
+UG02_Status.Turbina_BorboletaCracking,UG02_750_852,1x,20516,,Undesignated
+UG02_Status.Turbina_BorboletaFechada,UG02_750_852,1x,20517,,Undesignated
+UG02_Status.Turbina_BorboletaAberta,UG02_750_852,1x,20518,,Undesignated
+UG02_Status.Turbina_BorboletaRetencao,UG02_750_852,1x,20519,,Undesignated
+UG02_Status.Turbina_BorboletaTravada,UG02_750_852,1x,20520,,Undesignated
+UG02_Status.Turbina_BorboletaDeriva,UG02_750_852,1x,20521,,Undesignated
+UG02_Status.Turbina_ByPassAbrindo,UG02_750_852,1x,20522,,Undesignated
+UG02_Status.Turbina_ByPassFechando,UG02_750_852,1x,20523,,Undesignated
+UG02_Status.Turbina_ByPassFechado,UG02_750_852,1x,20524,,Undesignated
+UG02_Status.Turbina_ByPassAberto,UG02_750_852,1x,20525,,Undesignated
+UG02_Status.Turbina_Operacional,UG02_750_852,1x,20526,,Undesignated
+UG02_Status.Turbina_Equalizando,UG02_750_852,1x,20527,,Undesignated
+UG02_Status.Turbina_Equalizada,UG02_750_852,1x,20528,,Undesignated
+UG02_Status.Turbina_Aberta,UG02_750_852,1x,20529,,Undesignated
+UG02_Status.Turbina_Fechada,UG02_750_852,1x,20530,,Undesignated
+UG02_Status.Turbina_PasDesalinhadas,UG02_750_852,1x,20531,,Undesignated
+UG02_Status.Turbina_Pressostato01,UG02_750_852,1x,20532,,Undesignated
+UG02_Status.Turbina_Pressostato02,UG02_750_852,1x,20533,,Undesignated
+UG02_Status.Turbina_Pressostato03,UG02_750_852,1x,20534,,Undesignated
+UG02_Status.Reserva_20535,UG02_750_852,1x,20535,,Undesignated
+UG02_Status.Reserva_20536,UG02_750_852,1x,20536,,Undesignated
+UG02_Status.Reserva_20537,UG02_750_852,1x,20537,,Undesignated
+UG02_Status.Reserva_20538,UG02_750_852,1x,20538,,Undesignated
+UG02_Status.Reserva_20539,UG02_750_852,1x,20539,,Undesignated
+UG02_Status.Reserva_20540,UG02_750_852,1x,20540,,Undesignated
+UG02_Status.Reserva_20541,UG02_750_852,1x,20541,,Undesignated
+UG02_Status.Reserva_20542,UG02_750_852,1x,20542,,Undesignated
+UG02_Status.Reserva_20543,UG02_750_852,1x,20543,,Undesignated
+UG02_Status.Reserva_20544,UG02_750_852,1x,20544,,Undesignated
+UG02_Status.RegV_Habilitado,UG02_750_852,1x,20545,,Undesignated
+UG02_Status.RegV_Desabilitado,UG02_750_852,1x,20546,,Undesignated
+UG02_Status.RegV_ProtecoesAtuadas,UG02_750_852,1x,20547,,Undesignated
+UG02_Status.RegV_TurbinaParada,UG02_750_852,1x,20548,,Undesignated
+UG02_Status.RegV_RPM030,UG02_750_852,1x,20549,,Undesignated
+UG02_Status.RegV_RPM090,UG02_750_852,1x,20550,,Undesignated
+UG02_Status.RegV_RPM100,UG02_750_852,1x,20551,,Undesignated
+UG02_Status.RegV_RPM125,UG02_750_852,1x,20552,,Undesignated
+UG02_Status.RegV_CargaZerada,UG02_750_852,1x,20553,,Undesignated
+UG02_Status.RegV_ValvSeguranca01,UG02_750_852,1x,20554,,Undesignated
+UG02_Status.RegV_ValvSeguranca02,UG02_750_852,1x,20555,,Undesignated
+UG02_Status.RegV_ValvSeg_Borboleta,UG02_750_852,1x,20556,,Undesignated
+UG02_Status.RegV_Ctrl_Man_Distribuidor_Status,UG02_750_852,1x,20557,,Undesignated
+UG02_Status.RegV_Ctrl_Man_ValvDistr_Status,UG02_750_852,1x,20558,,Undesignated
+UG02_Status.RegV_Ctrl_Man_Rotor_Status,UG02_750_852,1x,20559,,Undesignated
+UG02_Status.RegV_Ctrl_Velocidade_Status,UG02_750_852,1x,20560,,Undesignated
+UG02_Status.RegV_Estatismo_Status,UG02_750_852,1x,20561,,Undesignated
+UG02_Status.RegV_BaseCarga_Status,UG02_750_852,1x,20562,,Undesignated
+UG02_Status.RegV_Compensacao_PotP_Status,UG02_750_852,1x,20563,,Undesignated
+UG02_Status.RegV_Ctrl_PotP_Status,UG02_750_852,1x,20564,,Undesignated
+UG02_Status.RegV_MaquinaEmDescarga,UG02_750_852,1x,20565,,Undesignated
+UG02_Status.RegV_SobreVel_Mecanica,UG02_750_852,1x,20566,,Undesignated
+UG02_Status.Reserva_20567,UG02_750_852,1x,20567,,Undesignated
+UG02_Status.Reserva_20568,UG02_750_852,1x,20568,,Undesignated
+UG02_Status.Reserva_20569,UG02_750_852,1x,20569,,Undesignated
+UG02_Status.Reserva_20570,UG02_750_852,1x,20570,,Undesignated
+UG02_Status.Reserva_20571,UG02_750_852,1x,20571,,Undesignated
+UG02_Status.Reserva_20572,UG02_750_852,1x,20572,,Undesignated
+UG02_Status.Reserva_20573,UG02_750_852,1x,20573,,Undesignated
+UG02_Status.Reserva_20574,UG02_750_852,1x,20574,,Undesignated
+UG02_Status.Reserva_20575,UG02_750_852,1x,20575,,Undesignated
+UG02_Status.Reserva_20576,UG02_750_852,1x,20576,,Undesignated
+UG02_Status.RegT_Habilitado,UG02_750_852,1x,20577,,Undesignated
+UG02_Status.RegT_Desabilitado,UG02_750_852,1x,20578,,Undesignated
+UG02_Status.RegT_41C_Ligado,UG02_750_852,1x,20579,,Undesignated
+UG02_Status.RegT_41C_Desligado,UG02_750_852,1x,20580,,Undesignated
+UG02_Status.RegT_PreExcitacao,UG02_750_852,1x,20581,,Undesignated
+UG02_Status.RegT_SemErro,UG02_750_852,1x,20582,,Undesignated
+UG02_Status.RegT_TensaoEstabilizada,UG02_750_852,1x,20583,,Undesignated
+UG02_Status.RegT_Protecao_Atuada,UG02_750_852,1x,20584,,Undesignated
+UG02_Status.RegT_Ctrl_Tensao_Status,UG02_750_852,1x,20585,,Undesignated
+UG02_Status.RegT_Ctrl_FP_Status,UG02_750_852,1x,20586,,Undesignated
+UG02_Status.RegT_Ctrl_VAR_Status,UG02_750_852,1x,20587,,Undesignated
+UG02_Status.RegT_Escova_Positiva,UG02_750_852,1x,20588,,Undesignated
+UG02_Status.RegT_Escova_Negativa,UG02_750_852,1x,20589,,Undesignated
+UG02_Status.Reserva_20590,UG02_750_852,1x,20590,,Undesignated
+UG02_Status.Reserva_20591,UG02_750_852,1x,20591,,Undesignated
+UG02_Status.Reserva_20592,UG02_750_852,1x,20592,,Undesignated
+UG02_Status.Reserva_20593,UG02_750_852,1x,20593,,Undesignated
+UG02_Status.Reserva_20594,UG02_750_852,1x,20594,,Undesignated
+UG02_Status.Reserva_20595,UG02_750_852,1x,20595,,Undesignated
+UG02_Status.Reserva_20596,UG02_750_852,1x,20596,,Undesignated
+UG02_Status.Reserva_20597,UG02_750_852,1x,20597,,Undesignated
+UG02_Status.Reserva_20598,UG02_750_852,1x,20598,,Undesignated
+UG02_Status.Reserva_20599,UG02_750_852,1x,20599,,Undesignated
+UG02_Status.Reserva_20600,UG02_750_852,1x,20600,,Undesignated
+UG02_Status.Reserva_20601,UG02_750_852,1x,20601,,Undesignated
+UG02_Status.Reserva_20602,UG02_750_852,1x,20602,,Undesignated
+UG02_Status.Reserva_20603,UG02_750_852,1x,20603,,Undesignated
+UG02_Status.Reserva_20604,UG02_750_852,1x,20604,,Undesignated
+UG02_Status.Reserva_20605,UG02_750_852,1x,20605,,Undesignated
+UG02_Status.Reserva_20606,UG02_750_852,1x,20606,,Undesignated
+UG02_Status.Reserva_20607,UG02_750_852,1x,20607,,Undesignated
+UG02_Status.Reserva_20608,UG02_750_852,1x,20608,,Undesignated
+UG02_Status.Sinc_Habilitado,UG02_750_852,1x,20609,,Undesignated
+UG02_Status.Sinc_ModoAuto,UG02_750_852,1x,20610,,Undesignated
+UG02_Status.Sinc_ModoManual,UG02_750_852,1x,20611,,Undesignated
+UG02_Status.Sinc_ModoBM,UG02_750_852,1x,20612,,Undesignated
+UG02_Status.Reserva_20613,UG02_750_852,1x,20613,,Undesignated
+UG02_Status.Reserva_20614,UG02_750_852,1x,20614,,Undesignated
+UG02_Status.Reserva_20615,UG02_750_852,1x,20615,,Undesignated
+UG02_Status.Reserva_20616,UG02_750_852,1x,20616,,Undesignated
+UG02_Status.Reserva_20617,UG02_750_852,1x,20617,,Undesignated
+UG02_Status.Reserva_20618,UG02_750_852,1x,20618,,Undesignated
+UG02_Status.Reserva_20619,UG02_750_852,1x,20619,,Undesignated
+UG02_Status.Reserva_20620,UG02_750_852,1x,20620,,Undesignated
+UG02_Status.Reserva_20621,UG02_750_852,1x,20621,,Undesignated
+UG02_Status.Reserva_20622,UG02_750_852,1x,20622,,Undesignated
+UG02_Status.Reserva_20623,UG02_750_852,1x,20623,,Undesignated
+UG02_Status.Reserva_20624,UG02_750_852,1x,20624,,Undesignated
+UG02_Status.Rele86E_Status,UG02_750_852,1x,20625,,Undesignated
+UG02_Status.Rele86M_Status,UG02_750_852,1x,20626,,Undesignated
+UG02_Status.Rele86H_Status,UG02_750_852,1x,20627,,Undesignated
+UG02_Status.Reserva_20628,UG02_750_852,1x,20628,,Undesignated
+UG02_Status.Reserva_20629,UG02_750_852,1x,20629,,Undesignated
+UG02_Status.Reserva_20630,UG02_750_852,1x,20630,,Undesignated
+UG02_Status.Reserva_20631,UG02_750_852,1x,20631,,Undesignated
+UG02_Status.Reserva_20632,UG02_750_852,1x,20632,,Undesignated
+UG02_Status.Reserva_20633,UG02_750_852,1x,20633,,Undesignated
+UG02_Status.Reserva_20634,UG02_750_852,1x,20634,,Undesignated
+UG02_Status.Reserva_20635,UG02_750_852,1x,20635,,Undesignated
+UG02_Status.Reserva_20636,UG02_750_852,1x,20636,,Undesignated
+UG02_Status.Reserva_20637,UG02_750_852,1x,20637,,Undesignated
+UG02_Status.Reserva_20638,UG02_750_852,1x,20638,,Undesignated
+UG02_Status.Reserva_20639,UG02_750_852,1x,20639,,Undesignated
+UG02_Status.Reserva_20640,UG02_750_852,1x,20640,,Undesignated
+UG02_Status.Disj52G_Aberto,UG02_750_852,1x,20641,,Undesignated
+UG02_Status.Disj52G_Fechado,UG02_750_852,1x,20642,,Undesignated
+UG02_Status.Disj52G_Inconsistente,UG02_750_852,1x,20643,,Undesignated
+UG02_Status.Disj52G_MolaCarregada,UG02_750_852,1x,20644,,Undesignated
+UG02_Status.Disj52G_ModoTeste,UG02_750_852,1x,20645,,Undesignated
+UG02_Status.Disj52G_Inserido,UG02_750_852,1x,20646,,Undesignated
+UG02_Status.Disj52G_Extraido,UG02_750_852,1x,20647,,Undesignated
+UG02_Status.Disj52L_Aberto,UG02_750_852,1x,20648,,Undesignated
+UG02_Status.Disj52L_Fechado,UG02_750_852,1x,20649,,Undesignated
+UG02_Status.Reserva_20650,UG02_750_852,1x,20650,,Undesignated
+UG02_Status.Reserva_20651,UG02_750_852,1x,20651,,Undesignated
+UG02_Status.Reserva_20652,UG02_750_852,1x,20652,,Undesignated
+UG02_Status.Reserva_20653,UG02_750_852,1x,20653,,Undesignated
+UG02_Status.Reserva_20654,UG02_750_852,1x,20654,,Undesignated
+UG02_Status.Reserva_20655,UG02_750_852,1x,20655,,Undesignated
+UG02_Status.Reserva_20656,UG02_750_852,1x,20656,,Undesignated
+UG02_Status.PCP_DisjQCCV_Status,UG02_750_852,1x,20657,,Undesignated
+UG02_Status.PCP_DisjQCAG_Status,UG02_750_852,1x,20658,,Undesignated
+UG02_Status.PCP_DisjQCAR_Status,UG02_750_852,1x,20659,,Undesignated
+UG02_Status.CS_DisjQCC_Status,UG02_750_852,1x,20660,,Undesignated
+UG02_Status.CS_DisjQCA01_Status,UG02_750_852,1x,20661,,Undesignated
+UG02_Status.CS_DisjQCA02_Status,UG02_750_852,1x,20662,,Undesignated
+UG02_Status.Reserva_20663,UG02_750_852,1x,20663,,Undesignated
+UG02_Status.Reserva_20664,UG02_750_852,1x,20664,,Undesignated
+UG02_Status.Reserva_20665,UG02_750_852,1x,20665,,Undesignated
+UG02_Status.Reserva_20666,UG02_750_852,1x,20666,,Undesignated
+UG02_Status.Reserva_20667,UG02_750_852,1x,20667,,Undesignated
+UG02_Status.Reserva_20668,UG02_750_852,1x,20668,,Undesignated
+UG02_Status.Reserva_20669,UG02_750_852,1x,20669,,Undesignated
+UG02_Status.Reserva_20670,UG02_750_852,1x,20670,,Undesignated
+UG02_Status.Reserva_20671,UG02_750_852,1x,20671,,Undesignated
+UG02_Status.Reserva_20672,UG02_750_852,1x,20672,,Undesignated
+UG02_Status.F50_Atuado,UG02_750_852,1x,20673,,Undesignated
+UG02_Status.Reserva_20674,UG02_750_852,1x,20674,,Undesignated
+UG02_Status.Reserva_20675,UG02_750_852,1x,20675,,Undesignated
+UG02_Status.Reserva_20676,UG02_750_852,1x,20676,,Undesignated
+UG02_Status.Reserva_20677,UG02_750_852,1x,20677,,Undesignated
+UG02_Status.Reserva_20678,UG02_750_852,1x,20678,,Undesignated
+UG02_Status.Reserva_20679,UG02_750_852,1x,20679,,Undesignated
+UG02_Status.Reserva_20680,UG02_750_852,1x,20680,,Undesignated
+UG02_Status.Reserva_20681,UG02_750_852,1x,20681,,Undesignated
+UG02_Status.Reserva_20682,UG02_750_852,1x,20682,,Undesignated
+UG02_Status.Reserva_20683,UG02_750_852,1x,20683,,Undesignated
+UG02_Status.Reserva_20684,UG02_750_852,1x,20684,,Undesignated
+UG02_Status.Reserva_20685,UG02_750_852,1x,20685,,Undesignated
+UG02_Status.Reserva_20686,UG02_750_852,1x,20686,,Undesignated
+UG02_Status.Reserva_20687,UG02_750_852,1x,20687,,Undesignated
+UG02_Status.Reserva_20688,UG02_750_852,1x,20688,,Undesignated
+UG02_Status.Reserva_20689,UG02_750_852,1x,20689,,Undesignated
+UG02_Status.Reserva_20690,UG02_750_852,1x,20690,,Undesignated
+UG02_Status.Reserva_20691,UG02_750_852,1x,20691,,Undesignated
+UG02_Status.Reserva_20692,UG02_750_852,1x,20692,,Undesignated
+UG02_Status.Reserva_20693,UG02_750_852,1x,20693,,Undesignated
+UG02_Status.Reserva_20694,UG02_750_852,1x,20694,,Undesignated
+UG02_Status.Reserva_20695,UG02_750_852,1x,20695,,Undesignated
+UG02_Status.Reserva_20696,UG02_750_852,1x,20696,,Undesignated
+UG02_Status.Reserva_20697,UG02_750_852,1x,20697,,Undesignated
+UG02_Status.Reserva_20698,UG02_750_852,1x,20698,,Undesignated
+UG02_Status.Reserva_20699,UG02_750_852,1x,20699,,Undesignated
+UG02_Status.Reserva_20700,UG02_750_852,1x,20700,,Undesignated
+UG02_Status.Reserva_20701,UG02_750_852,1x,20701,,Undesignated
+UG02_Status.Reserva_20702,UG02_750_852,1x,20702,,Undesignated
+UG02_Status.Reserva_20703,UG02_750_852,1x,20703,,Undesignated
+UG02_Status.Reserva_20704,UG02_750_852,1x,20704,,Undesignated
+UG02_Status.AlarmeAtivo,UG02_750_852,1x,20705,,Undesignated
+UG02_Status.AlarmeLatente,UG02_750_852,1x,20706,,Undesignated
+UG02_Status.Reserva_20707,UG02_750_852,1x,20707,,Undesignated
+UG02_Status.Reserva_20708,UG02_750_852,1x,20708,,Undesignated
+UG02_Status.Reserva_20709,UG02_750_852,1x,20709,,Undesignated
+UG02_Status.Reserva_20710,UG02_750_852,1x,20710,,Undesignated
+UG02_Status.Reserva_20711,UG02_750_852,1x,20711,,Undesignated
+UG02_Status.Reserva_20712,UG02_750_852,1x,20712,,Undesignated
+UG02_Status.Reserva_20713,UG02_750_852,1x,20713,,Undesignated
+UG02_Status.Reserva_20714,UG02_750_852,1x,20714,,Undesignated
+UG02_Status.Reserva_20715,UG02_750_852,1x,20715,,Undesignated
+UG02_Status.Reserva_20716,UG02_750_852,1x,20716,,Undesignated
+UG02_Status.Reserva_20717,UG02_750_852,1x,20717,,Undesignated
+UG02_Status.Reserva_20718,UG02_750_852,1x,20718,,Undesignated
+UG02_Status.Reserva_20719,UG02_750_852,1x,20719,,Undesignated
+UG02_Status.Reserva_20720,UG02_750_852,1x,20720,,Undesignated
+UG02_Status.QTA_Emergencia_Remota,UG02_750_852,1x,20721,,Undesignated
+UG02_Status.QTA_Comporta_Fechada,UG02_750_852,1x,20722,,Undesignated
+UG02_Status.QTA_Comporta_Aberta,UG02_750_852,1x,20723,,Undesignated
+UG02_Status.QTA_Comporta_Abrindo,UG02_750_852,1x,20724,,Undesignated
+UG02_Status.QTA_Comporta_Fechando,UG02_750_852,1x,20725,,Undesignated
+UG02_Status.QTA_Comporta_Cracking,UG02_750_852,1x,20726,,Undesignated
+UG02_Status.QTA_Comporta_Reposicao,UG02_750_852,1x,20727,,Undesignated
+UG02_Status.QTA_ComportaTravadaTimeOut,UG02_750_852,1x,20728,,Undesignated
+UG02_Status.QTA_Bomba01_Ligada,UG02_750_852,1x,20729,,Undesignated
+UG02_Status.QTA_Bomba01_TRIP,UG02_750_852,1x,20730,,Undesignated
+UG02_Status.QTA_Bomba02_Ligada,UG02_750_852,1x,20731,,Undesignated
+UG02_Status.QTA_Bomba02_TRIP,UG02_750_852,1x,20732,,Undesignated
+UG02_Status.QTA_Falha_Comunicacao,UG02_750_852,1x,20733,,Undesignated
+UG02_Status.QTA_Bomba03_Ligada,UG02_750_852,1x,20734,,Undesignated
+UG02_Status.QTA_Bomba03_TRIP,UG02_750_852,1x,20735,,Undesignated
+UG02_Status.Reserva_20736,UG02_750_852,1x,20736,,Undesignated
+UG02_Status.Reserva_20737,UG02_750_852,1x,20737,,Undesignated
+UG02_Status.Reserva_20738,UG02_750_852,1x,20738,,Undesignated
+UG02_Status.Reserva_20739,UG02_750_852,1x,20739,,Undesignated
+UG02_Status.Reserva_20740,UG02_750_852,1x,20740,,Undesignated
+UG02_Status.Reserva_20741,UG02_750_852,1x,20741,,Undesignated
+UG02_Status.Reserva_20742,UG02_750_852,1x,20742,,Undesignated
+UG02_Status.Reserva_20743,UG02_750_852,1x,20743,,Undesignated
+UG02_Status.Reserva_20744,UG02_750_852,1x,20744,,Undesignated
+UG02_Status.Reserva_20745,UG02_750_852,1x,20745,,Undesignated
+UG02_Status.Reserva_20746,UG02_750_852,1x,20746,,Undesignated
+UG02_Status.Reserva_20747,UG02_750_852,1x,20747,,Undesignated
+UG02_Status.Reserva_20748,UG02_750_852,1x,20748,,Undesignated
+UG02_Status.Reserva_20749,UG02_750_852,1x,20749,,Undesignated
+UG02_Status.Reserva_20750,UG02_750_852,1x,20750,,Undesignated
+UG02_Status.Reserva_20751,UG02_750_852,1x,20751,,Undesignated
+UG02_Status.Reserva_20752,UG02_750_852,1x,20752,,Undesignated
+UG02_Status.PSA_Emergencia,UG02_750_852,1x,20753,,Undesignated
+UG02_Status.PSA_NivelEmergenciaPoco,UG02_750_852,1x,20754,,Undesignated
+UG02_Status.PSA_Falha_Comunicacao,UG02_750_852,1x,20755,,Undesignated
+UG02_Status.Reserva_20756,UG02_750_852,1x,20756,,Undesignated
+UG02_Status.Reserva_20757,UG02_750_852,1x,20757,,Undesignated
+UG02_Status.Reserva_20758,UG02_750_852,1x,20758,,Undesignated
+UG02_Status.Reserva_20759,UG02_750_852,1x,20759,,Undesignated
+UG02_Status.Reserva_20760,UG02_750_852,1x,20760,,Undesignated
+UG02_Status.Reserva_20761,UG02_750_852,1x,20761,,Undesignated
+UG02_Status.Reserva_20762,UG02_750_852,1x,20762,,Undesignated
+UG02_Status.Reserva_20763,UG02_750_852,1x,20763,,Undesignated
+UG02_Status.Reserva_20764,UG02_750_852,1x,20764,,Undesignated
+UG02_Status.Reserva_20765,UG02_750_852,1x,20765,,Undesignated
+UG02_Status.Reserva_20766,UG02_750_852,1x,20766,,Undesignated
+UG02_Status.Reserva_20767,UG02_750_852,1x,20767,,Undesignated
+UG02_Status.Reserva_20768,UG02_750_852,1x,20768,,Undesignated
+UG02_Setpoint.Setpoint_UHLM_Pressao_Maxima,UG02_750_852,4x,13789,,Undesignated
+UG02_Setpoint.Setpoint_UHLM_Pressao_Minima,UG02_750_852,4x,13790,,Undesignated
+UG02_Setpoint.Setpoint_UHLM_Pressao_Alarme,UG02_750_852,4x,13791,,Undesignated
+UG02_Setpoint.Setpoint_UHLM_Pressao_TRIP,UG02_750_852,4x,13792,,Undesignated
+UG02_Setpoint.Setpoint_UHLM_Temp_Alarme,UG02_750_852,4x,13793,,32-bit Float
+UG02_Setpoint.Setpoint_UHLM_Temp_TRIP,UG02_750_852,4x,13795,,32-bit Float
+UG02_Setpoint.Setpoint_UHLM_Temp_ResAquec,UG02_750_852,4x,13797,,32-bit Float
+UG02_Setpoint.Setpoint_UHLM_Vazao_Oleo,UG02_750_852,4x,13799,,32-bit Float
+UG02_Setpoint.Setpoint_UHLM_Temp_Oleo,UG02_750_852,4x,13801,,32-bit Float
+UG02_Setpoint.Setpoint_UHLM_Temp_TrocCalor,UG02_750_852,4x,13803,,32-bit Float
+UG02_Setpoint.Setpoint_UHRV_Pressao_Maxima,UG02_750_852,4x,13805,,Undesignated
+UG02_Setpoint.Setpoint_UHRV_Pressao_Minima,UG02_750_852,4x,13806,,Undesignated
+UG02_Setpoint.Setpoint_UHRV_Pressao_Alarme,UG02_750_852,4x,13807,,Undesignated
+UG02_Setpoint.Setpoint_UHRV_Pressao_TRIP,UG02_750_852,4x,13808,,Undesignated
+UG02_Setpoint.Setpoint_UHRV_Temp_Alarme,UG02_750_852,4x,13809,,32-bit Float
+UG02_Setpoint.Setpoint_UHRV_Temp_TRIP,UG02_750_852,4x,13811,,32-bit Float
+UG02_Setpoint.Setpoint_UHRV_Temp_ResAquec,UG02_750_852,4x,13813,,32-bit Float
+UG02_Setpoint.Setpoit_Turb_Sobrevelocidade,UG02_750_852,4x,13815,,Undesignated
+UG02_Setpoint.Setpoit_Turb_PressaoMinima,UG02_750_852,4x,13817,,32-bit Float
+UG02_Setpoint.Setpoit_Turb_TempoEqualizacao,UG02_750_852,4x,13819,,32-bit Float
+UG02_Setpoint.Setpoint_Vibracao01_Trip,UG02_750_852,4x,13821,,32-bit Float
+UG02_Setpoint.Setpoint_Vibracao02_Trip,UG02_750_852,4x,13823,,32-bit Float
+UG02_Setpoint.Setpoint_Vibracao03_Trip,UG02_750_852,4x,13825,,32-bit Float
+UG02_Setpoint.Setpoint_Vibracao04_Trip,UG02_750_852,4x,13827,,32-bit Float
+UG02_Setpoint.Setpoint_Vibracao05_Trip,UG02_750_852,4x,13829,,32-bit Float
+UG02_Setpoint.Setpoint_Vibracao06_Trip,UG02_750_852,4x,13831,,32-bit Float
+UG02_Setpoint.Setpoint_Vibracao07_Trip,UG02_750_852,4x,13833,,32-bit Float
+UG02_Setpoint.Setpoint_Vibracao08_Trip,UG02_750_852,4x,13835,,32-bit Float
+UG02_Setpoint.Setpoint_Vibracao09_Trip,UG02_750_852,4x,13837,,32-bit Float
+UG02_Setpoint.Setpoint_Vibracao10_Trip,UG02_750_852,4x,13839,,32-bit Float
+UG02_Setpoint.Setpoint_Vibracao01_Alarme,UG02_750_852,4x,13841,,32-bit Float
+UG02_Setpoint.Setpoint_Vibracao02_Alarme,UG02_750_852,4x,13843,,32-bit Float
+UG02_Setpoint.Setpoint_Vibracao03_Alarme,UG02_750_852,4x,13845,,32-bit Float
+UG02_Setpoint.Setpoint_Vibracao04_Alarme,UG02_750_852,4x,13847,,32-bit Float
+UG02_Setpoint.Setpoint_Vibracao05_Alarme,UG02_750_852,4x,13849,,32-bit Float
+UG02_Setpoint.Setpoint_Vibracao06_Alarme,UG02_750_852,4x,13851,,32-bit Float
+UG02_Setpoint.Setpoint_Vibracao07_Alarme,UG02_750_852,4x,13853,,32-bit Float
+UG02_Setpoint.Setpoint_Vibracao08_Alarme,UG02_750_852,4x,13855,,32-bit Float
+UG02_Setpoint.Setpoint_Vibracao09_Alarme,UG02_750_852,4x,13857,,32-bit Float
+UG02_Setpoint.Setpoint_Vibracao10_Alarme,UG02_750_852,4x,13859,,32-bit Float
+UG02_Setpoint.Reserva_13861,UG02_750_852,4x,13861,,Undesignated
+UG02_Setpoint.Reserva_13863,UG02_750_852,4x,13863,,32-bit Float
+UG02_Setpoint.Reserva_13865,UG02_750_852,4x,13865,,32-bit Float
+UG02_Setpoint.Reserva_13867,UG02_750_852,4x,13867,,32-bit Float
+UG02_Setpoint.Reserva_13869,UG02_750_852,4x,13869,,32-bit Float
+UG02_Setpoint.Reserva_13871,UG02_750_852,4x,13871,,32-bit Float
+UG02_Setpoint.CtrlP_PotenciaSetpoint,UG02_750_852,4x,13873,,Undesignated
+UG02_Setpoint.CtrlP_PotenciaMaxima,UG02_750_852,4x,13874,,Undesignated
+UG02_Setpoint.CtrlP_PotenciaMinima,UG02_750_852,4x,13875,,Undesignated
+UG02_Setpoint.CtrlP_NivelSetpoint,UG02_750_852,4x,13877,,32-bit Float
+UG02_Setpoint.CtrlP_NivelDesligamento,UG02_750_852,4x,13879,,32-bit Float
+UG02_Setpoint.CtrlP_NivelReligamento,UG02_750_852,4x,13881,,32-bit Float
+UG02_Setpoint.CtrlP_NivelGanho,UG02_750_852,4x,13883,,Undesignated
+UG02_Setpoint.CtrlP_NivelIntervalo,UG02_750_852,4x,13884,,Undesignated
+UG02_Setpoint.CtrlP_NivelTolerancia,UG02_750_852,4x,13885,,Undesignated
+UG02_Setpoint.CtrlP_NivelAlarme,UG02_750_852,4x,13887,,32-bit Float
+UG02_Setpoint.CtrlP_NivelTrip,UG02_750_852,4x,13889,,32-bit Float
+UG02_Setpoint.CtrlQ_SetpointFP,UG02_750_852,4x,13891,,Undesignated
+UG02_Setpoint.CtrlQ_SetpointkVAr,UG02_750_852,4x,13892,,Undesignated
+UG02_Setpoint.Reserva_13893,UG02_750_852,4x,13893,,Undesignated
+UG02_Setpoint.GRTD_PotenciaSetpoint,UG02_750_852,4x,13894,,32-bit Float
+UG02_Setpoint.Setpoint_AR1_RTD1_TRIP,UG02_750_852,4x,13897,,32-bit Float
+UG02_Setpoint.Setpoint_AR1_RTD2_TRIP,UG02_750_852,4x,13899,,32-bit Float
+UG02_Setpoint.Setpoint_AR1_RTD3_TRIP,UG02_750_852,4x,13901,,32-bit Float
+UG02_Setpoint.Setpoint_AR1_RTD4_TRIP,UG02_750_852,4x,13903,,32-bit Float
+UG02_Setpoint.Setpoint_AR2_RTD1_TRIP,UG02_750_852,4x,13905,,32-bit Float
+UG02_Setpoint.Setpoint_AR2_RTD2_TRIP,UG02_750_852,4x,13907,,32-bit Float
+UG02_Setpoint.Setpoint_AR2_RTD3_TRIP,UG02_750_852,4x,13909,,32-bit Float
+UG02_Setpoint.Setpoint_AR2_RTD4_TRIP,UG02_750_852,4x,13911,,32-bit Float
+UG02_Setpoint.Setpoint_AR3_RTD1_TRIP,UG02_750_852,4x,13913,,32-bit Float
+UG02_Setpoint.Setpoint_AR3_RTD2_TRIP,UG02_750_852,4x,13915,,32-bit Float
+UG02_Setpoint.Setpoint_AR3_RTD3_TRIP,UG02_750_852,4x,13917,,32-bit Float
+UG02_Setpoint.Setpoint_AR3_RTD4_TRIP,UG02_750_852,4x,13919,,32-bit Float
+UG02_Setpoint.Setpoint_AR4_RTD1_TRIP,UG02_750_852,4x,13921,,32-bit Float
+UG02_Setpoint.Setpoint_AR4_RTD2_TRIP,UG02_750_852,4x,13923,,32-bit Float
+UG02_Setpoint.Setpoint_AR4_RTD3_TRIP,UG02_750_852,4x,13925,,32-bit Float
+UG02_Setpoint.Setpoint_AR4_RTD4_TRIP,UG02_750_852,4x,13927,,32-bit Float
+UG02_Setpoint.Setpoint_AR5_RTD1_TRIP,UG02_750_852,4x,13929,,32-bit Float
+UG02_Setpoint.Setpoint_AR5_RTD2_TRIP,UG02_750_852,4x,13931,,32-bit Float
+UG02_Setpoint.Setpoint_AR5_RTD3_TRIP,UG02_750_852,4x,13933,,32-bit Float
+UG02_Setpoint.Setpoint_AR5_RTD4_TRIP,UG02_750_852,4x,13935,,32-bit Float
+UG02_Setpoint.Setpoint_AR6_RTD1_TRIP,UG02_750_852,4x,13937,,32-bit Float
+UG02_Setpoint.Setpoint_AR6_RTD2_TRIP,UG02_750_852,4x,13939,,32-bit Float
+UG02_Setpoint.Setpoint_AR6_RTD3_TRIP,UG02_750_852,4x,13941,,32-bit Float
+UG02_Setpoint.Setpoint_AR6_RTD4_TRIP,UG02_750_852,4x,13943,,32-bit Float
+UG02_Setpoint.Setpoint_AR7_RTD1_TRIP,UG02_750_852,4x,13945,,32-bit Float
+UG02_Setpoint.Setpoint_AR7_RTD2_TRIP,UG02_750_852,4x,13947,,32-bit Float
+UG02_Setpoint.Setpoint_AR7_RTD3_TRIP,UG02_750_852,4x,13949,,32-bit Float
+UG02_Setpoint.Setpoint_AR7_RTD4_TRIP,UG02_750_852,4x,13951,,32-bit Float
+UG02_Setpoint.Setpoint_AR8_RTD1_TRIP,UG02_750_852,4x,13953,,32-bit Float
+UG02_Setpoint.Setpoint_AR8_RTD2_TRIP,UG02_750_852,4x,13955,,32-bit Float
+UG02_Setpoint.Setpoint_AR8_RTD3_TRIP,UG02_750_852,4x,13957,,32-bit Float
+UG02_Setpoint.Setpoint_AR8_RTD4_TRIP,UG02_750_852,4x,13959,,32-bit Float
+UG02_Setpoint.Setpoint_AR1_RTD1_Alarme,UG02_750_852,4x,13961,,32-bit Float
+UG02_Setpoint.Setpoint_AR1_RTD2_Alarme,UG02_750_852,4x,13963,,32-bit Float
+UG02_Setpoint.Setpoint_AR1_RTD3_Alarme,UG02_750_852,4x,13965,,32-bit Float
+UG02_Setpoint.Setpoint_AR1_RTD4_Alarme,UG02_750_852,4x,13967,,32-bit Float
+UG02_Setpoint.Setpoint_AR2_RTD1_Alarme,UG02_750_852,4x,13969,,32-bit Float
+UG02_Setpoint.Setpoint_AR2_RTD2_Alarme,UG02_750_852,4x,13971,,32-bit Float
+UG02_Setpoint.Setpoint_AR2_RTD3_Alarme,UG02_750_852,4x,13973,,32-bit Float
+UG02_Setpoint.Setpoint_AR2_RTD4_Alarme,UG02_750_852,4x,13975,,32-bit Float
+UG02_Setpoint.Setpoint_AR3_RTD1_Alarme,UG02_750_852,4x,13977,,32-bit Float
+UG02_Setpoint.Setpoint_AR3_RTD2_Alarme,UG02_750_852,4x,13979,,32-bit Float
+UG02_Setpoint.Setpoint_AR3_RTD3_Alarme,UG02_750_852,4x,13981,,32-bit Float
+UG02_Setpoint.Setpoint_AR3_RTD4_Alarme,UG02_750_852,4x,13983,,32-bit Float
+UG02_Setpoint.Setpoint_AR4_RTD1_Alarme,UG02_750_852,4x,13985,,32-bit Float
+UG02_Setpoint.Setpoint_AR4_RTD2_Alarme,UG02_750_852,4x,13987,,32-bit Float
+UG02_Setpoint.Setpoint_AR4_RTD3_Alarme,UG02_750_852,4x,13989,,32-bit Float
+UG02_Setpoint.Setpoint_AR4_RTD4_Alarme,UG02_750_852,4x,13991,,32-bit Float
+UG02_Setpoint.Setpoint_AR5_RTD1_Alarme,UG02_750_852,4x,13993,,32-bit Float
+UG02_Setpoint.Setpoint_AR5_RTD2_Alarme,UG02_750_852,4x,13995,,32-bit Float
+UG02_Setpoint.Setpoint_AR5_RTD3_Alarme,UG02_750_852,4x,13997,,32-bit Float
+UG02_Setpoint.Setpoint_AR5_RTD4_Alarme,UG02_750_852,4x,13999,,32-bit Float
+UG02_Setpoint.Setpoint_AR6_RTD1_Alarme,UG02_750_852,4x,14001,,32-bit Float
+UG02_Setpoint.Setpoint_AR6_RTD2_Alarme,UG02_750_852,4x,14003,,32-bit Float
+UG02_Setpoint.Setpoint_AR6_RTD3_Alarme,UG02_750_852,4x,14005,,32-bit Float
+UG02_Setpoint.Setpoint_AR6_RTD4_Alarme,UG02_750_852,4x,14007,,32-bit Float
+UG02_Setpoint.Setpoint_AR7_RTD1_Alarme,UG02_750_852,4x,14009,,32-bit Float
+UG02_Setpoint.Setpoint_AR7_RTD2_Alarme,UG02_750_852,4x,14011,,32-bit Float
+UG02_Setpoint.Setpoint_AR7_RTD3_Alarme,UG02_750_852,4x,14013,,32-bit Float
+UG02_Setpoint.Setpoint_AR7_RTD4_Alarme,UG02_750_852,4x,14015,,32-bit Float
+UG02_Setpoint.Setpoint_AR8_RTD1_Alarme,UG02_750_852,4x,14017,,32-bit Float
+UG02_Setpoint.Setpoint_AR8_RTD2_Alarme,UG02_750_852,4x,14019,,32-bit Float
+UG02_Setpoint.Setpoint_AR8_RTD3_Alarme,UG02_750_852,4x,14021,,32-bit Float
+UG02_Setpoint.Setpoint_AR8_RTD4_Alarme,UG02_750_852,4x,14023,,32-bit Float
+UG02_Setpoint.Setpoint_AR1_RTD1_PickupProtecao,UG02_750_852,4x,14025,,32-bit Float
+UG02_Setpoint.Setpoint_AR1_RTD2_PickupProtecao,UG02_750_852,4x,14027,,32-bit Float
+UG02_Setpoint.Setpoint_AR1_RTD3_PickupProtecao,UG02_750_852,4x,14029,,32-bit Float
+UG02_Setpoint.Setpoint_AR1_RTD4_PickupProtecao,UG02_750_852,4x,14031,,32-bit Float
+UG02_Setpoint.Setpoint_AR2_RTD1_PickupProtecao,UG02_750_852,4x,14033,,32-bit Float
+UG02_Setpoint.Setpoint_AR2_RTD2_PickupProtecao,UG02_750_852,4x,14035,,32-bit Float
+UG02_Setpoint.Setpoint_AR2_RTD3_PickupProtecao,UG02_750_852,4x,14037,,32-bit Float
+UG02_Setpoint.Setpoint_AR2_RTD4_PickupProtecao,UG02_750_852,4x,14039,,32-bit Float
+UG02_Setpoint.Setpoint_AR3_RTD1_PickupProtecao,UG02_750_852,4x,14041,,32-bit Float
+UG02_Setpoint.Setpoint_AR3_RTD2_PickupProtecao,UG02_750_852,4x,14043,,32-bit Float
+UG02_Setpoint.Setpoint_AR3_RTD3_PickupProtecao,UG02_750_852,4x,14045,,32-bit Float
+UG02_Setpoint.Setpoint_AR3_RTD4_PickupProtecao,UG02_750_852,4x,14047,,32-bit Float
+UG02_Setpoint.Setpoint_AR4_RTD1_PickupProtecao,UG02_750_852,4x,14049,,32-bit Float
+UG02_Setpoint.Setpoint_AR4_RTD2_PickupProtecao,UG02_750_852,4x,14051,,32-bit Float
+UG02_Setpoint.Setpoint_AR4_RTD3_PickupProtecao,UG02_750_852,4x,14053,,32-bit Float
+UG02_Setpoint.Setpoint_AR4_RTD4_PickupProtecao,UG02_750_852,4x,14055,,32-bit Float
+UG02_Setpoint.Setpoint_AR5_RTD1_PickupProtecao,UG02_750_852,4x,14057,,32-bit Float
+UG02_Setpoint.Setpoint_AR5_RTD2_PickupProtecao,UG02_750_852,4x,14059,,32-bit Float
+UG02_Setpoint.Setpoint_AR5_RTD3_PickupProtecao,UG02_750_852,4x,14061,,32-bit Float
+UG02_Setpoint.Setpoint_AR5_RTD4_PickupProtecao,UG02_750_852,4x,14063,,32-bit Float
+UG02_Setpoint.Setpoint_AR6_RTD1_PickupProtecao,UG02_750_852,4x,14065,,32-bit Float
+UG02_Setpoint.Setpoint_AR6_RTD2_PickupProtecao,UG02_750_852,4x,14067,,32-bit Float
+UG02_Setpoint.Setpoint_AR6_RTD3_PickupProtecao,UG02_750_852,4x,14069,,32-bit Float
+UG02_Setpoint.Setpoint_AR6_RTD4_PickupProtecao,UG02_750_852,4x,14071,,32-bit Float
+UG02_Setpoint.Setpoint_AR7_RTD1_PickupProtecao,UG02_750_852,4x,14073,,32-bit Float
+UG02_Setpoint.Setpoint_AR7_RTD2_PickupProtecao,UG02_750_852,4x,14075,,32-bit Float
+UG02_Setpoint.Setpoint_AR7_RTD3_PickupProtecao,UG02_750_852,4x,14077,,32-bit Float
+UG02_Setpoint.Setpoint_AR7_RTD4_PickupProtecao,UG02_750_852,4x,14079,,32-bit Float
+UG02_Setpoint.Setpoint_AR8_RTD1_PickupProtecao,UG02_750_852,4x,14081,,32-bit Float
+UG02_Setpoint.Setpoint_AR8_RTD2_PickupProtecao,UG02_750_852,4x,14083,,32-bit Float
+UG02_Setpoint.Setpoint_AR8_RTD3_PickupProtecao,UG02_750_852,4x,14085,,32-bit Float
+UG02_Setpoint.Setpoint_AR8_RTD4_PickupProtecao,UG02_750_852,4x,14087,,32-bit Float
+UG02_Setpoint.Reserva_14089,UG02_750_852,4x,14089,,32-bit Float
+UG02_Setpoint.Reserva_14091,UG02_750_852,4x,14091,,32-bit Float
+UG02_Setpoint.Reserva_14093,UG02_750_852,4x,14093,,32-bit Float
+UG02_Setpoint.Reserva_14095,UG02_750_852,4x,14095,,32-bit Float
+UG02_Setpoint.Reserva_14097,UG02_750_852,4x,14097,,32-bit Float
+UG02_Setpoint.Horimetro_Mecanico_Total,UG02_750_852,4x,14099,,32-bit Float
+UG02_Setpoint.Horimetro_Mecanico_Atual,UG02_750_852,4x,14101,,32-bit Float
+UG02_Setpoint.Horimetro_Mecanico_Ultimo,UG02_750_852,4x,14103,,32-bit Float
+UG02_Setpoint.Horimetro_Eletrico_Total,UG02_750_852,4x,14105,,32-bit Float
+UG02_Setpoint.Horimetro_Eletrico_Atual,UG02_750_852,4x,14107,,32-bit Float
+UG02_Setpoint.Horimetro_Eletrico_Ultimo,UG02_750_852,4x,14109,,32-bit Float
+UG02_Setpoint.Horimetro_UHRV_Total,UG02_750_852,4x,14111,,32-bit Float
+UG02_Setpoint.Horimetro_UHRV_Atual,UG02_750_852,4x,14113,,32-bit Float
+UG02_Setpoint.Horimetro_UHRV_Ultimo,UG02_750_852,4x,14115,,32-bit Float
+UG02_Setpoint.Horimetro_UHLM_Total,UG02_750_852,4x,14117,,32-bit Float
+UG02_Setpoint.Horimetro_UHLM_Atual,UG02_750_852,4x,14119,,32-bit Float
+UG02_Setpoint.Horimetro_UHLM_Ultimo,UG02_750_852,4x,14121,,32-bit Float
+UG02_Setpoint.Setpoint_HH_Nivel_Barragem,UG02_750_852,4x,14123,,32-bit Float
+UG02_Setpoint.Setpoint_H_Nivel_Barragem,UG02_750_852,4x,14125,,32-bit Float
+UG02_Setpoint.Reserva_14127,UG02_750_852,4x,14127,,32-bit Float
+UG02_Setpoint.Reserva_14129,UG02_750_852,4x,14129,,32-bit Float
+UG02_Setpoint.Reserva_14131,UG02_750_852,4x,14131,,32-bit Float
+UG02_Setpoint.Reserva_14133,UG02_750_852,4x,14133,,32-bit Float
+UG02_Setpoint.Reserva_14135,UG02_750_852,4x,14135,,32-bit Float
+UG02_Setpoint.Reserva_14137,UG02_750_852,4x,14137,,32-bit Float
+UG02_Setpoint.Reserva_14139,UG02_750_852,4x,14139,,32-bit Float
+UG02_Setpoint.Reserva_14141,UG02_750_852,4x,14141,,32-bit Float
+UG02_Setpoint.Reserva_14143,UG02_750_852,4x,14143,,32-bit Float
+UG02_Setpoint.Reserva_14145,UG02_750_852,4x,14145,,32-bit Float
+USINA_Leituras.NivelCamaraCarga,USINA_750_862,4x,13569,,Undesignated
+USINA_Leituras.TemperaturaAmbiente,USINA_750_862,4x,13570,,Undesignated
+USINA_Leituras.SAux_TensaoRN,USINA_750_862,4x,13571,,Undesignated
+USINA_Leituras.SAux_TensaoSN,USINA_750_862,4x,13572,,Undesignated
+USINA_Leituras.SAux_TensaoTN,USINA_750_862,4x,13573,,Undesignated
+USINA_Leituras.SAux_TensaoRS,USINA_750_862,4x,13574,,Undesignated
+USINA_Leituras.SAux_TensaoST,USINA_750_862,4x,13575,,Undesignated
+USINA_Leituras.SAux_TensaoTR,USINA_750_862,4x,13576,,Undesignated
+USINA_Leituras.SAux_TensaoMediaLinha,USINA_750_862,4x,13577,,Undesignated
+USINA_Leituras.SAux_TensaoMediaFase,USINA_750_862,4x,13578,,Undesignated
+USINA_Leituras.SAux_CorrenteFaseR,USINA_750_862,4x,13579,,Undesignated
+USINA_Leituras.SAux_CorrenteFaseT,USINA_750_862,4x,13580,,Undesignated
+USINA_Leituras.SAux_CorrenteFaseS,USINA_750_862,4x,13581,,Undesignated
+USINA_Leituras.SAux_CorrenteMedia,USINA_750_862,4x,13582,,Undesignated
+USINA_Leituras.SAux_PPFaseR,USINA_750_862,4x,13583,,Undesignated
+USINA_Leituras.SAux_PPFaseS,USINA_750_862,4x,13584,,Undesignated
+USINA_Leituras.SAux_PPFaseT,USINA_750_862,4x,13585,,Undesignated
+USINA_Leituras.SAux_PPMedia,USINA_750_862,4x,13586,,Undesignated
+USINA_Leituras.SAux_PSFaseR,USINA_750_862,4x,13587,,Undesignated
+USINA_Leituras.SAux_PSFaseS,USINA_750_862,4x,13588,,Undesignated
+USINA_Leituras.SAux_PSFaseT,USINA_750_862,4x,13589,,Undesignated
+USINA_Leituras.SAux_PSMedia,USINA_750_862,4x,13590,,Undesignated
+USINA_Leituras.SAux_PQFaseR,USINA_750_862,4x,13591,,Undesignated
+USINA_Leituras.SAux_PQFaseS,USINA_750_862,4x,13592,,Undesignated
+USINA_Leituras.SAux_PQFaseT,USINA_750_862,4x,13593,,Undesignated
+USINA_Leituras.SAux_PQMedia,USINA_750_862,4x,13594,,Undesignated
+USINA_Leituras.SAux_FPFaseR,USINA_750_862,4x,13595,,Undesignated
+USINA_Leituras.SAux_FPFaseS,USINA_750_862,4x,13596,,Undesignated
+USINA_Leituras.SAux_FPFaseT,USINA_750_862,4x,13597,,Undesignated
+USINA_Leituras.SAux_FPFaseMedio,USINA_750_862,4x,13598,,Undesignated
+USINA_Leituras.SAux_Frequencia,USINA_750_862,4x,13599,,Undesignated
+USINA_Leituras.REF615_I_INST_A,USINA_750_862,4x,13600,,Undesignated
+USINA_Leituras.REF615_I_INST_B,USINA_750_862,4x,13601,,Undesignated
+USINA_Leituras.REF615_I_INST_C,USINA_750_862,4x,13602,,Undesignated
+USINA_Leituras.REF615_U_FaseAN,USINA_750_862,4x,13603,,Undesignated
+USINA_Leituras.REF615_U_FaseBN,USINA_750_862,4x,13604,,Undesignated
+USINA_Leituras.REF615_U_FaseCN,USINA_750_862,4x,13605,,Undesignated
+USINA_Leituras.REF615_U_FaseAB,USINA_750_862,4x,13606,,Undesignated
+USINA_Leituras.REF615_U_FaseBC,USINA_750_862,4x,13607,,Undesignated
+USINA_Leituras.REF615_U_FaseCA,USINA_750_862,4x,13608,,Undesignated
+USINA_Leituras.REF615_P_INST,USINA_750_862,4x,13609,,Undesignated
+USINA_Leituras.REF615_Q_INST,USINA_750_862,4x,13610,,Undesignated
+USINA_Leituras.REF615_S_INST,USINA_750_862,4x,13611,,Undesignated
+USINA_Leituras.REF615_PF_INST,USINA_750_862,4x,13612,,Undesignated
+USINA_Leituras.REF615_FHz_INST,USINA_750_862,4x,13613,,Undesignated
+USINA_Leituras.Usina_EnergiaFornecidakWh,USINA_750_862,4x,13614,,32-bit Float
+USINA_Leituras.Gerador_EnergiaFornecidakVArh,USINA_750_862,4x,13615,,Undesignated
+USINA_Leituras.TensaoDC,USINA_750_862,4x,13616,,Undesignated
+USINA_Leituras.TurbinaPressaoConduto_UG01,USINA_750_862,4x,13617,,Undesignated
+USINA_Leituras.TurbinaPressaoConduto_UG02,USINA_750_862,4x,13618,,Undesignated
+USINA_Leituras.Cracking01_minuto,USINA_750_862,4x,13619,,Undesignated
+USINA_Leituras.Cracking01_segundo,USINA_750_862,4x,13620,,Undesignated
+USINA_Leituras.Cracking02_minuto,USINA_750_862,4x,13621,,Undesignated
+USINA_Leituras.Cracking02_segundo,USINA_750_862,4x,13622,,Undesignated
+USINA_Comandos.Emergencia_Ligar,USINA_750_862,1x,12289,,Undesignated
+USINA_Comandos.Emergencia_Desligar,USINA_750_862,1x,12290,,Undesignated
+USINA_Comandos.Reset,USINA_750_862,1x,12291,,Undesignated
+USINA_Comandos.CalaSirene,USINA_750_862,1x,12292,,Undesignated
+USINA_Comandos.SAux_SelecionaAuto,USINA_750_862,1x,12293,,Undesignated
+USINA_Comandos.SAux_SelecionaManual,USINA_750_862,1x,12294,,Undesignated
+USINA_Comandos.SAux_SelecionaRede,USINA_750_862,1x,12295,,Undesignated
+USINA_Comandos.SAux_SelecionaGrupo,USINA_750_862,1x,12296,,Undesignated
+USINA_Comandos.SAux_SelecionaReset,USINA_750_862,1x,12297,,Undesignated
+USINA_Comandos.Disj52L_Abrir,USINA_750_862,1x,12298,,Undesignated
+USINA_Comandos.Disj52L_Fechar,USINA_750_862,1x,12299,,Undesignated
+USINA_Comandos.Rele86T_Atuar,USINA_750_862,1x,12300,,Undesignated
+USINA_Comandos.Comporta01_Abrir,USINA_750_862,1x,12301,,Undesignated
+USINA_Comandos.Comporta01_Fechar,USINA_750_862,1x,12302,,Undesignated
+USINA_Comandos.Comporta02_Abrir,USINA_750_862,1x,12303,,Undesignated
+USINA_Comandos.Comporta02_Fechar,USINA_750_862,1x,12304,,Undesignated
+USINA_Comandos.Liga_Bomba01_Drenagem,USINA_750_862,1x,12305,,Undesignated
+USINA_Comandos.Desliga_Bomba01_Drenagem,USINA_750_862,1x,12306,,Undesignated
+USINA_Comandos.Liga_Bomba02_Drenagem,USINA_750_862,1x,12307,,Undesignated
+USINA_Comandos.Desliga_Bomba02_Drenagem,USINA_750_862,1x,12308,,Undesignated
+USINA_Comandos.Liga_Compressor01,USINA_750_862,1x,12309,,Undesignated
+USINA_Comandos.Desliga_Compressor01,USINA_750_862,1x,12310,,Undesignated
+USINA_Comandos.Liga_Compressor02,USINA_750_862,1x,12311,,Undesignated
+USINA_Comandos.Desliga_Compressor02,USINA_750_862,1x,12312,,Undesignated
+USINA_Status.AlarmeAtivo,USINA_750_862,1x,16385,,Undesignated
+USINA_Status.AlarmeLatente,USINA_750_862,1x,16386,,Undesignated
+USINA_Status.EmergenciaRemota,USINA_750_862,1x,16387,,Undesignated
+USINA_Status.SAux_ModoAutomatico,USINA_750_862,1x,16388,,Undesignated
+USINA_Status.SAux_ModoManual,USINA_750_862,1x,16389,,Undesignated
+USINA_Status.SAux_StatusDisjuntor,USINA_750_862,1x,16390,,Undesignated
+USINA_Status.SAux_StatusAlimentacaoRede,USINA_750_862,1x,16391,,Undesignated
+USINA_Status.SAux_StatusAlimentacaoGrupo,USINA_750_862,1x,16392,,Undesignated
+USINA_Status.SAux_StatusContatorRede,USINA_750_862,1x,16393,,Undesignated
+USINA_Status.SAux_StatusContatorGrupo,USINA_750_862,1x,16394,,Undesignated
+USINA_Status.FalhaComunicacaoPCPU1_PSA,USINA_750_862,1x,16395,,Undesignated
+USINA_Status.SAux_ReativoCapacitivo,USINA_750_862,1x,16396,,Undesignated
+USINA_Status.Linha_ReativoIndutivo,USINA_750_862,1x,16397,,Undesignated
+USINA_Status.Linha_ReativoCapacitivo,USINA_750_862,1x,16398,,Undesignated
+USINA_Status.CBat_SemErroPrincipal,USINA_750_862,1x,16399,,Undesignated
+USINA_Status.CBat_SemErroRetaguarda,USINA_750_862,1x,16400,,Undesignated
+USINA_Status.Disj52L_Aberto,USINA_750_862,1x,16401,,Undesignated
+USINA_Status.Disj52L_Fechado,USINA_750_862,1x,16402,,Undesignated
+USINA_Status.REF615_Atuado,USINA_750_862,1x,16403,,Undesignated
+USINA_Status.Rele86T_Status,USINA_750_862,1x,16404,,Undesignated
+USINA_Status.Trafo_TempOleo_TRIP,USINA_750_862,1x,16405,,Undesignated
+USINA_Status.Trafo_TempEnrolamento_TRIP,USINA_750_862,1x,16406,,Undesignated
+USINA_Status.Trafo_DetectorGas_TRIP,USINA_750_862,1x,16407,,Undesignated
+USINA_Status.Trafo_NivelOleoBaixo_TRIP,USINA_750_862,1x,16408,,Undesignated
+USINA_Status.Trafo_AlivioPressao_TRIP,USINA_750_862,1x,16409,,Undesignated
+USINA_Status.Status_Drenagem_Bomba01,USINA_750_862,1x,16410,,Undesignated
+USINA_Status.Status_Drenagem_Bomba02,USINA_750_862,1x,16411,,Undesignated
+USINA_Status.TRIP_Drenagem_Bomba01,USINA_750_862,1x,16412,,Undesignated
+USINA_Status.TRIP_Drenagem_Bomba02,USINA_750_862,1x,16413,,Undesignated
+USINA_Status.Drenagem_Nivel_01,USINA_750_862,1x,16414,,Undesignated
+USINA_Status.Drenagem_Nivel_02,USINA_750_862,1x,16415,,Undesignated
+USINA_Status.Drenagem_Nivel_03_Emergencia,USINA_750_862,1x,16416,,Undesignated
+USINA_Status.DisjQ380_01_Fechado,USINA_750_862,1x,16605,,Undesignated
+USINA_Status.DisjQ380_02_Fechado,USINA_750_862,1x,16606,,Undesignated
+USINA_Status.DisjQ380_03_Fechado,USINA_750_862,1x,16607,,Undesignated
+USINA_Status.DisjQ380_04_Fechado,USINA_750_862,1x,16608,,Undesignated
+USINA_Status.DisjQ380_05_Fechado,USINA_750_862,1x,16609,,Undesignated
+USINA_Status.DisjQ380_06_Fechado,USINA_750_862,1x,16610,,Undesignated
+USINA_Status.DisjQ220_01_Fechado,USINA_750_862,1x,16611,,Undesignated
+USINA_Status.DisjQ220_02_Fechado,USINA_750_862,1x,16612,,Undesignated
+USINA_Status.DisjQ220_03_Fechado,USINA_750_862,1x,16613,,Undesignated
+USINA_Status.DisjQ220_04_Fechado,USINA_750_862,1x,16614,,Undesignated
+USINA_Status.DisjQ220_05_Fechado,USINA_750_862,1x,16615,,Undesignated
+USINA_Status.DisjQ220_06_Fechado,USINA_750_862,1x,16616,,Undesignated
+USINA_Status.DisjQ220_07_Fechado,USINA_750_862,1x,16617,,Undesignated
+USINA_Status.DisjQ220_08_Fechado,USINA_750_862,1x,16618,,Undesignated
+USINA_Status.DisjQ220_09_Fechado,USINA_750_862,1x,16619,,Undesignated
+USINA_Status.DisjQ024_01_Fechado,USINA_750_862,1x,16620,,Undesignated
+USINA_Status.DisjQ024_02_Fechado,USINA_750_862,1x,16621,,Undesignated
+USINA_Status.DisjQ024_03_Fechado,USINA_750_862,1x,16622,,Undesignated
+USINA_Status.DisjQ024_04_Fechado,USINA_750_862,1x,16623,,Undesignated
+USINA_Status.DisjQ024_05_Fechado,USINA_750_862,1x,16624,,Undesignated
+USINA_Status.DisjQ024_06_Fechado,USINA_750_862,1x,16625,,Undesignated
+USINA_Status.DisjQ024_07_Fechado,USINA_750_862,1x,16626,,Undesignated
+USINA_Status.DisjQ024_08_Fechado,USINA_750_862,1x,16627,,Undesignated
+USINA_Status.DisjQBAT_Fechado,USINA_750_862,1x,16628,,Undesignated
+USINA_Status.Status_Reset_DJK86R,USINA_750_862,1x,16629,,Undesignated
+USINA_Status.DisjQCC_PSA_Fechado,USINA_750_862,1x,16630,,Undesignated
+USINA_Status.Comporta01_FCFechada,USINA_750_862,1x,16631,,Undesignated
+USINA_Status.Comporta01_FCAberta,USINA_750_862,1x,16632,,Undesignated
+USINA_Status.Comporta01_FCCracking,USINA_750_862,1x,16633,,Undesignated
+USINA_Status.Comporta01_FCReposicao,USINA_750_862,1x,16634,,Undesignated
+USINA_Status.Comporta01_Bomba,USINA_750_862,1x,16635,,Undesignated
+USINA_Status.Comporta02_FCFechada,USINA_750_862,1x,16636,,Undesignated
+USINA_Status.Comporta02_FCAberta,USINA_750_862,1x,16637,,Undesignated
+USINA_Status.Comporta02_FCCracking,USINA_750_862,1x,16638,,Undesignated
+USINA_Status.Comporta02_FCReposicao,USINA_750_862,1x,16639,,Undesignated
+USINA_Status.Comporta02_Bomba,USINA_750_862,1x,16640,,Undesignated
+USINA_Status.Bomba1_TRIP,USINA_750_862,1x,16641,,Undesignated
+USINA_Status.Bomba2_TRIP,USINA_750_862,1x,16642,,Undesignated
+USINA_Status.FalhaComunicacao,USINA_750_862,1x,16643,,Undesignated
+USINA_Status.ReleUG01_86H_TRIP,USINA_750_862,1x,16644,,Undesignated
+USINA_Status.ReleUG02_86H_TRIP,USINA_750_862,1x,16645,,Undesignated
+USINA_Status.Comporta01_Abrindo,USINA_750_862,1x,16646,,Undesignated
+USINA_Status.Comporta01_Fechando,USINA_750_862,1x,16647,,Undesignated
+USINA_Status.Comporta02_Abrindo,USINA_750_862,1x,16648,,Undesignated
+USINA_Status.Comporta02_Fechando,USINA_750_862,1x,16649,,Undesignated
+USINA_Status.ModoAutomatico_StartComporta,USINA_750_862,1x,16650,,Undesignated
+USINA_Status.ModoAutomatico_StopComporta,USINA_750_862,1x,16651,,Undesignated
+USINA_Status.TimeOutBuscaCracking,USINA_750_862,1x,16652,,Undesignated
+USINA_Status.Comporta01_Cracking,USINA_750_862,1x,16653,,Undesignated
+USINA_Status.Comporta02_Cracking,USINA_750_862,1x,16654,,Undesignated
+USINA_Status.Comporta01_TimeOutBuscaCracking,USINA_750_862,1x,16655,,Undesignated
+USINA_Status.Comporta02_TimeOutBuscaCracking,USINA_750_862,1x,16656,,Undesignated
+USINA_Status.UG01_ModoAutomatico_StartComporta,USINA_750_862,1x,16657,,Undesignated
+USINA_Status.UG01_ModoAutomatico_StopComporta,USINA_750_862,1x,16658,,Undesignated
+USINA_Status.UG02_ModoAutomatico_StartComporta,USINA_750_862,1x,16659,,Undesignated
+USINA_Status.UG02_ModoAutomatico_StopComporta,USINA_750_862,1x,16660,,Undesignated
+USINA_Status.PCP_U1_FalhaComunicacao,USINA_750_862,1x,16661,,Undesignated
+USINA_Status.PCP_U2_FalhaComunicacaoT,USINA_750_862,1x,16662,,Undesignated
+USINA_Status.CompressoAR_01_Habilitado,USINA_750_862,1x,16630,,Undesignated
+USINA_Status.CompressoAR_01_Desabilitado,USINA_750_862,1x,16631,,Undesignated
+USINA_Status.CompressoAR_01_TRIP,USINA_750_862,1x,16632,,Undesignated
+USINA_Status.CompressoAR_02_Habilitado,USINA_750_862,1x,16633,,Undesignated
+USINA_Status.CompressoAR_02_Desabilitado,USINA_750_862,1x,16634,,Undesignated
+USINA_Status.CompressoAR_02_TRIP,USINA_750_862,1x,16635,,Undesignated

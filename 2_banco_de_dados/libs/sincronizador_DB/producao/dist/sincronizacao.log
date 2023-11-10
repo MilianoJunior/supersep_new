@@ -1,0 +1,2 @@
+INFO:root:Sincronização realizada com sucesso: 2023-08-21 10:22:38
+ERROR:root:Erro ao conectar com o banco de dados offline: Falha na conexão do banco de dados: 2003 (HY000): Can't connect to MySQL server on 'localhost:3306' (10061)
