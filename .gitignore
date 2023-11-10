@@ -1,0 +1,27 @@
+# Arquivos de log
+*.log
+
+# Diretório de dependências do Node.js
+node_modules/
+
+# Pastas de build e compilação
+/dist
+/build
+
+# Pastas de cache do sistema
+[Tt]humbs.db
+.DS_Store
+
+# Arquivos de ambiente
+.env
+
+# Pasta de configurações do IDE/editor
+.vscode/
+.idea/
+
+# Pasta de virtualenv (Python)
+venv/
+.venv/
+
+# Arquivos de banco de dados local
+*.sqlite
