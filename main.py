@@ -19,10 +19,23 @@ Criar um Commit : git commit -m "MENSAGEM_DE_COMMIT"
 
 '''
 
-'''
-Processo de adicionar mudanças:
+h1 = 1080
+w1 = 1920
 
+h2 = 600
+w2 = 1024
 
-Alteraçoes
+height = h2  / h1
 
-'''
+width = w2 / w1
+
+titulo = {'width': 123, 'height':116}
+botoes = {'width': 212, 'height':272}
+geradores = {'width': 190, 'height':1304}
+transformadores = {'width': 131, 'height':1005}
+reles = {'width': 150, 'height':781}
+
+# calculo de proporção de tamanho de ajuste de imagem
+
+print('Proporção Titulo: ',int(titulo['width']* width), int(titulo['height']* height))
+print('Proporção Botoes: ',int(botoes['width']* width), int(botoes['height']* height))

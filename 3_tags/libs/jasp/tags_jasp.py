@@ -1,6 +1,4 @@
 comandos = '''
-		(* --> Tabela de Comandos <-- *)
-
 		(*Painel de Controle*)
 		(*01x12289*) Emergencia_Local						AT%MX0.0: BOOL;
 		(*01x12290*) Emergencia_SuperSEP				AT%MX0.1: BOOL;
@@ -400,7 +398,6 @@ comandos = '''
 '''
 status = '''
 
-		(* --> Tabela de Status <--*)
 
 		(*Painel de Controle*)
 		(*01x20289*) Operacao_Emergencia_Local							AT%MX500.0:  BOOL;
@@ -423,7 +420,7 @@ status = '''
 		(*01x20306*) Operacao_ParadaAbertura52G							AT%MX501.1:  BOOL;
 		(*01x20307*) Operacao_ParadaInfoValida								AT%MX501.2:  BOOL;
 		(*01x20308*) Operacao_BloqueioAtuado								AT%MX501.3:  BOOL;
-		(*01x20309*) Reserva_20309											AT%MX501.4:  BOOL;
+		(*01x20309*) Operacao_PresencaTensao								AT%MX501.4:  BOOL;
 		(*01x20310*) Reserva_20310											AT%MX501.5:  BOOL;
 		(*01x20311*) Reserva_20311											AT%MX501.6:  BOOL;
 		(*01x20312*) Reserva_20312											AT%MX501.7:  BOOL;
@@ -893,6 +890,7 @@ status = '''
 		(*01x20734*) QTA_Bomba03_Ligada 									AT%MX527.13:  BOOL;
 		(*01x20735*) QTA_Bomba03_TRIP										AT%MX527.14:  BOOL;
 		(*01x20736*) Reserva_20736											AT%MX527.15:  BOOL;
+
 		(*01x20737*) Reserva_20737											AT%MX528.0: BOOL;
 		(*01x20738*) Reserva_20738											AT%MX528.1: BOOL;
 		(*01x20739*) Reserva_20739											AT%MX528.2: BOOL;
@@ -909,10 +907,11 @@ status = '''
 		(*01x20750*) Reserva_20750 											AT%MX528.13:  BOOL;
 		(*01x20751*) Reserva_20751											AT%MX528.14:  BOOL;
 		(*01x20752*) Reserva_20752											AT%MX528.15:  BOOL;
+
 		(*01x20753*) PSA_Emergencia											AT%MX529.0: BOOL;
 		(*01x20754*) PSA_NivelEmergenciaPoco								AT%MX529.1: BOOL;
-		(*01x20755*) Reserva_20755											AT%MX529.2: BOOL;
-		(*01x20756*) Reserva_20756											AT%MX529.3: BOOL;
+		(*01x20755*) PSA_Falha_Comunicacao								AT%MX529.2: BOOL;
+		(*01x20756*) PSA_MonitorBarragemLL									AT%MX529.3: BOOL;
 		(*01x20757*) Reserva_20757											AT%MX529.4: BOOL;
 		(*01x20758*) Reserva_20758											AT%MX529.5: BOOL;
 		(*01x20759*) Reserva_20759											AT%MX529.6:  BOOL;
@@ -929,146 +928,140 @@ status = '''
 
 leituras = '''
 
-(* --> Tabela de Leituras <-- *)
+	(*UHLM*)
+	(*04x13289*) UHLM_PressaoOleo											AT%MW1000: INT;
+	(*04x13290*) UHLM_VazaoOleo												AT%MW1001: INT;
+	(*04x13291*) Reserva_13291												AT%MW1002: INT;
+	(*04x13292*) Reserva_13292												AT%MW1003: INT;
+	(*04x13293*) Reserva_13293												AT%MW1004: INT;
+	(*04x13294*) Reserva_13294												AT%MW1005: INT;
 
-(*UHLM*)
-(*04x13289*) UHLM_PressaoOleo											AT%MW1000: INT;
-(*04x13290*) UHLM_VazaoOleo												AT%MW1001: INT;
-(*04x13291*) Reserva_13291												AT%MW1002: INT;
-(*04x13292*) Reserva_13292												AT%MW1003: INT;
-(*04x13293*) Reserva_13293												AT%MW1004: INT;
-(*04x13294*) Reserva_13294												AT%MW1005: INT;
+	(*UHRV*)
+	(*04x13295*) UHRV_PressaoOleo											AT%MW1006: INT;
+	(*04x13296*) Reserva_13296												AT%MW1007: INT;
+	(*04x13297*) Reserva_13297												AT%MW1008: INT;
+	(*04x13298*) Reserva_13298												AT%MW1009: INT;
+	(*04x13299*) Reserva_13299												AT%MW1010: INT;
+	(*04x13300*) Reserva_13300												AT%MW1011: INT;
 
-(*UHRV*)
-(*04x13295*) UHRV_PressaoOleo											AT%MW1006: INT;
-(*04x13296*) Reserva_13296												AT%MW1007: INT;
-(*04x13297*) Reserva_13297												AT%MW1008: INT;
-(*04x13298*) Reserva_13298												AT%MW1009: INT;
-(*04x13299*) Reserva_13299												AT%MW1010: INT;
-(*04x13300*) Reserva_13300												AT%MW1011: INT;
+	(*Turbinna*)
+	(*04x13301*) Turbina_JusanteBorboleta									AT%MW1012: INT;
+	(*04x13302*) Turbina_MontanteBorboleta									AT%MW1013: INT;
+	(*04x13303*) Turbina_PosicaoDistribuidor									AT%MW1014: REAL;
+	(*04x13305*) Turbina_PosicaoRotor											AT%MW1016: REAL;
+	(*04x13307*) Turbina_Velocidade											AT%MW1018: INT;
+	(*04x13308*) Turbina_Vazao													AT%MW1019: INT;
+	(*04x13309*) Turbina_Tempo_AberturaBorboleta							AT%MW1020: DINT;
+	(*04x13311*) Turbina_Tempo_AberturaBorboleta_Minuto					AT%MW1022: TIME;
+	(*04x13313*) Turbina_Tempo_FechamentoBorboleta						AT%MW1024: DINT;
+	(*04x13315*) Turbina_Tempo_FechamentoBorboleta_Minuto				AT%MW1026: TIME;
+	(*04x13317*) Turbina_Tempo_AberturaByPass								AT%MW1028: DINT;
+	(*04x13319*) Turbina_Tempo_AberturaByPass_Minuto					AT%MW1030: TIME;
+	(*04x13321*) Turbina_Tempo_FechamentoByPass						AT%MW1032: DINT;
+	(*04x13323*) Turbina_Tempo_FechamentoByPass_Minuto				AT%MW1034: TIME;
+	(*04x13325*) Turbina_TempoEqualizacao	 								AT%MW1036: DINT;
+	(*04x13327*) Turbina_TempoEqualizacao_Minuto							AT%MW1038: TIME;
+	(*04x13329*) Turbina_Vibracao01											AT%MW1040: INT;
+	(*04x13330*) Turbina_Vibracao02											AT%MW1041: INT;
+	(*04x13331*) Turbina_Vibracao03											AT%MW1042: INT;
+	(*04x13332*) Turbina_Vibracao04											AT%MW1043: INT;
+	(*04x13333*) Turbina_Vibracao05											AT%MW1044: INT;
+	(*04x13334*) Turbina_Vibracao06											AT%MW1045: INT;
+	(*04x13335*) Turbina_Vibracao07											AT%MW1046: INT;
+	(*04x13336*) Turbina_Vibracao08											AT%MW1047: INT;
+	(*04x13337*) Turbina_Vibracao09											AT%MW1048: INT;
+	(*04x13338*) Turbina_Vibracao10											AT%MW1049: INT;
+	(*04x13339*) Reserva_13337												AT%MW1050: INT;
+	(*04x13340*) Reserva_13338												AT%MW1051: INT;
+	(*04x13341*) Reserva_13339												AT%MW1052: INT;
+	(*04x13342*) Reserva_13340												AT%MW1053: INT;
+	(*04x13343*) Reserva_13341												AT%MW1054: INT;
+	(*04x13344*) Reserva_13342												AT%MW1055: INT;
+	(*04x13345*) Reserva_13343												AT%MW1056: INT;
+	(*04x13346*) Reserva_13344												AT%MW1057: INT;
+	(*04x13347*) Reserva_13345												AT%MW1058: INT;
+	(*04x13348*) Reserva_13346												AT%MW1059: INT;
 
-(*Turbinna*)
-(*04x13301*) Turbina_JusanteBorboleta									AT%MW1012: INT;
-(*04x13302*) Turbina_MontanteBorboleta									AT%MW1013: INT;
-(*04x13303*) Turbina_PosicaoDistribuidor									AT%MW1014: REAL;
-(*04x13305*) Turbina_PosicaoRotor											AT%MW1016: REAL;
-(*04x13307*) Turbina_Velocidade											AT%MW1018: INT;
-(*04x13308*) Turbina_Vazao													AT%MW1019: INT;
-(*04x13309*) Turbina_Tempo_AberturaBorboleta							AT%MW1020: DINT;
-(*04x13311*) Turbina_Tempo_AberturaBorboleta_Minuto					AT%MW1022: TIME;
-(*04x13313*) Turbina_Tempo_FechamentoBorboleta						AT%MW1024: DINT;
-(*04x13315*) Turbina_Tempo_FechamentoBorboleta_Minuto				AT%MW1026: TIME;
-(*04x13317*) Turbina_Tempo_AberturaByPass								AT%MW1028: DINT;
-(*04x13319*) Turbina_Tempo_AberturaByPass_Minuto					AT%MW1030: TIME;
-(*04x13321*) Turbina_Tempo_FechamentoByPass						AT%MW1032: DINT;
-(*04x13323*) Turbina_Tempo_FechamentoByPass_Minuto				AT%MW1034: TIME;
-(*04x13325*) Turbina_TempoEqualizacao	 								AT%MW1036: DINT;
-(*04x13327*) Turbina_TempoEqualizacao_Minuto							AT%MW1038: TIME;
-(*04x13329*) Turbina_Vibracao01											AT%MW1040: INT;
-(*04x13330*) Turbina_Vibracao02											AT%MW1041: INT;
-(*04x13331*) Turbina_Vibracao03											AT%MW1042: INT;
-(*04x13332*) Turbina_Vibracao04											AT%MW1043: INT;
-(*04x13333*) Turbina_Vibracao05											AT%MW1044: INT;
-(*04x13334*) Turbina_Vibracao06											AT%MW1045: INT;
-(*04x13335*) Turbina_Vibracao07											AT%MW1046: INT;
-(*04x13336*) Turbina_Vibracao08											AT%MW1047: INT;
-(*04x13337*) Turbina_Vibracao09											AT%MW1048: INT;
-(*04x13338*) Turbina_Vibracao10											AT%MW1049: INT;
-(*04x13339*) Reserva_13337												AT%MW1050: INT;
-(*04x13340*) Reserva_13338												AT%MW1051: INT;
-(*04x13341*) Reserva_13339												AT%MW1052: INT;
-(*04x13342*) Reserva_13340												AT%MW1053: INT;
-(*04x13343*) Reserva_13341												AT%MW1054: INT;
-(*04x13344*) Reserva_13342												AT%MW1055: INT;
-(*04x13345*) Reserva_13343												AT%MW1056: INT;
-(*04x13346*) Reserva_13344												AT%MW1057: INT;
-(*04x13347*) Reserva_13345												AT%MW1058: INT;
-(*04x13348*) Reserva_13346												AT%MW1059: INT;
+	(*Gerador*)
+	(*04x13349*)	F50_U_FaseAB												AT%MW1060: INT;
+	(*04x13350*)	F50_U_FaseBC												AT%MW1061: INT;
+	(*04x13351*)	F50_U_FaseCA												AT%MW1062: INT;
+	(*04x13352*)	F50_U_Neutro												AT%MW1063: INT;
+	(*04x13353*)	F50_U_FaseAN												AT%MW1064: INT;
+	(*04x13354*)	F50_U_FaseBN												AT%MW1065: INT;
+	(*04x13355*)	F50_U_FaseCN												AT%MW1066: INT;
+	(*04x13356*)	F50_I_FaseA													AT%MW1067: INT;
+	(*04x13357*)	F50_I_FaseB													AT%MW1068: INT;
+	(*04x13358*)	F50_I_FaseC													AT%MW1069: INT;
+	(*04x13359*)	F50_I_Neutro													AT%MW1070: INT;
+	(*04x13360*)	F50_P_INST													AT%MW1071: INT;
+	(*04x13361*)	F50_Q_INST													AT%MW1072: INT;
+	(*04x13362*)	F50_S_INST													AT%MW1073: INT;
+	(*04x13363*)	F50_PF_INST													AT%MW1074: INT;
+	(*04x13364*)	F50_FHz_INST												AT%MW1075: INT;
+	(*04x13365*)	F50_U_SeqPos												AT%MW1076: INT;
+	(*04x13366*)	F50_U_SeqNeg												AT%MW1077: INT;
+	(*04x13367*)	F50_U_SeqZero												AT%MW1078: INT;
+	(*04x13368*)	F50_I_SeqPos												AT%MW1079: INT;
+	(*04x13369*)	F50_I_SeqNeg												AT%MW1080: INT;
+	(*04x13370*)	F50_I_SeqZero												AT%MW1081: INT;
+	(*04x13371*)	Reserva_13369												AT%MW1082: INT;
+	(*04x13372*)	Reserva_13370												AT%MW1083: INT;
+	(*04x13373*)	Reserva_13371												AT%MW1084: INT;
+	(*04x13374*)	Reserva_13372												AT%MW1085: INT;
+	(*04x13375*)	Reserva_13373												AT%MW1086: INT;
+	(*04x13376*)	Reserva_13374												AT%MW1087: INT;
+	(*04x13377*)	Reserva_13375												AT%MW1088: INT;
+	(*04x13378*)	Reserva_13376												AT%MW1089: INT;
+	(*04x13379*)	Gerador_Vbarra												AT%MW1090: INT;
+	(*04x13380*)	Gerador_ExcitacaoTensao									AT%MW1091: INT;
+	(*04x13381*)	Gerador_ExcitacaoCorrente									AT%MW1092: INT;
 
-(*Gerador*)
-(*04x13349*)	F50_U_FaseAB												AT%MW1060: INT;
-(*04x13350*)	F50_U_FaseBC												AT%MW1061: INT;
-(*04x13351*)	F50_U_FaseCA												AT%MW1062: INT;
-(*04x13352*)	F50_U_FaseAN												AT%MW1063: INT;
-(*04x13353*)	F50_U_FaseBN												AT%MW1064: INT;
-(*04x13354*)	F50_U_FaseCN												AT%MW1065: INT;
-(*04x13355*)	F50_I_FaseA													AT%MW1066: INT;
-(*04x13356*)	F50_I_FaseB													AT%MW1067: INT;
-(*04x13357*)	F50_I_FaseC													AT%MW1068: INT;
-(*04x13358*)	F50_I_Neutro													AT%MW1069: INT;
-(*04x13359*)	F50_P_INST													AT%MW1070: INT;
-(*04x13360*)	F50_Q_INST													AT%MW1071: INT;
-(*04x13361*)	F50_S_INST													AT%MW1072: INT;
-(*04x13362*)	F50_PF_INST													AT%MW1073: INT;
-(*04x13363*)	F50_FHz_INST												AT%MW1074: INT;
-(*04x13364*)	F50_U_Seq_Pos												AT%MW1075: INT;
-(*04x13365*)	F50_U_Seq_Neg												AT%MW1076: INT;
-(*04x13366*)	F50_U_Seq_Zero												AT%MW1077: INT;
-(*04x13367*)	F50_I_Seq_Pos												AT%MW1078: INT;
-(*04x13368*)	F50_I_Seq_Neg												AT%MW1079: INT;
-(*04x13369*)	F50_I_Seq_Zero												AT%MW1080: INT;
-(*04x13370*)	Reserva_13368												AT%MW1081: INT;
-(*04x13371*)	Reserva_13369												AT%MW1082: INT;
-(*04x13372*)	Reserva_13370												AT%MW1083: INT;
-(*04x13373*)	Reserva_13371												AT%MW1084: INT;
-(*04x13374*)	Reserva_13372												AT%MW1085: INT;
-(*04x13375*)	Reserva_13373												AT%MW1086: INT;
-(*04x13376*)	Reserva_13374												AT%MW1087: INT;
-(*04x13377*)	Reserva_13375												AT%MW1088: INT;
-(*04x13378*)	Reserva_13376												AT%MW1089: INT;
-(*04x13379*)	Gerador_Vbarra												AT%MW1090: INT;
-(*04x13380*)	Gerador_ExcitacaoTensao									AT%MW1091: INT;
-(*04x13381*)	Gerador_ExcitacaoCorrente									AT%MW1092: INT;
+	(*04x13407*)	Gerador_Media_Varm										AT%MW1118: INT;
+	(*04x13408*)	Gerador_Media_Iarm											AT%MW1119: INT;
 
-(*04x13407*)	Gerador_Media_Varm										AT%MW1118: INT;
-(*04x13408*)	Gerador_Media_Iarm											AT%MW1119: INT;
+	(*Temperaturas*)
+	(*04x13409*) 	MED_750450_AR1_RTD1   									AT%MW1120: REAL;
+	(*04x13411*)	MED_750450_AR1_RTD2									AT%MW1122: REAL;
+	(*04x13413*)	MED_750450_AR1_RTD3									AT%MW1124: REAL;
+	(*04x13415*)	MED_750450_AR1_RTD4 									AT%MW1126: REAL;
+	(*04x13417*)	MED_750450_AR2_RTD1									AT%MW1128: REAL;
+	(*04x13419*)	MED_750450_AR2_RTD2									AT%MW1130: REAL;
+	(*04x13421*)	MED_750450_AR2_RTD3									AT%MW1132: REAL;
+	(*04x13423*)	MED_750450_AR2_RTD4									AT%MW1134: REAL;
+	(*04x13425*)	MED_750450_AR3_RTD1									AT%MW1136: REAL;
+	(*04x13427*)	MED_750450_AR3_RTD2									AT%MW1138: REAL;
+	(*04x13429*)	MED_750450_AR3_RTD3									AT%MW1140: REAL;
+	(*04x13431*)	MED_750450_AR3_RTD4									AT%MW1142: REAL;
+	(*04x13433*)	MED_750450_AR4_RTD1									AT%MW1144: REAL;
+	(*04x13435*)	MED_750450_AR4_RTD2									AT%MW1146: REAL;
+	(*04x13437*)	MED_750450_AR4_RTD3									AT%MW1148: REAL;
+	(*04x13439*)	MED_750450_AR4_RTD4									AT%MW1150: REAL;
+	(*04x13441*) 	MED_750450_AR5_RTD1   									AT%MW1152: REAL;
+	(*04x13443*)	MED_750450_AR5_RTD2									AT%MW1154: REAL;
+	(*04x13445*)	MED_750450_AR5_RTD3									AT%MW1156: REAL;
+	(*04x13447*)	MED_750450_AR5_RTD4 									AT%MW1158: REAL;
+	(*04x13449*)	MED_750450_AR6_RTD1									AT%MW1160: REAL;
+	(*04x13451*)	MED_750450_AR6_RTD2									AT%MW1162: REAL;
+	(*04x13453*)	MED_750450_AR6_RTD3									AT%MW1164: REAL;
+	(*04x13455*)	MED_750450_AR6_RTD4									AT%MW1166: REAL;
+	(*04x13457*)	MED_750450_AR7_RTD1									AT%MW1168: REAL;
+	(*04x13459*)	MED_750450_AR7_RTD2									AT%MW1170: REAL;
+	(*04x13461*)	MED_750450_AR7_RTD3									AT%MW1172: REAL;
+	(*04x13463*)	MED_750450_AR7_RTD4									AT%MW1174: REAL;
+	(*04x13465*)	MED_750450_AR8_RTD1									AT%MW1176: REAL;
+	(*04x13467*)	MED_750450_AR8_RTD2									AT%MW1178: REAL;
+	(*04x13469*)	MED_750450_AR8_RTD3									AT%MW1180: REAL;
+	(*04x13471*)	MED_750450_AR8_RTD4									AT%MW1182: REAL;
 
-(*Temperaturas*)
-(*04x13409*) 	MED_750450_AR1_RTD1   									AT%MW1120: REAL;
-(*04x13411*)	MED_750450_AR1_RTD2									AT%MW1122: REAL;
-(*04x13413*)	MED_750450_AR1_RTD3									AT%MW1124: REAL;
-(*04x13415*)	MED_750450_AR1_RTD4 									AT%MW1126: REAL;
-(*04x13417*)	MED_750450_AR2_RTD1									AT%MW1128: REAL;
-(*04x13419*)	MED_750450_AR2_RTD2									AT%MW1130: REAL;
-(*04x13421*)	MED_750450_AR2_RTD3									AT%MW1132: REAL;
-(*04x13423*)	MED_750450_AR2_RTD4									AT%MW1134: REAL;
-(*04x13425*)	MED_750450_AR3_RTD1									AT%MW1136: REAL;
-(*04x13427*)	MED_750450_AR3_RTD2									AT%MW1138: REAL;
-(*04x13429*)	MED_750450_AR3_RTD3									AT%MW1140: REAL;
-(*04x13431*)	MED_750450_AR3_RTD4									AT%MW1142: REAL;
-(*04x13433*)	MED_750450_AR4_RTD1									AT%MW1144: REAL;
-(*04x13435*)	MED_750450_AR4_RTD2									AT%MW1146: REAL;
-(*04x13437*)	MED_750450_AR4_RTD3									AT%MW1148: REAL;
-(*04x13439*)	MED_750450_AR4_RTD4									AT%MW1150: REAL;
-(*04x13441*) 	MED_750450_AR5_RTD1   									AT%MW1152: REAL;
-(*04x13443*)	MED_750450_AR5_RTD2									AT%MW1154: REAL;
-(*04x13445*)	MED_750450_AR5_RTD3									AT%MW1156: REAL;
-(*04x13447*)	MED_750450_AR5_RTD4 									AT%MW1158: REAL;
-(*04x13449*)	MED_750450_AR6_RTD1									AT%MW1160: REAL;
-(*04x13451*)	MED_750450_AR6_RTD2									AT%MW1162: REAL;
-(*04x13453*)	MED_750450_AR6_RTD3									AT%MW1164: REAL;
-(*04x13455*)	MED_750450_AR6_RTD4									AT%MW1166: REAL;
-(*04x13457*)	MED_750450_AR7_RTD1									AT%MW1168: REAL;
-(*04x13459*)	MED_750450_AR7_RTD2									AT%MW1170: REAL;
-(*04x13461*)	MED_750450_AR7_RTD3									AT%MW1172: REAL;
-(*04x13463*)	MED_750450_AR7_RTD4									AT%MW1174: REAL;
-(*04x13465*)	MED_750450_AR8_RTD1									AT%MW1176: REAL;
-(*04x13467*)	MED_750450_AR8_RTD2									AT%MW1178: REAL;
-(*04x13469*)	MED_750450_AR8_RTD3									AT%MW1180: REAL;
-(*04x13471*)	MED_750450_AR8_RTD4									AT%MW1182: REAL;
-
-(*Monitor Barragem*)
-(*04x13473*) QCC_NivelMontante_Grade									AT%MW1184: INT;
-(*04x13474*) QCC_NivelJusante_Grade									AT%MW1185: INT;
-(*04x13475*) QTA_NivelJusante_CanalFuga								AT%MW1186: INT;
-(*04x13476*) QTA_NivelMontante_Grade									AT%MW1187: INT;
-(*04x13477*) QTA_NivelJusante_Grade										AT%MW1188: INT;
+	(*Monitor Barragem*)
+	(*04x13473*) QCC_NivelMontante_Grade									AT%MW1184: INT;
+	(*04x13474*) QCC_NivelJusante_Grade									AT%MW1185: INT;
+	(*04x13475*) QTA_NivelJusante_CanalFuga								AT%MW1186: INT;
+	(*04x13476*) QTA_NivelMontante_Grade									AT%MW1187: INT;
+	(*04x13477*) QTA_NivelJusante_Grade										AT%MW1188: INT;
 '''
 setpoints = '''
-	(* --> Tabela de Setpoint <-- *)
-
-					Setpoints								AT%MW1500: ARRAY [001..256] OF INT;
-
 	(*UHLM*)
 	(*04x13789*)	Setpoint_UHLM_Pressao_Maxima	AT%MW1500: INT;
 	(*04x13790*)	Setpoint_UHLM_Pressao_Minima	AT%MW1501: INT;
@@ -1256,7 +1249,6 @@ setpoints = '''
 	(*04x14121*)	Horimetro_UHLM_Ultimo				AT%MW1832: REAL;
 '''
 horimetro = '''
-(*(*04x13623*)	Gerador_EnergiaFornecidakWh								AT%MW1334: REAL;*)
 (*04x13383*)	Gerador_EnergiaFornecidakWh								AT%MW1094: REAL;
 (*04x13385*)	Gerador_EnergiaFornecidaMWh								AT%MW1096: REAL;
 (*04x13387*)	Gerador_EnergiaFornecidaGWh								AT%MW1098: REAL;

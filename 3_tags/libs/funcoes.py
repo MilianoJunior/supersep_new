@@ -87,8 +87,15 @@ def tratamento_tags(usina: dict, verbose=False):
     tags = transform_list_to_dict(tags) # transforma uma lista em um dicionário
 
     if verbose:
+        cont = 0
         for tag in tags.items():
-            [print(tag[0], i, len(i)) for i in tag[1]]
+            for s in tag[1]:
+                if len(s) < 5:
+                    print(s)
+                    raise Exception('Erro no tratamento das tags')
+                cont += 1
+
+            # [print(tag[0], i, x, len(x)) for i, x in enumerate(tag[1])]
 
     return tags
 
@@ -167,7 +174,7 @@ def implementar_tags_no_csv(usina: dict, verbose=False):
 
     df = construct_tags(ugs, tags, df, verbose=verbose) # implementa as tags no arquivo no formato csv
 
-    # # verificar a quantidade de address duplicados por device_name
+    # verificar a quantidade de address duplicados por device_name
     # for ug in ugs:
     #     print('--' * 50)
     #     print(f'Duplicados: {ug}')

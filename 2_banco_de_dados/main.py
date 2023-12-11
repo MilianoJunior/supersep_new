@@ -89,8 +89,13 @@ usinas = {
         'numero_turbinas': 1,
         'estado': 'Andamento.',
     },
+    '8': {
+            'nome': 'cgh_jasp',
+            'numero_turbinas': 4,
+            'estado': 'Andamento.',
+        },
 }
-ug = '7'
+ug = '8'
 nome_usina = usinas[ug]['nome']
 numero_turbinas = usinas[ug]['numero_turbinas']
 
